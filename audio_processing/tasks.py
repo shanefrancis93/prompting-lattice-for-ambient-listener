@@ -5,11 +5,10 @@ import wave
 import datetime
 from models import Clip, SessionLocal, init_db
 from sqlalchemy.exc import IntegrityError
-from celery_app import celery
 import whisper
 import json
 
-UPLOADS_DIR = "uploads"
+UPLOADS_DIR = r"C:\\Users\\SFEco\\OneDrive\\Desktop\\AI\\MyThoughts\\MyThoughtsServer\\upload_server\\uploads"
 WAV_DIR = os.path.join("data", "wav")
 ASR_DIR = os.path.join("data", "asr")
 os.makedirs(WAV_DIR, exist_ok=True)
@@ -18,7 +17,6 @@ os.makedirs(ASR_DIR, exist_ok=True)
 init_db()
 
 # Transcription task
-@celery.task
 def transcribe_clip(clip_id):
     session = SessionLocal()
     clip = session.query(Clip).filter_by(clip_id=clip_id).first()
@@ -42,10 +40,9 @@ def transcribe_clip(clip_id):
     print(f"[ASR] Saved transcript to {asr_path}")
     session.close()
 
-@celery.task
 def pipeline_process_clip(clip_id):
     print(f"[Pipeline] Processing {clip_id}")
-    transcribe_clip.delay(clip_id)
+    transcribe_clip(clip_id)
     session = SessionLocal()
     clip = session.query(Clip).filter_by(clip_id=clip_id).first()
     if clip:
@@ -54,13 +51,12 @@ def pipeline_process_clip(clip_id):
         print(f"[Pipeline] {clip_id} marked as processed.")
     session.close()
 
-@celery.task
 def scan_and_enqueue():
     session = SessionLocal()
     clips = session.query(Clip).filter_by(status="pending").all()
     for clip in clips:
         print(f"[Enqueue] Found pending clip {clip.clip_id}")
-        pipeline_process_clip.delay(clip.clip_id)
+        pipeline_process_clip(clip.clip_id)
         clip.status = "queued"
     session.commit()
     session.close()

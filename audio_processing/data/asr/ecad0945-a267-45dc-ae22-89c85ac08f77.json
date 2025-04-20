@@ -1,0 +1,4910 @@
+{
+  "text": " to link events in ways that suggest the larger stakes and the larger consequences of particular episodes and crises. I think the ability to do this is one of the most valuable things that historical training can offer. And if you come out of this class feeling that you are better able to link the particular to the cosmic, then I will feel that I have done my job. We could talk more about events in the world today, but doing so would not necessarily give you a clear sense of what this semester's lecture class is about. So, having sort of given you a sense of what I want to accomplish in terms of the larger pedagogical objectives in this class, I would like to take you through the nuts and bolts of the class so that you know exactly what we're going to be doing over the course of the semester ahead. I should also say, particularly at this point, now that we're going through the specifics, if you have any questions, please do interrupt. And that goes for the entire semester. If you have any questions at any point, if anything is unclear, just raise your hand and I'll be glad to field questions. I don't want you to think that you have to wait until the end of the lecture to field questions. Have any of you been in lecture classes with me before? Okay, so you know that I can run like right to the end of the allotted sessions. So, if you save your questions to the end, you might not get to ask them. So, raise your hands and, you know, interrupt and I'll be happy. Okay, what are we going to be doing in this lecture theater this semester? What is this class all about? How are we going to accomplish what I've just promised to do? Well, the class is really about the post-war world. It's really a history of the world since 1945. It's not a comprehensive history of the world since 1945. There is a great deal that is left out. It would be impossible in a single semester to do a total history of the modern world. Rather than tell you what I've left out, you'll figure that out as we go along, let me tell you about what the class focuses on. What are our priorities for the semester? The class is most interested in sort of big international themes in geopolitics, the clash of great power rivalries, in the march of decolonization, the transformation of relations between the world's most affluent minority, the global north, and its impoverished majority, the global south, and in sort of what we might call global economics or geoeconomics. The march of globalization and its implications for international relations will be a sort of central concern. So if there are two sort of narrative strands that run most boldly through the lecture series ahead, they are, you know, I would suggest as geopolitics or sort of great power conflicts and global political economy. So thinking about the changing organization of the world economy and the distribution of resources within it. This course is fundamentally interested in the international panorama, that is with dealing with the world as a whole. Of course, comprehending, you know, complex events in world history requires us to pay careful attention to the interior histories of nation states. But we won't be focusing on just one or two nation states. Rather, we'll be, you know, sort of shifting our focus as the global panorama requires us to do.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.64,
+      "text": " to link events in ways that suggest the larger stakes and the larger consequences of particular",
+      "tokens": [
+        50363,
+        284,
+        2792,
+        2995,
+        287,
+        2842,
+        326,
+        1950,
+        262,
+        4025,
+        21147,
+        290,
+        262,
+        4025,
+        6948,
+        286,
+        1948,
+        50797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13530327552972837,
+      "compression_ratio": 1.676991150442478,
+      "no_speech_prob": 0.08820825070142746,
+      "words": [
+        {
+          "word": " to",
+          "start": 0.0,
+          "end": 0.9,
+          "probability": 0.2625119388103485
+        },
+        {
+          "word": " link",
+          "start": 0.9,
+          "end": 1.14,
+          "probability": 0.9739305377006531
+        },
+        {
+          "word": " events",
+          "start": 1.14,
+          "end": 1.6,
+          "probability": 0.9957745671272278
+        },
+        {
+          "word": " in",
+          "start": 1.6,
+          "end": 2.18,
+          "probability": 0.9868402481079102
+        },
+        {
+          "word": " ways",
+          "start": 2.18,
+          "end": 2.6,
+          "probability": 0.9969689249992371
+        },
+        {
+          "word": " that",
+          "start": 2.6,
+          "end": 3.16,
+          "probability": 0.9981569647789001
+        },
+        {
+          "word": " suggest",
+          "start": 3.16,
+          "end": 4.36,
+          "probability": 0.9359535574913025
+        },
+        {
+          "word": " the",
+          "start": 4.36,
+          "end": 5.32,
+          "probability": 0.9875031113624573
+        },
+        {
+          "word": " larger",
+          "start": 5.32,
+          "end": 5.66,
+          "probability": 0.6449272632598877
+        },
+        {
+          "word": " stakes",
+          "start": 5.66,
+          "end": 6.04,
+          "probability": 0.9926456212997437
+        },
+        {
+          "word": " and",
+          "start": 6.04,
+          "end": 6.28,
+          "probability": 0.9557855725288391
+        },
+        {
+          "word": " the",
+          "start": 6.28,
+          "end": 6.42,
+          "probability": 0.9624689817428589
+        },
+        {
+          "word": " larger",
+          "start": 6.42,
+          "end": 6.66,
+          "probability": 0.9868237972259521
+        },
+        {
+          "word": " consequences",
+          "start": 6.66,
+          "end": 7.4,
+          "probability": 0.9966915845870972
+        },
+        {
+          "word": " of",
+          "start": 7.4,
+          "end": 8.08,
+          "probability": 0.9960903525352478
+        },
+        {
+          "word": " particular",
+          "start": 8.08,
+          "end": 8.64,
+          "probability": 0.9759105443954468
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.64,
+      "end": 15.06,
+      "text": " episodes and crises. I think the ability to do this is one of the most valuable things that",
+      "tokens": [
+        50797,
+        8640,
+        290,
+        25712,
+        13,
+        314,
+        892,
+        262,
+        2694,
+        284,
+        466,
+        428,
+        318,
+        530,
+        286,
+        262,
+        749,
+        8119,
+        1243,
+        326,
+        51109
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13530327552972837,
+      "compression_ratio": 1.676991150442478,
+      "no_speech_prob": 0.08820825070142746,
+      "words": [
+        {
+          "word": " episodes",
+          "start": 8.64,
+          "end": 9.26,
+          "probability": 0.9922703504562378
+        },
+        {
+          "word": " and",
+          "start": 9.26,
+          "end": 9.58,
+          "probability": 0.9736350774765015
+        },
+        {
+          "word": " crises.",
+          "start": 9.58,
+          "end": 9.96,
+          "probability": 0.9754117131233215
+        },
+        {
+          "word": " I",
+          "start": 10.26,
+          "end": 10.34,
+          "probability": 0.9734123945236206
+        },
+        {
+          "word": " think",
+          "start": 10.34,
+          "end": 10.54,
+          "probability": 0.9961219429969788
+        },
+        {
+          "word": " the",
+          "start": 10.54,
+          "end": 10.8,
+          "probability": 0.9857285618782043
+        },
+        {
+          "word": " ability",
+          "start": 10.8,
+          "end": 11.1,
+          "probability": 0.9995062351226807
+        },
+        {
+          "word": " to",
+          "start": 11.1,
+          "end": 11.32,
+          "probability": 0.9990115165710449
+        },
+        {
+          "word": " do",
+          "start": 11.32,
+          "end": 11.48,
+          "probability": 0.9981259703636169
+        },
+        {
+          "word": " this",
+          "start": 11.48,
+          "end": 11.76,
+          "probability": 0.9984857439994812
+        },
+        {
+          "word": " is",
+          "start": 11.76,
+          "end": 12.64,
+          "probability": 0.9939877986907959
+        },
+        {
+          "word": " one",
+          "start": 12.64,
+          "end": 13.74,
+          "probability": 0.9962826371192932
+        },
+        {
+          "word": " of",
+          "start": 13.74,
+          "end": 13.84,
+          "probability": 0.9989328980445862
+        },
+        {
+          "word": " the",
+          "start": 13.84,
+          "end": 13.94,
+          "probability": 0.999151349067688
+        },
+        {
+          "word": " most",
+          "start": 13.94,
+          "end": 14.12,
+          "probability": 0.999086856842041
+        },
+        {
+          "word": " valuable",
+          "start": 14.12,
+          "end": 14.46,
+          "probability": 0.9987273812294006
+        },
+        {
+          "word": " things",
+          "start": 14.46,
+          "end": 14.86,
+          "probability": 0.9977177381515503
+        },
+        {
+          "word": " that",
+          "start": 14.86,
+          "end": 15.06,
+          "probability": 0.9949749708175659
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.06,
+      "end": 20.8,
+      "text": " historical training can offer. And if you come out of this class feeling that you are better",
+      "tokens": [
+        51109,
+        6754,
+        3047,
+        460,
+        2897,
+        13,
+        843,
+        611,
+        345,
+        1282,
+        503,
+        286,
+        428,
+        1398,
+        4203,
+        326,
+        345,
+        389,
+        1365,
+        51401
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13530327552972837,
+      "compression_ratio": 1.676991150442478,
+      "no_speech_prob": 0.08820825070142746,
+      "words": [
+        {
+          "word": " historical",
+          "start": 15.06,
+          "end": 15.52,
+          "probability": 0.9577966332435608
+        },
+        {
+          "word": " training",
+          "start": 15.52,
+          "end": 15.9,
+          "probability": 0.9984731078147888
+        },
+        {
+          "word": " can",
+          "start": 15.9,
+          "end": 16.4,
+          "probability": 0.998968243598938
+        },
+        {
+          "word": " offer.",
+          "start": 16.4,
+          "end": 16.86,
+          "probability": 0.9991979002952576
+        },
+        {
+          "word": " And",
+          "start": 17.14,
+          "end": 17.56,
+          "probability": 0.9509090781211853
+        },
+        {
+          "word": " if",
+          "start": 17.56,
+          "end": 17.68,
+          "probability": 0.9646516442298889
+        },
+        {
+          "word": " you",
+          "start": 17.68,
+          "end": 17.82,
+          "probability": 0.999305009841919
+        },
+        {
+          "word": " come",
+          "start": 17.82,
+          "end": 17.96,
+          "probability": 0.997931718826294
+        },
+        {
+          "word": " out",
+          "start": 17.96,
+          "end": 18.16,
+          "probability": 0.999269425868988
+        },
+        {
+          "word": " of",
+          "start": 18.16,
+          "end": 18.28,
+          "probability": 0.9968268275260925
+        },
+        {
+          "word": " this",
+          "start": 18.28,
+          "end": 18.44,
+          "probability": 0.9978163242340088
+        },
+        {
+          "word": " class",
+          "start": 18.44,
+          "end": 18.86,
+          "probability": 0.9987672567367554
+        },
+        {
+          "word": " feeling",
+          "start": 18.86,
+          "end": 19.54,
+          "probability": 0.9834185242652893
+        },
+        {
+          "word": " that",
+          "start": 19.54,
+          "end": 19.84,
+          "probability": 0.9851558804512024
+        },
+        {
+          "word": " you",
+          "start": 19.84,
+          "end": 19.98,
+          "probability": 0.99868243932724
+        },
+        {
+          "word": " are",
+          "start": 19.98,
+          "end": 20.42,
+          "probability": 0.9914758205413818
+        },
+        {
+          "word": " better",
+          "start": 20.42,
+          "end": 20.8,
+          "probability": 0.9987480640411377
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.8,
+      "end": 29.06,
+      "text": " able to link the particular to the cosmic, then I will feel that I have done my job. We could talk",
+      "tokens": [
+        51401,
+        1498,
+        284,
+        2792,
+        262,
+        1948,
+        284,
+        262,
+        23464,
+        11,
+        788,
+        314,
+        481,
+        1254,
+        326,
+        314,
+        423,
+        1760,
+        616,
+        1693,
+        13,
+        775,
+        714,
+        1561,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13530327552972837,
+      "compression_ratio": 1.676991150442478,
+      "no_speech_prob": 0.08820825070142746,
+      "words": [
+        {
+          "word": " able",
+          "start": 20.8,
+          "end": 21.18,
+          "probability": 0.9982522130012512
+        },
+        {
+          "word": " to",
+          "start": 21.18,
+          "end": 21.72,
+          "probability": 0.9973602890968323
+        },
+        {
+          "word": " link",
+          "start": 21.72,
+          "end": 21.98,
+          "probability": 0.999007523059845
+        },
+        {
+          "word": " the",
+          "start": 21.98,
+          "end": 22.2,
+          "probability": 0.9709764122962952
+        },
+        {
+          "word": " particular",
+          "start": 22.2,
+          "end": 22.66,
+          "probability": 0.8775172829627991
+        },
+        {
+          "word": " to",
+          "start": 22.66,
+          "end": 23.7,
+          "probability": 0.983852744102478
+        },
+        {
+          "word": " the",
+          "start": 23.7,
+          "end": 24.14,
+          "probability": 0.9981520771980286
+        },
+        {
+          "word": " cosmic,",
+          "start": 24.14,
+          "end": 24.72,
+          "probability": 0.9732342958450317
+        },
+        {
+          "word": " then",
+          "start": 25.1,
+          "end": 25.38,
+          "probability": 0.9773088097572327
+        },
+        {
+          "word": " I",
+          "start": 25.38,
+          "end": 25.5,
+          "probability": 0.9929521679878235
+        },
+        {
+          "word": " will",
+          "start": 25.5,
+          "end": 25.64,
+          "probability": 0.9665529727935791
+        },
+        {
+          "word": " feel",
+          "start": 25.64,
+          "end": 25.86,
+          "probability": 0.9984595775604248
+        },
+        {
+          "word": " that",
+          "start": 25.86,
+          "end": 26.16,
+          "probability": 0.9928579330444336
+        },
+        {
+          "word": " I",
+          "start": 26.16,
+          "end": 26.28,
+          "probability": 0.9974797368049622
+        },
+        {
+          "word": " have",
+          "start": 26.28,
+          "end": 26.48,
+          "probability": 0.9951074123382568
+        },
+        {
+          "word": " done",
+          "start": 26.48,
+          "end": 26.72,
+          "probability": 0.999171257019043
+        },
+        {
+          "word": " my",
+          "start": 26.72,
+          "end": 27.26,
+          "probability": 0.9973363280296326
+        },
+        {
+          "word": " job.",
+          "start": 27.26,
+          "end": 27.64,
+          "probability": 0.9997245669364929
+        },
+        {
+          "word": " We",
+          "start": 28.42,
+          "end": 28.66,
+          "probability": 0.9972676038742065
+        },
+        {
+          "word": " could",
+          "start": 28.66,
+          "end": 28.84,
+          "probability": 0.9953951239585876
+        },
+        {
+          "word": " talk",
+          "start": 28.84,
+          "end": 29.06,
+          "probability": 0.9993042945861816
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2906,
+      "start": 29.06,
+      "end": 36.64,
+      "text": " more about events in the world today, but doing so would not necessarily give you a clear sense of",
+      "tokens": [
+        50365,
+        517,
+        546,
+        2995,
+        287,
+        262,
+        995,
+        1909,
+        11,
+        475,
+        1804,
+        523,
+        561,
+        407,
+        6646,
+        1577,
+        345,
+        257,
+        1598,
+        2565,
+        286,
+        50719
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13334165735447662,
+      "compression_ratio": 1.676595744680851,
+      "no_speech_prob": 0.00480271689593792,
+      "words": [
+        {
+          "word": " more",
+          "start": 29.06,
+          "end": 29.3,
+          "probability": 0.2948217988014221
+        },
+        {
+          "word": " about",
+          "start": 29.3,
+          "end": 30.18,
+          "probability": 0.9624618887901306
+        },
+        {
+          "word": " events",
+          "start": 30.18,
+          "end": 31.16,
+          "probability": 0.7161316871643066
+        },
+        {
+          "word": " in",
+          "start": 31.16,
+          "end": 31.4,
+          "probability": 0.9891988635063171
+        },
+        {
+          "word": " the",
+          "start": 31.4,
+          "end": 31.82,
+          "probability": 0.998362123966217
+        },
+        {
+          "word": " world",
+          "start": 31.82,
+          "end": 32.02,
+          "probability": 0.9573854804039001
+        },
+        {
+          "word": " today,",
+          "start": 32.02,
+          "end": 32.5,
+          "probability": 0.9949746131896973
+        },
+        {
+          "word": " but",
+          "start": 32.94,
+          "end": 33.0,
+          "probability": 0.9825282692909241
+        },
+        {
+          "word": " doing",
+          "start": 33.0,
+          "end": 33.22,
+          "probability": 0.989940345287323
+        },
+        {
+          "word": " so",
+          "start": 33.22,
+          "end": 33.62,
+          "probability": 0.9982977509498596
+        },
+        {
+          "word": " would",
+          "start": 33.62,
+          "end": 34.06,
+          "probability": 0.9621760845184326
+        },
+        {
+          "word": " not",
+          "start": 34.06,
+          "end": 34.36,
+          "probability": 0.9980102181434631
+        },
+        {
+          "word": " necessarily",
+          "start": 34.36,
+          "end": 34.84,
+          "probability": 0.9704878926277161
+        },
+        {
+          "word": " give",
+          "start": 34.84,
+          "end": 35.08,
+          "probability": 0.9974174499511719
+        },
+        {
+          "word": " you",
+          "start": 35.08,
+          "end": 35.28,
+          "probability": 0.9952925443649292
+        },
+        {
+          "word": " a",
+          "start": 35.28,
+          "end": 35.6,
+          "probability": 0.9963990449905396
+        },
+        {
+          "word": " clear",
+          "start": 35.6,
+          "end": 35.76,
+          "probability": 0.8826228380203247
+        },
+        {
+          "word": " sense",
+          "start": 35.76,
+          "end": 36.04,
+          "probability": 0.9991604089736938
+        },
+        {
+          "word": " of",
+          "start": 36.04,
+          "end": 36.64,
+          "probability": 0.9945968389511108
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2906,
+      "start": 36.64,
+      "end": 42.56,
+      "text": " what this semester's lecture class is about. So, having sort of given you a sense of what I want",
+      "tokens": [
+        50719,
+        644,
+        428,
+        24878,
+        338,
+        19143,
+        1398,
+        318,
+        546,
+        13,
+        1406,
+        11,
+        1719,
+        3297,
+        286,
+        1813,
+        345,
+        257,
+        2565,
+        286,
+        644,
+        314,
+        765,
+        51039
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13334165735447662,
+      "compression_ratio": 1.676595744680851,
+      "no_speech_prob": 0.00480271689593792,
+      "words": [
+        {
+          "word": " what",
+          "start": 36.64,
+          "end": 36.92,
+          "probability": 0.9969214797019958
+        },
+        {
+          "word": " this",
+          "start": 36.92,
+          "end": 37.62,
+          "probability": 0.9873064756393433
+        },
+        {
+          "word": " semester's",
+          "start": 37.62,
+          "end": 38.28,
+          "probability": 0.8957228362560272
+        },
+        {
+          "word": " lecture",
+          "start": 38.28,
+          "end": 38.5,
+          "probability": 0.995455265045166
+        },
+        {
+          "word": " class",
+          "start": 38.5,
+          "end": 38.82,
+          "probability": 0.9921701550483704
+        },
+        {
+          "word": " is",
+          "start": 38.82,
+          "end": 39.06,
+          "probability": 0.9970329999923706
+        },
+        {
+          "word": " about.",
+          "start": 39.06,
+          "end": 39.42,
+          "probability": 0.9981392621994019
+        },
+        {
+          "word": " So,",
+          "start": 40.16,
+          "end": 40.16,
+          "probability": 0.6861759424209595
+        },
+        {
+          "word": " having",
+          "start": 40.28,
+          "end": 40.62,
+          "probability": 0.5562390089035034
+        },
+        {
+          "word": " sort",
+          "start": 40.62,
+          "end": 40.82,
+          "probability": 0.652718722820282
+        },
+        {
+          "word": " of",
+          "start": 40.82,
+          "end": 41.26,
+          "probability": 0.9946938157081604
+        },
+        {
+          "word": " given",
+          "start": 41.26,
+          "end": 41.58,
+          "probability": 0.9744029641151428
+        },
+        {
+          "word": " you",
+          "start": 41.58,
+          "end": 41.7,
+          "probability": 0.9939952492713928
+        },
+        {
+          "word": " a",
+          "start": 41.7,
+          "end": 41.86,
+          "probability": 0.9955904483795166
+        },
+        {
+          "word": " sense",
+          "start": 41.86,
+          "end": 42.02,
+          "probability": 0.9990498423576355
+        },
+        {
+          "word": " of",
+          "start": 42.02,
+          "end": 42.16,
+          "probability": 0.9939882755279541
+        },
+        {
+          "word": " what",
+          "start": 42.16,
+          "end": 42.3,
+          "probability": 0.9981215596199036
+        },
+        {
+          "word": " I",
+          "start": 42.3,
+          "end": 42.4,
+          "probability": 0.9917219281196594
+        },
+        {
+          "word": " want",
+          "start": 42.4,
+          "end": 42.56,
+          "probability": 0.9787508249282837
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2906,
+      "start": 42.56,
+      "end": 49.78,
+      "text": " to accomplish in terms of the larger pedagogical objectives in this class, I would like to take you",
+      "tokens": [
+        51039,
+        284,
+        9989,
+        287,
+        2846,
+        286,
+        262,
+        4025,
+        7190,
+        363,
+        30766,
+        15221,
+        287,
+        428,
+        1398,
+        11,
+        314,
+        561,
+        588,
+        284,
+        1011,
+        345,
+        51399
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13334165735447662,
+      "compression_ratio": 1.676595744680851,
+      "no_speech_prob": 0.00480271689593792,
+      "words": [
+        {
+          "word": " to",
+          "start": 42.56,
+          "end": 42.7,
+          "probability": 0.9960665106773376
+        },
+        {
+          "word": " accomplish",
+          "start": 42.7,
+          "end": 43.22,
+          "probability": 0.9984384179115295
+        },
+        {
+          "word": " in",
+          "start": 43.22,
+          "end": 43.5,
+          "probability": 0.9266254901885986
+        },
+        {
+          "word": " terms",
+          "start": 43.5,
+          "end": 43.66,
+          "probability": 0.9948620200157166
+        },
+        {
+          "word": " of",
+          "start": 43.66,
+          "end": 43.82,
+          "probability": 0.9972123503684998
+        },
+        {
+          "word": " the",
+          "start": 43.82,
+          "end": 44.0,
+          "probability": 0.967663049697876
+        },
+        {
+          "word": " larger",
+          "start": 44.0,
+          "end": 44.92,
+          "probability": 0.9535138607025146
+        },
+        {
+          "word": " pedagogical",
+          "start": 44.92,
+          "end": 45.96,
+          "probability": 0.9895429015159607
+        },
+        {
+          "word": " objectives",
+          "start": 45.96,
+          "end": 47.22,
+          "probability": 0.996660590171814
+        },
+        {
+          "word": " in",
+          "start": 47.22,
+          "end": 47.72,
+          "probability": 0.9517142176628113
+        },
+        {
+          "word": " this",
+          "start": 47.72,
+          "end": 47.88,
+          "probability": 0.9965096116065979
+        },
+        {
+          "word": " class,",
+          "start": 47.88,
+          "end": 48.16,
+          "probability": 0.9989438652992249
+        },
+        {
+          "word": " I",
+          "start": 48.22,
+          "end": 48.3,
+          "probability": 0.9962694644927979
+        },
+        {
+          "word": " would",
+          "start": 48.3,
+          "end": 48.4,
+          "probability": 0.9636366367340088
+        },
+        {
+          "word": " like",
+          "start": 48.4,
+          "end": 48.56,
+          "probability": 0.9944332242012024
+        },
+        {
+          "word": " to",
+          "start": 48.56,
+          "end": 48.82,
+          "probability": 0.994416356086731
+        },
+        {
+          "word": " take",
+          "start": 48.82,
+          "end": 49.64,
+          "probability": 0.5616608262062073
+        },
+        {
+          "word": " you",
+          "start": 49.64,
+          "end": 49.78,
+          "probability": 0.9980722665786743
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2906,
+      "start": 49.78,
+      "end": 54.08,
+      "text": " through the nuts and bolts of the class so that you know exactly what we're going to be doing over",
+      "tokens": [
+        51399,
+        832,
+        262,
+        14380,
+        290,
+        24667,
+        286,
+        262,
+        1398,
+        523,
+        326,
+        345,
+        760,
+        3446,
+        644,
+        356,
+        821,
+        1016,
+        284,
+        307,
+        1804,
+        625,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13334165735447662,
+      "compression_ratio": 1.676595744680851,
+      "no_speech_prob": 0.00480271689593792,
+      "words": [
+        {
+          "word": " through",
+          "start": 49.78,
+          "end": 49.9,
+          "probability": 0.993660032749176
+        },
+        {
+          "word": " the",
+          "start": 49.9,
+          "end": 50.04,
+          "probability": 0.9963979721069336
+        },
+        {
+          "word": " nuts",
+          "start": 50.04,
+          "end": 50.18,
+          "probability": 0.9849845170974731
+        },
+        {
+          "word": " and",
+          "start": 50.18,
+          "end": 50.34,
+          "probability": 0.9814996719360352
+        },
+        {
+          "word": " bolts",
+          "start": 50.34,
+          "end": 50.5,
+          "probability": 0.9991422891616821
+        },
+        {
+          "word": " of",
+          "start": 50.5,
+          "end": 50.64,
+          "probability": 0.995478093624115
+        },
+        {
+          "word": " the",
+          "start": 50.64,
+          "end": 50.78,
+          "probability": 0.9685163497924805
+        },
+        {
+          "word": " class",
+          "start": 50.78,
+          "end": 51.06,
+          "probability": 0.9978674650192261
+        },
+        {
+          "word": " so",
+          "start": 51.06,
+          "end": 51.6,
+          "probability": 0.8294711709022522
+        },
+        {
+          "word": " that",
+          "start": 51.6,
+          "end": 51.74,
+          "probability": 0.955762505531311
+        },
+        {
+          "word": " you",
+          "start": 51.74,
+          "end": 51.84,
+          "probability": 0.9956473708152771
+        },
+        {
+          "word": " know",
+          "start": 51.84,
+          "end": 52.1,
+          "probability": 0.9938679337501526
+        },
+        {
+          "word": " exactly",
+          "start": 52.1,
+          "end": 52.62,
+          "probability": 0.9820899963378906
+        },
+        {
+          "word": " what",
+          "start": 52.62,
+          "end": 52.84,
+          "probability": 0.9988532066345215
+        },
+        {
+          "word": " we're",
+          "start": 52.84,
+          "end": 53.02,
+          "probability": 0.9522693753242493
+        },
+        {
+          "word": " going",
+          "start": 53.02,
+          "end": 53.08,
+          "probability": 0.8861708045005798
+        },
+        {
+          "word": " to",
+          "start": 53.08,
+          "end": 53.12,
+          "probability": 0.9979922771453857
+        },
+        {
+          "word": " be",
+          "start": 53.12,
+          "end": 53.26,
+          "probability": 0.996167004108429
+        },
+        {
+          "word": " doing",
+          "start": 53.26,
+          "end": 53.5,
+          "probability": 0.9987014532089233
+        },
+        {
+          "word": " over",
+          "start": 53.5,
+          "end": 54.08,
+          "probability": 0.9928283095359802
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5408,
+      "start": 54.08,
+      "end": 60.98,
+      "text": " the course of the semester ahead. I should also say, particularly at this point, now that we're",
+      "tokens": [
+        50363,
+        262,
+        1781,
+        286,
+        262,
+        24878,
+        4058,
+        13,
+        314,
+        815,
+        635,
+        910,
+        11,
+        3573,
+        379,
+        428,
+        966,
+        11,
+        783,
+        326,
+        356,
+        821,
+        50707
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07907412155814793,
+      "compression_ratio": 1.8314176245210727,
+      "no_speech_prob": 0.43661919236183167,
+      "words": [
+        {
+          "word": " the",
+          "start": 54.08,
+          "end": 54.22,
+          "probability": 0.40781280398368835
+        },
+        {
+          "word": " course",
+          "start": 54.22,
+          "end": 54.5,
+          "probability": 0.9074863791465759
+        },
+        {
+          "word": " of",
+          "start": 54.5,
+          "end": 54.76,
+          "probability": 0.9739173054695129
+        },
+        {
+          "word": " the",
+          "start": 54.76,
+          "end": 54.9,
+          "probability": 0.9928820133209229
+        },
+        {
+          "word": " semester",
+          "start": 54.9,
+          "end": 55.26,
+          "probability": 0.9908009171485901
+        },
+        {
+          "word": " ahead.",
+          "start": 55.26,
+          "end": 55.8,
+          "probability": 0.9427995681762695
+        },
+        {
+          "word": " I",
+          "start": 58.34,
+          "end": 58.66,
+          "probability": 0.9551274180412292
+        },
+        {
+          "word": " should",
+          "start": 58.66,
+          "end": 58.8,
+          "probability": 0.9950048327445984
+        },
+        {
+          "word": " also",
+          "start": 58.8,
+          "end": 59.0,
+          "probability": 0.9932578802108765
+        },
+        {
+          "word": " say,",
+          "start": 59.0,
+          "end": 59.22,
+          "probability": 0.9951710104942322
+        },
+        {
+          "word": " particularly",
+          "start": 59.36,
+          "end": 59.62,
+          "probability": 0.9821110367774963
+        },
+        {
+          "word": " at",
+          "start": 59.62,
+          "end": 59.86,
+          "probability": 0.948172390460968
+        },
+        {
+          "word": " this",
+          "start": 59.86,
+          "end": 60.02,
+          "probability": 0.9989948868751526
+        },
+        {
+          "word": " point,",
+          "start": 60.02,
+          "end": 60.34,
+          "probability": 0.9986209869384766
+        },
+        {
+          "word": " now",
+          "start": 60.48,
+          "end": 60.76,
+          "probability": 0.7202805280685425
+        },
+        {
+          "word": " that",
+          "start": 60.76,
+          "end": 60.88,
+          "probability": 0.9801295399665833
+        },
+        {
+          "word": " we're",
+          "start": 60.88,
+          "end": 60.98,
+          "probability": 0.9288792610168457
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5408,
+      "start": 60.98,
+      "end": 66.38,
+      "text": " going through the specifics, if you have any questions, please do interrupt. And that goes",
+      "tokens": [
+        50707,
+        1016,
+        832,
+        262,
+        23514,
+        11,
+        611,
+        345,
+        423,
+        597,
+        2683,
+        11,
+        3387,
+        466,
+        11313,
+        13,
+        843,
+        326,
+        2925,
+        50975
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07907412155814793,
+      "compression_ratio": 1.8314176245210727,
+      "no_speech_prob": 0.43661919236183167,
+      "words": [
+        {
+          "word": " going",
+          "start": 60.98,
+          "end": 61.1,
+          "probability": 0.9935050010681152
+        },
+        {
+          "word": " through",
+          "start": 61.1,
+          "end": 61.28,
+          "probability": 0.9932214021682739
+        },
+        {
+          "word": " the",
+          "start": 61.28,
+          "end": 61.44,
+          "probability": 0.9963927865028381
+        },
+        {
+          "word": " specifics,",
+          "start": 61.44,
+          "end": 61.86,
+          "probability": 0.9971790313720703
+        },
+        {
+          "word": " if",
+          "start": 62.08,
+          "end": 62.44,
+          "probability": 0.9849774837493896
+        },
+        {
+          "word": " you",
+          "start": 62.44,
+          "end": 62.54,
+          "probability": 0.9994447827339172
+        },
+        {
+          "word": " have",
+          "start": 62.54,
+          "end": 62.7,
+          "probability": 0.9981301426887512
+        },
+        {
+          "word": " any",
+          "start": 62.7,
+          "end": 62.9,
+          "probability": 0.9971128702163696
+        },
+        {
+          "word": " questions,",
+          "start": 62.9,
+          "end": 63.36,
+          "probability": 0.9981967806816101
+        },
+        {
+          "word": " please",
+          "start": 63.84,
+          "end": 64.0,
+          "probability": 0.996263325214386
+        },
+        {
+          "word": " do",
+          "start": 64.0,
+          "end": 64.24,
+          "probability": 0.9952428936958313
+        },
+        {
+          "word": " interrupt.",
+          "start": 64.24,
+          "end": 64.74,
+          "probability": 0.9851641654968262
+        },
+        {
+          "word": " And",
+          "start": 65.78,
+          "end": 65.9,
+          "probability": 0.8337385654449463
+        },
+        {
+          "word": " that",
+          "start": 65.9,
+          "end": 66.08,
+          "probability": 0.9903128147125244
+        },
+        {
+          "word": " goes",
+          "start": 66.08,
+          "end": 66.38,
+          "probability": 0.9987391829490662
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5408,
+      "start": 66.38,
+      "end": 71.56,
+      "text": " for the entire semester. If you have any questions at any point, if anything is unclear, just raise",
+      "tokens": [
+        50975,
+        329,
+        262,
+        2104,
+        24878,
+        13,
+        1002,
+        345,
+        423,
+        597,
+        2683,
+        379,
+        597,
+        966,
+        11,
+        611,
+        1997,
+        318,
+        10061,
+        11,
+        655,
+        5298,
+        51237
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07907412155814793,
+      "compression_ratio": 1.8314176245210727,
+      "no_speech_prob": 0.43661919236183167,
+      "words": [
+        {
+          "word": " for",
+          "start": 66.38,
+          "end": 66.86,
+          "probability": 0.9875853061676025
+        },
+        {
+          "word": " the",
+          "start": 66.86,
+          "end": 67.0,
+          "probability": 0.9985182881355286
+        },
+        {
+          "word": " entire",
+          "start": 67.0,
+          "end": 67.38,
+          "probability": 0.9991336464881897
+        },
+        {
+          "word": " semester.",
+          "start": 67.38,
+          "end": 68.18,
+          "probability": 0.9694470763206482
+        },
+        {
+          "word": " If",
+          "start": 68.54,
+          "end": 68.68,
+          "probability": 0.9811975359916687
+        },
+        {
+          "word": " you",
+          "start": 68.68,
+          "end": 68.74,
+          "probability": 0.99813312292099
+        },
+        {
+          "word": " have",
+          "start": 68.74,
+          "end": 68.82,
+          "probability": 0.9952892065048218
+        },
+        {
+          "word": " any",
+          "start": 68.82,
+          "end": 69.0,
+          "probability": 0.9923134446144104
+        },
+        {
+          "word": " questions",
+          "start": 69.0,
+          "end": 69.32,
+          "probability": 0.9948931932449341
+        },
+        {
+          "word": " at",
+          "start": 69.32,
+          "end": 69.52,
+          "probability": 0.9561892151832581
+        },
+        {
+          "word": " any",
+          "start": 69.52,
+          "end": 69.66,
+          "probability": 0.9961368441581726
+        },
+        {
+          "word": " point,",
+          "start": 69.66,
+          "end": 69.88,
+          "probability": 0.997703492641449
+        },
+        {
+          "word": " if",
+          "start": 69.94,
+          "end": 70.02,
+          "probability": 0.9709861874580383
+        },
+        {
+          "word": " anything",
+          "start": 70.02,
+          "end": 70.28,
+          "probability": 0.993381142616272
+        },
+        {
+          "word": " is",
+          "start": 70.28,
+          "end": 70.42,
+          "probability": 0.9757798910140991
+        },
+        {
+          "word": " unclear,",
+          "start": 70.42,
+          "end": 70.8,
+          "probability": 0.9975324869155884
+        },
+        {
+          "word": " just",
+          "start": 71.22,
+          "end": 71.36,
+          "probability": 0.9929189085960388
+        },
+        {
+          "word": " raise",
+          "start": 71.36,
+          "end": 71.56,
+          "probability": 0.9976487755775452
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5408,
+      "start": 71.56,
+      "end": 74.72,
+      "text": " your hand and I'll be glad to field questions. I don't want you to think that you have to wait",
+      "tokens": [
+        51237,
+        534,
+        1021,
+        290,
+        314,
+        1183,
+        307,
+        9675,
+        284,
+        2214,
+        2683,
+        13,
+        314,
+        836,
+        470,
+        765,
+        345,
+        284,
+        892,
+        326,
+        345,
+        423,
+        284,
+        4043,
+        51395
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07907412155814793,
+      "compression_ratio": 1.8314176245210727,
+      "no_speech_prob": 0.43661919236183167,
+      "words": [
+        {
+          "word": " your",
+          "start": 71.56,
+          "end": 71.74,
+          "probability": 0.9932528138160706
+        },
+        {
+          "word": " hand",
+          "start": 71.74,
+          "end": 71.92,
+          "probability": 0.9605013728141785
+        },
+        {
+          "word": " and",
+          "start": 71.92,
+          "end": 72.02,
+          "probability": 0.7530746459960938
+        },
+        {
+          "word": " I'll",
+          "start": 72.02,
+          "end": 72.14,
+          "probability": 0.9870329797267914
+        },
+        {
+          "word": " be",
+          "start": 72.14,
+          "end": 72.26,
+          "probability": 0.998677670955658
+        },
+        {
+          "word": " glad",
+          "start": 72.26,
+          "end": 72.42,
+          "probability": 0.9992352724075317
+        },
+        {
+          "word": " to",
+          "start": 72.42,
+          "end": 72.58,
+          "probability": 0.9986795783042908
+        },
+        {
+          "word": " field",
+          "start": 72.58,
+          "end": 72.74,
+          "probability": 0.9965062737464905
+        },
+        {
+          "word": " questions.",
+          "start": 72.74,
+          "end": 73.22,
+          "probability": 0.9947251677513123
+        },
+        {
+          "word": " I",
+          "start": 73.36,
+          "end": 73.46,
+          "probability": 0.992254376411438
+        },
+        {
+          "word": " don't",
+          "start": 73.46,
+          "end": 73.62,
+          "probability": 0.9991700947284698
+        },
+        {
+          "word": " want",
+          "start": 73.62,
+          "end": 73.74,
+          "probability": 0.9972405433654785
+        },
+        {
+          "word": " you",
+          "start": 73.74,
+          "end": 73.84,
+          "probability": 0.9951483607292175
+        },
+        {
+          "word": " to",
+          "start": 73.84,
+          "end": 73.98,
+          "probability": 0.9931325316429138
+        },
+        {
+          "word": " think",
+          "start": 73.98,
+          "end": 74.14,
+          "probability": 0.9955305457115173
+        },
+        {
+          "word": " that",
+          "start": 74.14,
+          "end": 74.3,
+          "probability": 0.9390862584114075
+        },
+        {
+          "word": " you",
+          "start": 74.3,
+          "end": 74.36,
+          "probability": 0.9984096884727478
+        },
+        {
+          "word": " have",
+          "start": 74.36,
+          "end": 74.48,
+          "probability": 0.9861339926719666
+        },
+        {
+          "word": " to",
+          "start": 74.48,
+          "end": 74.62,
+          "probability": 0.9983406066894531
+        },
+        {
+          "word": " wait",
+          "start": 74.62,
+          "end": 74.72,
+          "probability": 0.9983032941818237
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5408,
+      "start": 74.72,
+      "end": 79.38,
+      "text": " until the end of the lecture to field questions. Have any of you been in lecture classes with me",
+      "tokens": [
+        51395,
+        1566,
+        262,
+        886,
+        286,
+        262,
+        19143,
+        284,
+        2214,
+        2683,
+        13,
+        8192,
+        597,
+        286,
+        345,
+        587,
+        287,
+        19143,
+        6097,
+        351,
+        502,
+        51628
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07907412155814793,
+      "compression_ratio": 1.8314176245210727,
+      "no_speech_prob": 0.43661919236183167,
+      "words": [
+        {
+          "word": " until",
+          "start": 74.72,
+          "end": 74.96,
+          "probability": 0.9921431541442871
+        },
+        {
+          "word": " the",
+          "start": 74.96,
+          "end": 75.06,
+          "probability": 0.9982998967170715
+        },
+        {
+          "word": " end",
+          "start": 75.06,
+          "end": 75.18,
+          "probability": 0.9982692003250122
+        },
+        {
+          "word": " of",
+          "start": 75.18,
+          "end": 75.3,
+          "probability": 0.9984402060508728
+        },
+        {
+          "word": " the",
+          "start": 75.3,
+          "end": 75.42,
+          "probability": 0.9940431714057922
+        },
+        {
+          "word": " lecture",
+          "start": 75.42,
+          "end": 75.74,
+          "probability": 0.9978567957878113
+        },
+        {
+          "word": " to",
+          "start": 75.74,
+          "end": 76.24,
+          "probability": 0.9462125897407532
+        },
+        {
+          "word": " field",
+          "start": 76.24,
+          "end": 76.52,
+          "probability": 0.9985710382461548
+        },
+        {
+          "word": " questions.",
+          "start": 76.52,
+          "end": 77.06,
+          "probability": 0.9970436692237854
+        },
+        {
+          "word": " Have",
+          "start": 77.74,
+          "end": 77.84,
+          "probability": 0.9871359467506409
+        },
+        {
+          "word": " any",
+          "start": 77.84,
+          "end": 77.98,
+          "probability": 0.9961776733398438
+        },
+        {
+          "word": " of",
+          "start": 77.98,
+          "end": 78.08,
+          "probability": 0.9977201819419861
+        },
+        {
+          "word": " you",
+          "start": 78.08,
+          "end": 78.16,
+          "probability": 0.9976528286933899
+        },
+        {
+          "word": " been",
+          "start": 78.16,
+          "end": 78.32,
+          "probability": 0.9920211434364319
+        },
+        {
+          "word": " in",
+          "start": 78.32,
+          "end": 78.46,
+          "probability": 0.9883493185043335
+        },
+        {
+          "word": " lecture",
+          "start": 78.46,
+          "end": 78.68,
+          "probability": 0.9358335733413696
+        },
+        {
+          "word": " classes",
+          "start": 78.68,
+          "end": 79.0,
+          "probability": 0.9951953291893005
+        },
+        {
+          "word": " with",
+          "start": 79.0,
+          "end": 79.24,
+          "probability": 0.9913017153739929
+        },
+        {
+          "word": " me",
+          "start": 79.24,
+          "end": 79.38,
+          "probability": 0.998626708984375
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7938,
+      "start": 79.38,
+      "end": 85.56,
+      "text": " before? Okay, so you know that I can run like right to the end of the allotted sessions. So,",
+      "tokens": [
+        50363,
+        878,
+        30,
+        16805,
+        11,
+        523,
+        345,
+        760,
+        326,
+        314,
+        460,
+        1057,
+        588,
+        826,
+        284,
+        262,
+        886,
+        286,
+        262,
+        44554,
+        10991,
+        13,
+        1406,
+        11,
+        50667
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12180276436380821,
+      "compression_ratio": 1.646808510638298,
+      "no_speech_prob": 0.06586474180221558,
+      "words": [
+        {
+          "word": " before?",
+          "start": 79.38,
+          "end": 79.72,
+          "probability": 0.07887595891952515
+        },
+        {
+          "word": " Okay,",
+          "start": 80.76,
+          "end": 80.92,
+          "probability": 0.525774359703064
+        },
+        {
+          "word": " so",
+          "start": 81.48,
+          "end": 81.66,
+          "probability": 0.9827080368995667
+        },
+        {
+          "word": " you",
+          "start": 81.66,
+          "end": 81.76,
+          "probability": 0.9714508056640625
+        },
+        {
+          "word": " know",
+          "start": 81.76,
+          "end": 81.88,
+          "probability": 0.9918863773345947
+        },
+        {
+          "word": " that",
+          "start": 81.88,
+          "end": 82.0,
+          "probability": 0.9289138913154602
+        },
+        {
+          "word": " I",
+          "start": 82.0,
+          "end": 82.08,
+          "probability": 0.9841861128807068
+        },
+        {
+          "word": " can",
+          "start": 82.08,
+          "end": 82.22,
+          "probability": 0.9902982115745544
+        },
+        {
+          "word": " run",
+          "start": 82.22,
+          "end": 82.38,
+          "probability": 0.975002110004425
+        },
+        {
+          "word": " like",
+          "start": 82.38,
+          "end": 82.54,
+          "probability": 0.555568277835846
+        },
+        {
+          "word": " right",
+          "start": 82.54,
+          "end": 82.72,
+          "probability": 0.9605236053466797
+        },
+        {
+          "word": " to",
+          "start": 82.72,
+          "end": 82.86,
+          "probability": 0.9905937910079956
+        },
+        {
+          "word": " the",
+          "start": 82.86,
+          "end": 83.02,
+          "probability": 0.9977368116378784
+        },
+        {
+          "word": " end",
+          "start": 83.02,
+          "end": 83.22,
+          "probability": 0.9984721541404724
+        },
+        {
+          "word": " of",
+          "start": 83.22,
+          "end": 83.36,
+          "probability": 0.9799458384513855
+        },
+        {
+          "word": " the",
+          "start": 83.36,
+          "end": 83.66,
+          "probability": 0.9762306213378906
+        },
+        {
+          "word": " allotted",
+          "start": 83.66,
+          "end": 84.26,
+          "probability": 0.4369562268257141
+        },
+        {
+          "word": " sessions.",
+          "start": 84.26,
+          "end": 85.02,
+          "probability": 0.47074177861213684
+        },
+        {
+          "word": " So,",
+          "start": 85.38,
+          "end": 85.56,
+          "probability": 0.9591471552848816
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7938,
+      "start": 85.94,
+      "end": 90.14,
+      "text": " if you save your questions to the end, you might not get to ask them. So, raise your hands and,",
+      "tokens": [
+        50667,
+        611,
+        345,
+        3613,
+        534,
+        2683,
+        284,
+        262,
+        886,
+        11,
+        345,
+        1244,
+        407,
+        651,
+        284,
+        1265,
+        606,
+        13,
+        1406,
+        11,
+        5298,
+        534,
+        2832,
+        290,
+        11,
+        50895
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12180276436380821,
+      "compression_ratio": 1.646808510638298,
+      "no_speech_prob": 0.06586474180221558,
+      "words": [
+        {
+          "word": " if",
+          "start": 85.94,
+          "end": 86.04,
+          "probability": 0.9959694147109985
+        },
+        {
+          "word": " you",
+          "start": 86.04,
+          "end": 86.18,
+          "probability": 0.9991651773452759
+        },
+        {
+          "word": " save",
+          "start": 86.18,
+          "end": 86.34,
+          "probability": 0.980614185333252
+        },
+        {
+          "word": " your",
+          "start": 86.34,
+          "end": 86.5,
+          "probability": 0.9880959987640381
+        },
+        {
+          "word": " questions",
+          "start": 86.5,
+          "end": 86.82,
+          "probability": 0.9963091015815735
+        },
+        {
+          "word": " to",
+          "start": 86.82,
+          "end": 87.04,
+          "probability": 0.8893487453460693
+        },
+        {
+          "word": " the",
+          "start": 87.04,
+          "end": 87.18,
+          "probability": 0.9971643090248108
+        },
+        {
+          "word": " end,",
+          "start": 87.18,
+          "end": 87.32,
+          "probability": 0.9934700727462769
+        },
+        {
+          "word": " you",
+          "start": 87.36,
+          "end": 87.44,
+          "probability": 0.9967940449714661
+        },
+        {
+          "word": " might",
+          "start": 87.44,
+          "end": 87.58,
+          "probability": 0.9924120306968689
+        },
+        {
+          "word": " not",
+          "start": 87.58,
+          "end": 87.72,
+          "probability": 0.9667202830314636
+        },
+        {
+          "word": " get",
+          "start": 87.72,
+          "end": 87.86,
+          "probability": 0.9960545301437378
+        },
+        {
+          "word": " to",
+          "start": 87.86,
+          "end": 88.04,
+          "probability": 0.9981045722961426
+        },
+        {
+          "word": " ask",
+          "start": 88.04,
+          "end": 88.28,
+          "probability": 0.998741090297699
+        },
+        {
+          "word": " them.",
+          "start": 88.28,
+          "end": 88.52,
+          "probability": 0.9957193732261658
+        },
+        {
+          "word": " So,",
+          "start": 88.72,
+          "end": 88.84,
+          "probability": 0.9634764790534973
+        },
+        {
+          "word": " raise",
+          "start": 89.1,
+          "end": 89.26,
+          "probability": 0.9914355874061584
+        },
+        {
+          "word": " your",
+          "start": 89.26,
+          "end": 89.46,
+          "probability": 0.9933993816375732
+        },
+        {
+          "word": " hands",
+          "start": 89.46,
+          "end": 89.78,
+          "probability": 0.9908848404884338
+        },
+        {
+          "word": " and,",
+          "start": 89.78,
+          "end": 90.14,
+          "probability": 0.8932997584342957
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7938,
+      "start": 90.4,
+      "end": 95.98,
+      "text": " you know, interrupt and I'll be happy. Okay, what are we going to be doing in this lecture theater",
+      "tokens": [
+        50895,
+        345,
+        760,
+        11,
+        11313,
+        290,
+        314,
+        1183,
+        307,
+        3772,
+        13,
+        16805,
+        11,
+        644,
+        389,
+        356,
+        1016,
+        284,
+        307,
+        1804,
+        287,
+        428,
+        19143,
+        13766,
+        51197
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12180276436380821,
+      "compression_ratio": 1.646808510638298,
+      "no_speech_prob": 0.06586474180221558,
+      "words": [
+        {
+          "word": " you",
+          "start": 90.4,
+          "end": 90.58,
+          "probability": 0.9935235977172852
+        },
+        {
+          "word": " know,",
+          "start": 90.58,
+          "end": 90.72,
+          "probability": 0.9980656504631042
+        },
+        {
+          "word": " interrupt",
+          "start": 90.72,
+          "end": 91.02,
+          "probability": 0.9862872958183289
+        },
+        {
+          "word": " and",
+          "start": 91.02,
+          "end": 91.26,
+          "probability": 0.7253332734107971
+        },
+        {
+          "word": " I'll",
+          "start": 91.26,
+          "end": 91.4,
+          "probability": 0.9787209928035736
+        },
+        {
+          "word": " be",
+          "start": 91.4,
+          "end": 91.54,
+          "probability": 0.9993082284927368
+        },
+        {
+          "word": " happy.",
+          "start": 91.54,
+          "end": 92.0,
+          "probability": 0.9984292387962341
+        },
+        {
+          "word": " Okay,",
+          "start": 93.54,
+          "end": 93.9,
+          "probability": 0.9699785113334656
+        },
+        {
+          "word": " what",
+          "start": 93.94,
+          "end": 94.06,
+          "probability": 0.9636157155036926
+        },
+        {
+          "word": " are",
+          "start": 94.06,
+          "end": 94.14,
+          "probability": 0.9816305041313171
+        },
+        {
+          "word": " we",
+          "start": 94.14,
+          "end": 94.22,
+          "probability": 0.9885813593864441
+        },
+        {
+          "word": " going",
+          "start": 94.22,
+          "end": 94.32,
+          "probability": 0.8257052302360535
+        },
+        {
+          "word": " to",
+          "start": 94.32,
+          "end": 94.36,
+          "probability": 0.996476948261261
+        },
+        {
+          "word": " be",
+          "start": 94.36,
+          "end": 94.44,
+          "probability": 0.9906556010246277
+        },
+        {
+          "word": " doing",
+          "start": 94.44,
+          "end": 94.7,
+          "probability": 0.9981520771980286
+        },
+        {
+          "word": " in",
+          "start": 94.7,
+          "end": 95.16,
+          "probability": 0.9479852914810181
+        },
+        {
+          "word": " this",
+          "start": 95.16,
+          "end": 95.38,
+          "probability": 0.9947474598884583
+        },
+        {
+          "word": " lecture",
+          "start": 95.38,
+          "end": 95.62,
+          "probability": 0.8821039795875549
+        },
+        {
+          "word": " theater",
+          "start": 95.62,
+          "end": 95.98,
+          "probability": 0.6949385404586792
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 7938,
+      "start": 96.76,
+      "end": 103.18,
+      "text": " this semester? What is this class all about? How are we going to accomplish what I've just promised",
+      "tokens": [
+        51197,
+        428,
+        24878,
+        30,
+        1867,
+        318,
+        428,
+        1398,
+        477,
+        546,
+        30,
+        1374,
+        389,
+        356,
+        1016,
+        284,
+        9989,
+        644,
+        314,
+        1053,
+        655,
+        8072,
+        51557
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12180276436380821,
+      "compression_ratio": 1.646808510638298,
+      "no_speech_prob": 0.06586474180221558,
+      "words": [
+        {
+          "word": " this",
+          "start": 96.76,
+          "end": 97.12,
+          "probability": 0.9377884864807129
+        },
+        {
+          "word": " semester?",
+          "start": 97.12,
+          "end": 97.48,
+          "probability": 0.9946873188018799
+        },
+        {
+          "word": " What",
+          "start": 97.68,
+          "end": 97.9,
+          "probability": 0.9927852153778076
+        },
+        {
+          "word": " is",
+          "start": 97.9,
+          "end": 98.06,
+          "probability": 0.9952534437179565
+        },
+        {
+          "word": " this",
+          "start": 98.06,
+          "end": 98.48,
+          "probability": 0.9958135485649109
+        },
+        {
+          "word": " class",
+          "start": 98.48,
+          "end": 98.82,
+          "probability": 0.9981631636619568
+        },
+        {
+          "word": " all",
+          "start": 98.82,
+          "end": 99.16,
+          "probability": 0.9979696869850159
+        },
+        {
+          "word": " about?",
+          "start": 99.16,
+          "end": 99.58,
+          "probability": 0.9996582269668579
+        },
+        {
+          "word": " How",
+          "start": 100.82,
+          "end": 101.18,
+          "probability": 0.9967969059944153
+        },
+        {
+          "word": " are",
+          "start": 101.18,
+          "end": 101.32,
+          "probability": 0.9833833575248718
+        },
+        {
+          "word": " we",
+          "start": 101.32,
+          "end": 101.38,
+          "probability": 0.9950852990150452
+        },
+        {
+          "word": " going",
+          "start": 101.38,
+          "end": 101.5,
+          "probability": 0.9631828665733337
+        },
+        {
+          "word": " to",
+          "start": 101.5,
+          "end": 101.56,
+          "probability": 0.9975658655166626
+        },
+        {
+          "word": " accomplish",
+          "start": 101.56,
+          "end": 101.94,
+          "probability": 0.997980535030365
+        },
+        {
+          "word": " what",
+          "start": 101.94,
+          "end": 102.18,
+          "probability": 0.9963221549987793
+        },
+        {
+          "word": " I've",
+          "start": 102.18,
+          "end": 102.36,
+          "probability": 0.9179820120334625
+        },
+        {
+          "word": " just",
+          "start": 102.36,
+          "end": 102.6,
+          "probability": 0.9967033267021179
+        },
+        {
+          "word": " promised",
+          "start": 102.6,
+          "end": 103.18,
+          "probability": 0.9968550205230713
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10318,
+      "start": 103.18,
+      "end": 111.94,
+      "text": " to do? Well, the class is really about the post-war world. It's really a history of the world",
+      "tokens": [
+        50365,
+        284,
+        466,
+        30,
+        3894,
+        11,
+        262,
+        1398,
+        318,
+        1107,
+        546,
+        262,
+        1281,
+        12,
+        5767,
+        995,
+        13,
+        632,
+        338,
+        1107,
+        257,
+        2106,
+        286,
+        262,
+        995,
+        50797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15762235005696615,
+      "compression_ratio": 1.676300578034682,
+      "no_speech_prob": 0.001668486394919455,
+      "words": [
+        {
+          "word": " to",
+          "start": 103.18,
+          "end": 103.54,
+          "probability": 0.47579842805862427
+        },
+        {
+          "word": " do?",
+          "start": 103.54,
+          "end": 104.24,
+          "probability": 0.9456406235694885
+        },
+        {
+          "word": " Well,",
+          "start": 107.7,
+          "end": 107.82,
+          "probability": 0.47491082549095154
+        },
+        {
+          "word": " the",
+          "start": 107.82,
+          "end": 107.9,
+          "probability": 0.9520918726921082
+        },
+        {
+          "word": " class",
+          "start": 107.9,
+          "end": 108.12,
+          "probability": 0.995824933052063
+        },
+        {
+          "word": " is",
+          "start": 108.12,
+          "end": 108.3,
+          "probability": 0.975588321685791
+        },
+        {
+          "word": " really",
+          "start": 108.3,
+          "end": 108.52,
+          "probability": 0.9948185086250305
+        },
+        {
+          "word": " about",
+          "start": 108.52,
+          "end": 108.88,
+          "probability": 0.9979799389839172
+        },
+        {
+          "word": " the",
+          "start": 108.88,
+          "end": 109.34,
+          "probability": 0.99284428358078
+        },
+        {
+          "word": " post",
+          "start": 109.34,
+          "end": 109.58,
+          "probability": 0.9289811849594116
+        },
+        {
+          "word": "-war",
+          "start": 109.58,
+          "end": 109.7,
+          "probability": 0.9610928893089294
+        },
+        {
+          "word": " world.",
+          "start": 109.7,
+          "end": 110.2,
+          "probability": 0.9978099465370178
+        },
+        {
+          "word": " It's",
+          "start": 110.64,
+          "end": 110.74,
+          "probability": 0.7956709563732147
+        },
+        {
+          "word": " really",
+          "start": 110.74,
+          "end": 110.84,
+          "probability": 0.3626347482204437
+        },
+        {
+          "word": " a",
+          "start": 110.84,
+          "end": 111.2,
+          "probability": 0.8230864405632019
+        },
+        {
+          "word": " history",
+          "start": 111.2,
+          "end": 111.46,
+          "probability": 0.9935599565505981
+        },
+        {
+          "word": " of",
+          "start": 111.46,
+          "end": 111.6,
+          "probability": 0.9983075857162476
+        },
+        {
+          "word": " the",
+          "start": 111.6,
+          "end": 111.72,
+          "probability": 0.9983692765235901
+        },
+        {
+          "word": " world",
+          "start": 111.72,
+          "end": 111.94,
+          "probability": 0.9984116554260254
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10318,
+      "start": 111.94,
+      "end": 120.5,
+      "text": " since 1945. It's not a comprehensive history of the world since 1945. There is a great deal that",
+      "tokens": [
+        50797,
+        1201,
+        15761,
+        13,
+        632,
+        338,
+        407,
+        257,
+        9815,
+        2106,
+        286,
+        262,
+        995,
+        1201,
+        15761,
+        13,
+        1318,
+        318,
+        257,
+        1049,
+        1730,
+        326,
+        51217
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15762235005696615,
+      "compression_ratio": 1.676300578034682,
+      "no_speech_prob": 0.001668486394919455,
+      "words": [
+        {
+          "word": " since",
+          "start": 111.94,
+          "end": 112.26,
+          "probability": 0.9858230352401733
+        },
+        {
+          "word": " 1945.",
+          "start": 112.26,
+          "end": 113.32,
+          "probability": 0.9798112511634827
+        },
+        {
+          "word": " It's",
+          "start": 115.46,
+          "end": 115.98,
+          "probability": 0.9883340001106262
+        },
+        {
+          "word": " not",
+          "start": 115.98,
+          "end": 116.18,
+          "probability": 0.9991132616996765
+        },
+        {
+          "word": " a",
+          "start": 116.18,
+          "end": 116.44,
+          "probability": 0.9983737468719482
+        },
+        {
+          "word": " comprehensive",
+          "start": 116.44,
+          "end": 117.1,
+          "probability": 0.9977192282676697
+        },
+        {
+          "word": " history",
+          "start": 117.1,
+          "end": 117.52,
+          "probability": 0.996822714805603
+        },
+        {
+          "word": " of",
+          "start": 117.52,
+          "end": 117.66,
+          "probability": 0.9974641799926758
+        },
+        {
+          "word": " the",
+          "start": 117.66,
+          "end": 117.8,
+          "probability": 0.9989659786224365
+        },
+        {
+          "word": " world",
+          "start": 117.8,
+          "end": 117.98,
+          "probability": 0.9989556074142456
+        },
+        {
+          "word": " since",
+          "start": 117.98,
+          "end": 118.24,
+          "probability": 0.9911036491394043
+        },
+        {
+          "word": " 1945.",
+          "start": 118.24,
+          "end": 119.0,
+          "probability": 0.9930278658866882
+        },
+        {
+          "word": " There",
+          "start": 119.28,
+          "end": 119.4,
+          "probability": 0.9944126009941101
+        },
+        {
+          "word": " is",
+          "start": 119.4,
+          "end": 119.48,
+          "probability": 0.8397423624992371
+        },
+        {
+          "word": " a",
+          "start": 119.48,
+          "end": 119.6,
+          "probability": 0.9975123405456543
+        },
+        {
+          "word": " great",
+          "start": 119.6,
+          "end": 119.78,
+          "probability": 0.9989722967147827
+        },
+        {
+          "word": " deal",
+          "start": 119.78,
+          "end": 120.12,
+          "probability": 0.9998216032981873
+        },
+        {
+          "word": " that",
+          "start": 120.12,
+          "end": 120.5,
+          "probability": 0.9900450110435486
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10318,
+      "start": 120.5,
+      "end": 127.56,
+      "text": " is left out. It would be impossible in a single semester to do a total history of the modern world.",
+      "tokens": [
+        51217,
+        318,
+        1364,
+        503,
+        13,
+        632,
+        561,
+        307,
+        5340,
+        287,
+        257,
+        2060,
+        24878,
+        284,
+        466,
+        257,
+        2472,
+        2106,
+        286,
+        262,
+        3660,
+        995,
+        13,
+        51569
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15762235005696615,
+      "compression_ratio": 1.676300578034682,
+      "no_speech_prob": 0.001668486394919455,
+      "words": [
+        {
+          "word": " is",
+          "start": 120.5,
+          "end": 120.74,
+          "probability": 0.99031001329422
+        },
+        {
+          "word": " left",
+          "start": 120.74,
+          "end": 121.12,
+          "probability": 0.9983154535293579
+        },
+        {
+          "word": " out.",
+          "start": 121.12,
+          "end": 121.62,
+          "probability": 0.9985645413398743
+        },
+        {
+          "word": " It",
+          "start": 121.98,
+          "end": 122.1,
+          "probability": 0.9950968623161316
+        },
+        {
+          "word": " would",
+          "start": 122.1,
+          "end": 122.22,
+          "probability": 0.9755547642707825
+        },
+        {
+          "word": " be",
+          "start": 122.22,
+          "end": 122.34,
+          "probability": 0.994755744934082
+        },
+        {
+          "word": " impossible",
+          "start": 122.34,
+          "end": 122.76,
+          "probability": 0.9986540079116821
+        },
+        {
+          "word": " in",
+          "start": 122.76,
+          "end": 122.92,
+          "probability": 0.9127377271652222
+        },
+        {
+          "word": " a",
+          "start": 122.92,
+          "end": 123.04,
+          "probability": 0.9978407621383667
+        },
+        {
+          "word": " single",
+          "start": 123.04,
+          "end": 123.26,
+          "probability": 0.997484564781189
+        },
+        {
+          "word": " semester",
+          "start": 123.26,
+          "end": 123.72,
+          "probability": 0.9959574341773987
+        },
+        {
+          "word": " to",
+          "start": 123.72,
+          "end": 124.36,
+          "probability": 0.9924452900886536
+        },
+        {
+          "word": " do",
+          "start": 124.36,
+          "end": 124.64,
+          "probability": 0.9976288676261902
+        },
+        {
+          "word": " a",
+          "start": 124.64,
+          "end": 125.16,
+          "probability": 0.9979172348976135
+        },
+        {
+          "word": " total",
+          "start": 125.16,
+          "end": 125.44,
+          "probability": 0.9965278506278992
+        },
+        {
+          "word": " history",
+          "start": 125.44,
+          "end": 125.88,
+          "probability": 0.9990457892417908
+        },
+        {
+          "word": " of",
+          "start": 125.88,
+          "end": 126.6,
+          "probability": 0.9992080330848694
+        },
+        {
+          "word": " the",
+          "start": 126.6,
+          "end": 126.86,
+          "probability": 0.9989702701568604
+        },
+        {
+          "word": " modern",
+          "start": 126.86,
+          "end": 127.08,
+          "probability": 0.9989826083183289
+        },
+        {
+          "word": " world.",
+          "start": 127.08,
+          "end": 127.56,
+          "probability": 0.9990330934524536
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 12756,
+      "start": 128.72000000000003,
+      "end": 133.62,
+      "text": " Rather than tell you what I've left out, you'll figure that out as we go along, let me tell you",
+      "tokens": [
+        50363,
+        11317,
+        621,
+        1560,
+        345,
+        644,
+        314,
+        1053,
+        1364,
+        503,
+        11,
+        345,
+        1183,
+        3785,
+        326,
+        503,
+        355,
+        356,
+        467,
+        1863,
+        11,
+        1309,
+        502,
+        1560,
+        345,
+        50663
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15330509458269392,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.005504061002284288,
+      "words": [
+        {
+          "word": " Rather",
+          "start": 128.72000000000003,
+          "end": 129.36,
+          "probability": 0.8360646367073059
+        },
+        {
+          "word": " than",
+          "start": 129.36,
+          "end": 129.62,
+          "probability": 0.9969499707221985
+        },
+        {
+          "word": " tell",
+          "start": 129.62,
+          "end": 129.84,
+          "probability": 0.9835472702980042
+        },
+        {
+          "word": " you",
+          "start": 129.84,
+          "end": 130.04,
+          "probability": 0.99880051612854
+        },
+        {
+          "word": " what",
+          "start": 130.04,
+          "end": 130.34,
+          "probability": 0.9950500130653381
+        },
+        {
+          "word": " I've",
+          "start": 130.34,
+          "end": 130.54,
+          "probability": 0.9690767526626587
+        },
+        {
+          "word": " left",
+          "start": 130.54,
+          "end": 130.68,
+          "probability": 0.9988210797309875
+        },
+        {
+          "word": " out,",
+          "start": 130.68,
+          "end": 131.0,
+          "probability": 0.9974701404571533
+        },
+        {
+          "word": " you'll",
+          "start": 131.12,
+          "end": 131.42,
+          "probability": 0.989000529050827
+        },
+        {
+          "word": " figure",
+          "start": 131.42,
+          "end": 131.58,
+          "probability": 0.9990007281303406
+        },
+        {
+          "word": " that",
+          "start": 131.58,
+          "end": 131.78,
+          "probability": 0.9965356588363647
+        },
+        {
+          "word": " out",
+          "start": 131.78,
+          "end": 132.0,
+          "probability": 0.9969273209571838
+        },
+        {
+          "word": " as",
+          "start": 132.0,
+          "end": 132.1,
+          "probability": 0.9940582513809204
+        },
+        {
+          "word": " we",
+          "start": 132.1,
+          "end": 132.22,
+          "probability": 0.9952700734138489
+        },
+        {
+          "word": " go",
+          "start": 132.22,
+          "end": 132.34,
+          "probability": 0.9980687499046326
+        },
+        {
+          "word": " along,",
+          "start": 132.34,
+          "end": 132.7,
+          "probability": 0.9985449314117432
+        },
+        {
+          "word": " let",
+          "start": 132.92,
+          "end": 133.16,
+          "probability": 0.9820064902305603
+        },
+        {
+          "word": " me",
+          "start": 133.16,
+          "end": 133.28,
+          "probability": 0.9991675615310669
+        },
+        {
+          "word": " tell",
+          "start": 133.28,
+          "end": 133.46,
+          "probability": 0.9982989430427551
+        },
+        {
+          "word": " you",
+          "start": 133.46,
+          "end": 133.62,
+          "probability": 0.9981346130371094
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 12756,
+      "start": 133.62,
+      "end": 143.68,
+      "text": " about what the class focuses on. What are our priorities for the semester? The class is most",
+      "tokens": [
+        50663,
+        546,
+        644,
+        262,
+        1398,
+        13692,
+        319,
+        13,
+        1867,
+        389,
+        674,
+        15369,
+        329,
+        262,
+        24878,
+        30,
+        383,
+        1398,
+        318,
+        749,
+        51163
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15330509458269392,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.005504061002284288,
+      "words": [
+        {
+          "word": " about",
+          "start": 133.62,
+          "end": 133.96,
+          "probability": 0.9896100759506226
+        },
+        {
+          "word": " what",
+          "start": 133.96,
+          "end": 134.54,
+          "probability": 0.9950945377349854
+        },
+        {
+          "word": " the",
+          "start": 134.54,
+          "end": 134.68,
+          "probability": 0.9962624907493591
+        },
+        {
+          "word": " class",
+          "start": 134.68,
+          "end": 135.0,
+          "probability": 0.9935907125473022
+        },
+        {
+          "word": " focuses",
+          "start": 135.0,
+          "end": 135.6,
+          "probability": 0.982776403427124
+        },
+        {
+          "word": " on.",
+          "start": 135.6,
+          "end": 136.18,
+          "probability": 0.9987741112709045
+        },
+        {
+          "word": " What",
+          "start": 136.52,
+          "end": 136.82,
+          "probability": 0.9949865341186523
+        },
+        {
+          "word": " are",
+          "start": 136.82,
+          "end": 137.18,
+          "probability": 0.9895519614219666
+        },
+        {
+          "word": " our",
+          "start": 137.18,
+          "end": 137.86,
+          "probability": 0.9661358594894409
+        },
+        {
+          "word": " priorities",
+          "start": 137.86,
+          "end": 138.48,
+          "probability": 0.9959235191345215
+        },
+        {
+          "word": " for",
+          "start": 138.48,
+          "end": 138.92,
+          "probability": 0.9971211552619934
+        },
+        {
+          "word": " the",
+          "start": 138.92,
+          "end": 139.06,
+          "probability": 0.9869710206985474
+        },
+        {
+          "word": " semester?",
+          "start": 139.06,
+          "end": 139.48,
+          "probability": 0.9955589771270752
+        },
+        {
+          "word": " The",
+          "start": 141.34,
+          "end": 141.7,
+          "probability": 0.9937851428985596
+        },
+        {
+          "word": " class",
+          "start": 141.7,
+          "end": 142.0,
+          "probability": 0.8400912880897522
+        },
+        {
+          "word": " is",
+          "start": 142.0,
+          "end": 142.36,
+          "probability": 0.977027416229248
+        },
+        {
+          "word": " most",
+          "start": 142.36,
+          "end": 143.68,
+          "probability": 0.9898438453674316
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 12756,
+      "start": 143.68,
+      "end": 152.12,
+      "text": " interested in sort of big international themes in geopolitics, the clash of great power rivalries,",
+      "tokens": [
+        51163,
+        4609,
+        287,
+        3297,
+        286,
+        1263,
+        3230,
+        13460,
+        287,
+        30324,
+        21704,
+        11,
+        262,
+        19122,
+        286,
+        1049,
+        1176,
+        8976,
+        1678,
+        11,
+        51573
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15330509458269392,
+      "compression_ratio": 1.5513513513513513,
+      "no_speech_prob": 0.005504061002284288,
+      "words": [
+        {
+          "word": " interested",
+          "start": 143.68,
+          "end": 144.26,
+          "probability": 0.9976662397384644
+        },
+        {
+          "word": " in",
+          "start": 144.26,
+          "end": 144.74,
+          "probability": 0.9856390357017517
+        },
+        {
+          "word": " sort",
+          "start": 144.74,
+          "end": 144.96,
+          "probability": 0.3741283714771271
+        },
+        {
+          "word": " of",
+          "start": 144.96,
+          "end": 145.18,
+          "probability": 0.997774064540863
+        },
+        {
+          "word": " big",
+          "start": 145.18,
+          "end": 145.46,
+          "probability": 0.6385521292686462
+        },
+        {
+          "word": " international",
+          "start": 145.46,
+          "end": 146.22,
+          "probability": 0.9490957260131836
+        },
+        {
+          "word": " themes",
+          "start": 146.22,
+          "end": 146.82,
+          "probability": 0.9932734966278076
+        },
+        {
+          "word": " in",
+          "start": 146.82,
+          "end": 147.76,
+          "probability": 0.23523083329200745
+        },
+        {
+          "word": " geopolitics,",
+          "start": 147.76,
+          "end": 148.52,
+          "probability": 0.9139696657657623
+        },
+        {
+          "word": " the",
+          "start": 149.4,
+          "end": 149.6,
+          "probability": 0.9879071116447449
+        },
+        {
+          "word": " clash",
+          "start": 149.6,
+          "end": 149.94,
+          "probability": 0.9853743314743042
+        },
+        {
+          "word": " of",
+          "start": 149.94,
+          "end": 150.56,
+          "probability": 0.9989280104637146
+        },
+        {
+          "word": " great",
+          "start": 150.56,
+          "end": 150.76,
+          "probability": 0.970228910446167
+        },
+        {
+          "word": " power",
+          "start": 150.76,
+          "end": 151.12,
+          "probability": 0.9929302334785461
+        },
+        {
+          "word": " rivalries,",
+          "start": 151.12,
+          "end": 152.12,
+          "probability": 0.9969073235988617
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 15212,
+      "start": 153.42000000000002,
+      "end": 161.62,
+      "text": " in the march of decolonization, the transformation of relations between the world's most affluent",
+      "tokens": [
+        50363,
+        287,
+        262,
+        9960,
+        286,
+        875,
+        43645,
+        1634,
+        11,
+        262,
+        13389,
+        286,
+        2316,
+        1022,
+        262,
+        995,
+        338,
+        749,
+        34552,
+        50839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1664414784264943,
+      "compression_ratio": 1.7575757575757576,
+      "no_speech_prob": 0.0050342208705842495,
+      "words": [
+        {
+          "word": " in",
+          "start": 153.42000000000002,
+          "end": 154.3,
+          "probability": 0.10691076517105103
+        },
+        {
+          "word": " the",
+          "start": 154.3,
+          "end": 155.18,
+          "probability": 0.9538625478744507
+        },
+        {
+          "word": " march",
+          "start": 155.18,
+          "end": 155.52,
+          "probability": 0.8657039403915405
+        },
+        {
+          "word": " of",
+          "start": 155.52,
+          "end": 155.86,
+          "probability": 0.9272133708000183
+        },
+        {
+          "word": " decolonization,",
+          "start": 155.86,
+          "end": 156.76,
+          "probability": 0.9605173269907633
+        },
+        {
+          "word": " the",
+          "start": 157.28,
+          "end": 157.38,
+          "probability": 0.9893575310707092
+        },
+        {
+          "word": " transformation",
+          "start": 157.38,
+          "end": 157.84,
+          "probability": 0.9987720847129822
+        },
+        {
+          "word": " of",
+          "start": 157.84,
+          "end": 158.26,
+          "probability": 0.9946369528770447
+        },
+        {
+          "word": " relations",
+          "start": 158.26,
+          "end": 158.82,
+          "probability": 0.9969774484634399
+        },
+        {
+          "word": " between",
+          "start": 158.82,
+          "end": 159.36,
+          "probability": 0.9951306581497192
+        },
+        {
+          "word": " the",
+          "start": 159.36,
+          "end": 159.98,
+          "probability": 0.9968087077140808
+        },
+        {
+          "word": " world's",
+          "start": 159.98,
+          "end": 160.88,
+          "probability": 0.9922512173652649
+        },
+        {
+          "word": " most",
+          "start": 160.88,
+          "end": 161.16,
+          "probability": 0.9989373087882996
+        },
+        {
+          "word": " affluent",
+          "start": 161.16,
+          "end": 161.62,
+          "probability": 0.9987480640411377
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 15212,
+      "start": 161.62,
+      "end": 169.12,
+      "text": " minority, the global north, and its impoverished majority, the global south, and in sort of what",
+      "tokens": [
+        50839,
+        9137,
+        11,
+        262,
+        3298,
+        5093,
+        11,
+        290,
+        663,
+        35014,
+        3741,
+        11,
+        262,
+        3298,
+        5366,
+        11,
+        290,
+        287,
+        3297,
+        286,
+        644,
+        51213
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1664414784264943,
+      "compression_ratio": 1.7575757575757576,
+      "no_speech_prob": 0.0050342208705842495,
+      "words": [
+        {
+          "word": " minority,",
+          "start": 161.62,
+          "end": 162.36,
+          "probability": 0.990400493144989
+        },
+        {
+          "word": " the",
+          "start": 162.7,
+          "end": 162.76,
+          "probability": 0.995860755443573
+        },
+        {
+          "word": " global",
+          "start": 162.76,
+          "end": 163.02,
+          "probability": 0.8707858920097351
+        },
+        {
+          "word": " north,",
+          "start": 163.02,
+          "end": 163.36,
+          "probability": 0.6716631650924683
+        },
+        {
+          "word": " and",
+          "start": 163.74,
+          "end": 164.12,
+          "probability": 0.998722493648529
+        },
+        {
+          "word": " its",
+          "start": 164.12,
+          "end": 164.42,
+          "probability": 0.8645543456077576
+        },
+        {
+          "word": " impoverished",
+          "start": 164.42,
+          "end": 165.1,
+          "probability": 0.9983409643173218
+        },
+        {
+          "word": " majority,",
+          "start": 165.1,
+          "end": 165.92,
+          "probability": 0.9981499910354614
+        },
+        {
+          "word": " the",
+          "start": 166.14,
+          "end": 166.28,
+          "probability": 0.9990352392196655
+        },
+        {
+          "word": " global",
+          "start": 166.28,
+          "end": 166.52,
+          "probability": 0.9613458514213562
+        },
+        {
+          "word": " south,",
+          "start": 166.52,
+          "end": 166.94,
+          "probability": 0.969998836517334
+        },
+        {
+          "word": " and",
+          "start": 167.58,
+          "end": 168.16,
+          "probability": 0.9965876340866089
+        },
+        {
+          "word": " in",
+          "start": 168.16,
+          "end": 168.44,
+          "probability": 0.9607518911361694
+        },
+        {
+          "word": " sort",
+          "start": 168.44,
+          "end": 168.92,
+          "probability": 0.4384150803089142
+        },
+        {
+          "word": " of",
+          "start": 168.92,
+          "end": 169.02,
+          "probability": 0.9973176121711731
+        },
+        {
+          "word": " what",
+          "start": 169.02,
+          "end": 169.12,
+          "probability": 0.9883579611778259
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 15212,
+      "start": 169.12,
+      "end": 177.88,
+      "text": " we might call global economics or geoeconomics. The march of globalization and its implications",
+      "tokens": [
+        51213,
+        356,
+        1244,
+        869,
+        3298,
+        12446,
+        393,
+        40087,
+        13926,
+        873,
+        13,
+        383,
+        9960,
+        286,
+        39155,
+        290,
+        663,
+        10939,
+        51653
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1664414784264943,
+      "compression_ratio": 1.7575757575757576,
+      "no_speech_prob": 0.0050342208705842495,
+      "words": [
+        {
+          "word": " we",
+          "start": 169.12,
+          "end": 169.26,
+          "probability": 0.9977551102638245
+        },
+        {
+          "word": " might",
+          "start": 169.26,
+          "end": 169.48,
+          "probability": 0.998484194278717
+        },
+        {
+          "word": " call",
+          "start": 169.48,
+          "end": 170.08,
+          "probability": 0.9987086057662964
+        },
+        {
+          "word": " global",
+          "start": 170.08,
+          "end": 170.8,
+          "probability": 0.6510178446769714
+        },
+        {
+          "word": " economics",
+          "start": 170.8,
+          "end": 171.6,
+          "probability": 0.9943451881408691
+        },
+        {
+          "word": " or",
+          "start": 171.6,
+          "end": 171.88,
+          "probability": 0.7779059410095215
+        },
+        {
+          "word": " geoeconomics.",
+          "start": 171.88,
+          "end": 173.2,
+          "probability": 0.9778069655100504
+        },
+        {
+          "word": " The",
+          "start": 173.62,
+          "end": 174.18,
+          "probability": 0.9910853505134583
+        },
+        {
+          "word": " march",
+          "start": 174.18,
+          "end": 175.26,
+          "probability": 0.9757171273231506
+        },
+        {
+          "word": " of",
+          "start": 175.26,
+          "end": 175.6,
+          "probability": 0.999206006526947
+        },
+        {
+          "word": " globalization",
+          "start": 175.6,
+          "end": 176.36,
+          "probability": 0.9956472516059875
+        },
+        {
+          "word": " and",
+          "start": 176.36,
+          "end": 177.0,
+          "probability": 0.945437490940094
+        },
+        {
+          "word": " its",
+          "start": 177.0,
+          "end": 177.18,
+          "probability": 0.9818583726882935
+        },
+        {
+          "word": " implications",
+          "start": 177.18,
+          "end": 177.88,
+          "probability": 0.9971655011177063
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 17788,
+      "start": 177.88,
+      "end": 185.3,
+      "text": " for international relations will be a sort of central concern. So if there are two sort of",
+      "tokens": [
+        50369,
+        329,
+        3230,
+        2316,
+        481,
+        307,
+        257,
+        3297,
+        286,
+        4318,
+        2328,
+        13,
+        1406,
+        611,
+        612,
+        389,
+        734,
+        3297,
+        286,
+        50729
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1771694402225682,
+      "compression_ratio": 1.5136612021857923,
+      "no_speech_prob": 0.04488246887922287,
+      "words": [
+        {
+          "word": " for",
+          "start": 177.88,
+          "end": 178.1,
+          "probability": 0.214777410030365
+        },
+        {
+          "word": " international",
+          "start": 178.1,
+          "end": 178.56,
+          "probability": 0.9685462117195129
+        },
+        {
+          "word": " relations",
+          "start": 178.56,
+          "end": 179.2,
+          "probability": 0.9972320199012756
+        },
+        {
+          "word": " will",
+          "start": 179.2,
+          "end": 179.84,
+          "probability": 0.8534513115882874
+        },
+        {
+          "word": " be",
+          "start": 179.84,
+          "end": 180.18,
+          "probability": 0.9990665316581726
+        },
+        {
+          "word": " a",
+          "start": 180.18,
+          "end": 180.5,
+          "probability": 0.9876546263694763
+        },
+        {
+          "word": " sort",
+          "start": 180.5,
+          "end": 180.76,
+          "probability": 0.6374022960662842
+        },
+        {
+          "word": " of",
+          "start": 180.76,
+          "end": 180.9,
+          "probability": 0.9969074130058289
+        },
+        {
+          "word": " central",
+          "start": 180.9,
+          "end": 181.34,
+          "probability": 0.9917469024658203
+        },
+        {
+          "word": " concern.",
+          "start": 181.34,
+          "end": 182.44,
+          "probability": 0.9801385402679443
+        },
+        {
+          "word": " So",
+          "start": 183.3,
+          "end": 183.36,
+          "probability": 0.9724182486534119
+        },
+        {
+          "word": " if",
+          "start": 183.36,
+          "end": 183.48,
+          "probability": 0.8269214630126953
+        },
+        {
+          "word": " there",
+          "start": 183.48,
+          "end": 183.58,
+          "probability": 0.9974531531333923
+        },
+        {
+          "word": " are",
+          "start": 183.58,
+          "end": 183.78,
+          "probability": 0.9911636114120483
+        },
+        {
+          "word": " two",
+          "start": 183.78,
+          "end": 184.22,
+          "probability": 0.9910077452659607
+        },
+        {
+          "word": " sort",
+          "start": 184.22,
+          "end": 185.12,
+          "probability": 0.685309886932373
+        },
+        {
+          "word": " of",
+          "start": 185.12,
+          "end": 185.3,
+          "probability": 0.9959434866905212
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 17788,
+      "start": 185.3,
+      "end": 192.2,
+      "text": " narrative strands that run most boldly through the lecture series ahead, they are, you know,",
+      "tokens": [
+        50729,
+        8689,
+        36593,
+        326,
+        1057,
+        749,
+        42831,
+        832,
+        262,
+        19143,
+        2168,
+        4058,
+        11,
+        484,
+        389,
+        11,
+        345,
+        760,
+        11,
+        51077
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1771694402225682,
+      "compression_ratio": 1.5136612021857923,
+      "no_speech_prob": 0.04488246887922287,
+      "words": [
+        {
+          "word": " narrative",
+          "start": 185.3,
+          "end": 185.6,
+          "probability": 0.9844489693641663
+        },
+        {
+          "word": " strands",
+          "start": 185.6,
+          "end": 186.24,
+          "probability": 0.9969698786735535
+        },
+        {
+          "word": " that",
+          "start": 186.24,
+          "end": 187.1,
+          "probability": 0.9907846450805664
+        },
+        {
+          "word": " run",
+          "start": 187.1,
+          "end": 187.96,
+          "probability": 0.9981196522712708
+        },
+        {
+          "word": " most",
+          "start": 187.96,
+          "end": 188.34,
+          "probability": 0.9943863153457642
+        },
+        {
+          "word": " boldly",
+          "start": 188.34,
+          "end": 188.94,
+          "probability": 0.9982653260231018
+        },
+        {
+          "word": " through",
+          "start": 188.94,
+          "end": 189.5,
+          "probability": 0.9870931506156921
+        },
+        {
+          "word": " the",
+          "start": 189.5,
+          "end": 189.7,
+          "probability": 0.9954273700714111
+        },
+        {
+          "word": " lecture",
+          "start": 189.7,
+          "end": 189.9,
+          "probability": 0.9270712733268738
+        },
+        {
+          "word": " series",
+          "start": 189.9,
+          "end": 190.46,
+          "probability": 0.9963105320930481
+        },
+        {
+          "word": " ahead,",
+          "start": 190.46,
+          "end": 190.94,
+          "probability": 0.9886834025382996
+        },
+        {
+          "word": " they",
+          "start": 191.42,
+          "end": 191.56,
+          "probability": 0.9833674430847168
+        },
+        {
+          "word": " are,",
+          "start": 191.56,
+          "end": 191.88,
+          "probability": 0.9987327456474304
+        },
+        {
+          "word": " you",
+          "start": 191.92,
+          "end": 192.1,
+          "probability": 0.5010526180267334
+        },
+        {
+          "word": " know,",
+          "start": 192.1,
+          "end": 192.2,
+          "probability": 0.9994818568229675
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 17788,
+      "start": 192.2,
+      "end": 201.5,
+      "text": " I would suggest as geopolitics or sort of great power conflicts and global political economy.",
+      "tokens": [
+        51077,
+        314,
+        561,
+        1950,
+        355,
+        30324,
+        21704,
+        393,
+        3297,
+        286,
+        1049,
+        1176,
+        12333,
+        290,
+        3298,
+        1964,
+        3773,
+        13,
+        51543
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1771694402225682,
+      "compression_ratio": 1.5136612021857923,
+      "no_speech_prob": 0.04488246887922287,
+      "words": [
+        {
+          "word": " I",
+          "start": 192.2,
+          "end": 192.28,
+          "probability": 0.996727705001831
+        },
+        {
+          "word": " would",
+          "start": 192.28,
+          "end": 192.44,
+          "probability": 0.99793541431427
+        },
+        {
+          "word": " suggest",
+          "start": 192.44,
+          "end": 192.88,
+          "probability": 0.9978571534156799
+        },
+        {
+          "word": " as",
+          "start": 192.88,
+          "end": 193.26,
+          "probability": 0.3760616183280945
+        },
+        {
+          "word": " geopolitics",
+          "start": 193.26,
+          "end": 194.32,
+          "probability": 0.7266300916671753
+        },
+        {
+          "word": " or",
+          "start": 194.32,
+          "end": 195.28,
+          "probability": 0.8526002764701843
+        },
+        {
+          "word": " sort",
+          "start": 195.28,
+          "end": 195.58,
+          "probability": 0.6077027320861816
+        },
+        {
+          "word": " of",
+          "start": 195.58,
+          "end": 196.76,
+          "probability": 0.9973843693733215
+        },
+        {
+          "word": " great",
+          "start": 196.76,
+          "end": 197.02,
+          "probability": 0.9590813517570496
+        },
+        {
+          "word": " power",
+          "start": 197.02,
+          "end": 197.32,
+          "probability": 0.9560938477516174
+        },
+        {
+          "word": " conflicts",
+          "start": 197.32,
+          "end": 197.92,
+          "probability": 0.9725922346115112
+        },
+        {
+          "word": " and",
+          "start": 197.92,
+          "end": 198.82,
+          "probability": 0.892484188079834
+        },
+        {
+          "word": " global",
+          "start": 198.82,
+          "end": 200.18,
+          "probability": 0.8574466705322266
+        },
+        {
+          "word": " political",
+          "start": 200.18,
+          "end": 200.88,
+          "probability": 0.9772452712059021
+        },
+        {
+          "word": " economy.",
+          "start": 200.88,
+          "end": 201.5,
+          "probability": 0.9982290863990784
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 20150,
+      "start": 201.5,
+      "end": 208.34,
+      "text": " So thinking about the changing organization of the world economy and the distribution of resources",
+      "tokens": [
+        50363,
+        1406,
+        3612,
+        546,
+        262,
+        5609,
+        4009,
+        286,
+        262,
+        995,
+        3773,
+        290,
+        262,
+        6082,
+        286,
+        4133,
+        50701
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15016962533973785,
+      "compression_ratio": 1.6512605042016806,
+      "no_speech_prob": 0.16221927106380463,
+      "words": [
+        {
+          "word": " So",
+          "start": 201.5,
+          "end": 201.9,
+          "probability": 0.0697958692908287
+        },
+        {
+          "word": " thinking",
+          "start": 201.9,
+          "end": 202.64,
+          "probability": 0.3929118812084198
+        },
+        {
+          "word": " about",
+          "start": 202.64,
+          "end": 202.98,
+          "probability": 0.9966559410095215
+        },
+        {
+          "word": " the",
+          "start": 202.98,
+          "end": 203.32,
+          "probability": 0.995044469833374
+        },
+        {
+          "word": " changing",
+          "start": 203.32,
+          "end": 203.82,
+          "probability": 0.9969263672828674
+        },
+        {
+          "word": " organization",
+          "start": 203.82,
+          "end": 205.22,
+          "probability": 0.9648651480674744
+        },
+        {
+          "word": " of",
+          "start": 205.22,
+          "end": 205.44,
+          "probability": 0.9978581070899963
+        },
+        {
+          "word": " the",
+          "start": 205.44,
+          "end": 205.56,
+          "probability": 0.9964691400527954
+        },
+        {
+          "word": " world",
+          "start": 205.56,
+          "end": 205.72,
+          "probability": 0.9913976192474365
+        },
+        {
+          "word": " economy",
+          "start": 205.72,
+          "end": 206.18,
+          "probability": 0.9964564442634583
+        },
+        {
+          "word": " and",
+          "start": 206.18,
+          "end": 206.76,
+          "probability": 0.866206705570221
+        },
+        {
+          "word": " the",
+          "start": 206.76,
+          "end": 206.94,
+          "probability": 0.9945612549781799
+        },
+        {
+          "word": " distribution",
+          "start": 206.94,
+          "end": 207.48,
+          "probability": 0.9983423948287964
+        },
+        {
+          "word": " of",
+          "start": 207.48,
+          "end": 207.84,
+          "probability": 0.9986674785614014
+        },
+        {
+          "word": " resources",
+          "start": 207.84,
+          "end": 208.34,
+          "probability": 0.9958655834197998
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 20150,
+      "start": 208.34,
+      "end": 216.58,
+      "text": " within it. This course is fundamentally interested in the international panorama, that is with dealing",
+      "tokens": [
+        50701,
+        1626,
+        340,
+        13,
+        770,
+        1781,
+        318,
+        17640,
+        4609,
+        287,
+        262,
+        3230,
+        3425,
+        36161,
+        11,
+        326,
+        318,
+        351,
+        7219,
+        51111
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15016962533973785,
+      "compression_ratio": 1.6512605042016806,
+      "no_speech_prob": 0.16221927106380463,
+      "words": [
+        {
+          "word": " within",
+          "start": 208.34,
+          "end": 208.92,
+          "probability": 0.9924308657646179
+        },
+        {
+          "word": " it.",
+          "start": 208.92,
+          "end": 209.58,
+          "probability": 0.9981473684310913
+        },
+        {
+          "word": " This",
+          "start": 210.66,
+          "end": 211.04,
+          "probability": 0.9898377656936646
+        },
+        {
+          "word": " course",
+          "start": 211.04,
+          "end": 211.58,
+          "probability": 0.9919651746749878
+        },
+        {
+          "word": " is",
+          "start": 211.58,
+          "end": 212.02,
+          "probability": 0.9955161213874817
+        },
+        {
+          "word": " fundamentally",
+          "start": 212.02,
+          "end": 212.48,
+          "probability": 0.939208984375
+        },
+        {
+          "word": " interested",
+          "start": 212.48,
+          "end": 213.52,
+          "probability": 0.9949483871459961
+        },
+        {
+          "word": " in",
+          "start": 213.52,
+          "end": 213.82,
+          "probability": 0.9983189702033997
+        },
+        {
+          "word": " the",
+          "start": 213.82,
+          "end": 214.02,
+          "probability": 0.9938082098960876
+        },
+        {
+          "word": " international",
+          "start": 214.02,
+          "end": 214.54,
+          "probability": 0.9262332916259766
+        },
+        {
+          "word": " panorama,",
+          "start": 214.54,
+          "end": 215.24,
+          "probability": 0.991521030664444
+        },
+        {
+          "word": " that",
+          "start": 215.24,
+          "end": 215.8,
+          "probability": 0.9924623966217041
+        },
+        {
+          "word": " is",
+          "start": 215.8,
+          "end": 216.0,
+          "probability": 0.9991322159767151
+        },
+        {
+          "word": " with",
+          "start": 216.0,
+          "end": 216.22,
+          "probability": 0.6267037987709045
+        },
+        {
+          "word": " dealing",
+          "start": 216.22,
+          "end": 216.58,
+          "probability": 0.9980751276016235
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 20150,
+      "start": 216.58,
+      "end": 224.06,
+      "text": " with the world as a whole. Of course, comprehending, you know, complex events in world history requires",
+      "tokens": [
+        51111,
+        351,
+        262,
+        995,
+        355,
+        257,
+        2187,
+        13,
+        3226,
+        1781,
+        11,
+        24772,
+        278,
+        11,
+        345,
+        760,
+        11,
+        3716,
+        2995,
+        287,
+        995,
+        2106,
+        4433,
+        51489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15016962533973785,
+      "compression_ratio": 1.6512605042016806,
+      "no_speech_prob": 0.16221927106380463,
+      "words": [
+        {
+          "word": " with",
+          "start": 216.58,
+          "end": 217.12,
+          "probability": 0.9963580965995789
+        },
+        {
+          "word": " the",
+          "start": 217.12,
+          "end": 217.3,
+          "probability": 0.9988252520561218
+        },
+        {
+          "word": " world",
+          "start": 217.3,
+          "end": 217.58,
+          "probability": 0.9990684390068054
+        },
+        {
+          "word": " as",
+          "start": 217.58,
+          "end": 217.92,
+          "probability": 0.9948450326919556
+        },
+        {
+          "word": " a",
+          "start": 217.92,
+          "end": 218.04,
+          "probability": 0.9968833327293396
+        },
+        {
+          "word": " whole.",
+          "start": 218.04,
+          "end": 218.36,
+          "probability": 0.9996598958969116
+        },
+        {
+          "word": " Of",
+          "start": 219.28,
+          "end": 219.34,
+          "probability": 0.9947361350059509
+        },
+        {
+          "word": " course,",
+          "start": 219.34,
+          "end": 219.66,
+          "probability": 0.9993002414703369
+        },
+        {
+          "word": " comprehending,",
+          "start": 219.74,
+          "end": 220.88,
+          "probability": 0.996552973985672
+        },
+        {
+          "word": " you",
+          "start": 220.88,
+          "end": 221.02,
+          "probability": 0.9857299327850342
+        },
+        {
+          "word": " know,",
+          "start": 221.02,
+          "end": 221.14,
+          "probability": 0.9992497563362122
+        },
+        {
+          "word": " complex",
+          "start": 221.2,
+          "end": 221.64,
+          "probability": 0.9981166124343872
+        },
+        {
+          "word": " events",
+          "start": 221.64,
+          "end": 222.18,
+          "probability": 0.9984706044197083
+        },
+        {
+          "word": " in",
+          "start": 222.18,
+          "end": 222.6,
+          "probability": 0.8384209871292114
+        },
+        {
+          "word": " world",
+          "start": 222.6,
+          "end": 222.88,
+          "probability": 0.9889218807220459
+        },
+        {
+          "word": " history",
+          "start": 222.88,
+          "end": 223.3,
+          "probability": 0.9996750354766846
+        },
+        {
+          "word": " requires",
+          "start": 223.3,
+          "end": 224.06,
+          "probability": 0.9718453884124756
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 20150,
+      "start": 224.06,
+      "end": 229.48,
+      "text": " us to pay careful attention to the interior histories of nation states. But we won't be",
+      "tokens": [
+        51489,
+        514,
+        284,
+        1414,
+        8161,
+        3241,
+        284,
+        262,
+        11087,
+        25985,
+        286,
+        3277,
+        2585,
+        13,
+        887,
+        356,
+        1839,
+        470,
+        307,
+        51759
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15016962533973785,
+      "compression_ratio": 1.6512605042016806,
+      "no_speech_prob": 0.16221927106380463,
+      "words": [
+        {
+          "word": " us",
+          "start": 224.06,
+          "end": 224.32,
+          "probability": 0.9970071911811829
+        },
+        {
+          "word": " to",
+          "start": 224.32,
+          "end": 224.46,
+          "probability": 0.9991809725761414
+        },
+        {
+          "word": " pay",
+          "start": 224.46,
+          "end": 224.6,
+          "probability": 0.9989821314811707
+        },
+        {
+          "word": " careful",
+          "start": 224.6,
+          "end": 224.96,
+          "probability": 0.9977670907974243
+        },
+        {
+          "word": " attention",
+          "start": 224.96,
+          "end": 225.4,
+          "probability": 0.99947589635849
+        },
+        {
+          "word": " to",
+          "start": 225.4,
+          "end": 225.88,
+          "probability": 0.9987574815750122
+        },
+        {
+          "word": " the",
+          "start": 225.88,
+          "end": 226.04,
+          "probability": 0.99869304895401
+        },
+        {
+          "word": " interior",
+          "start": 226.04,
+          "end": 226.52,
+          "probability": 0.9915894865989685
+        },
+        {
+          "word": " histories",
+          "start": 226.52,
+          "end": 227.08,
+          "probability": 0.9949594736099243
+        },
+        {
+          "word": " of",
+          "start": 227.08,
+          "end": 227.7,
+          "probability": 0.9989314675331116
+        },
+        {
+          "word": " nation",
+          "start": 227.7,
+          "end": 228.0,
+          "probability": 0.9912933707237244
+        },
+        {
+          "word": " states.",
+          "start": 228.0,
+          "end": 228.38,
+          "probability": 0.7086358070373535
+        },
+        {
+          "word": " But",
+          "start": 228.54,
+          "end": 229.0,
+          "probability": 0.9941748976707458
+        },
+        {
+          "word": " we",
+          "start": 229.0,
+          "end": 229.14,
+          "probability": 0.9822027683258057
+        },
+        {
+          "word": " won't",
+          "start": 229.14,
+          "end": 229.3,
+          "probability": 0.9920773506164551
+        },
+        {
+          "word": " be",
+          "start": 229.3,
+          "end": 229.48,
+          "probability": 0.9987749457359314
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 22948,
+      "start": 229.48,
+      "end": 234.46,
+      "text": " focusing on just one or two nation states. Rather, we'll be, you know, sort of shifting our focus as",
+      "tokens": [
+        50363,
+        10759,
+        319,
+        655,
+        530,
+        393,
+        734,
+        3277,
+        2585,
+        13,
+        11317,
+        11,
+        356,
+        1183,
+        307,
+        11,
+        345,
+        760,
+        11,
+        3297,
+        286,
+        15852,
+        674,
+        2962,
+        355,
+        50589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21767357776039525,
+      "compression_ratio": 1.2410714285714286,
+      "no_speech_prob": 0.05225251615047455,
+      "words": [
+        {
+          "word": " focusing",
+          "start": 229.48,
+          "end": 229.8,
+          "probability": 0.649286150932312
+        },
+        {
+          "word": " on",
+          "start": 229.8,
+          "end": 229.98,
+          "probability": 0.9832769632339478
+        },
+        {
+          "word": " just",
+          "start": 229.98,
+          "end": 230.12,
+          "probability": 0.9617530107498169
+        },
+        {
+          "word": " one",
+          "start": 230.12,
+          "end": 230.34,
+          "probability": 0.9796590805053711
+        },
+        {
+          "word": " or",
+          "start": 230.34,
+          "end": 230.44,
+          "probability": 0.9726846218109131
+        },
+        {
+          "word": " two",
+          "start": 230.44,
+          "end": 230.62,
+          "probability": 0.9959008097648621
+        },
+        {
+          "word": " nation",
+          "start": 230.62,
+          "end": 230.88,
+          "probability": 0.9671379327774048
+        },
+        {
+          "word": " states.",
+          "start": 230.88,
+          "end": 231.3,
+          "probability": 0.5975411534309387
+        },
+        {
+          "word": " Rather,",
+          "start": 231.72,
+          "end": 232.0,
+          "probability": 0.9935391545295715
+        },
+        {
+          "word": " we'll",
+          "start": 232.16,
+          "end": 232.24,
+          "probability": 0.9487032890319824
+        },
+        {
+          "word": " be,",
+          "start": 232.24,
+          "end": 232.44,
+          "probability": 0.9925795197486877
+        },
+        {
+          "word": " you",
+          "start": 232.44,
+          "end": 232.54,
+          "probability": 0.9203065633773804
+        },
+        {
+          "word": " know,",
+          "start": 232.54,
+          "end": 232.66,
+          "probability": 0.9992644190788269
+        },
+        {
+          "word": " sort",
+          "start": 232.72,
+          "end": 232.76,
+          "probability": 0.963416576385498
+        },
+        {
+          "word": " of",
+          "start": 232.76,
+          "end": 232.9,
+          "probability": 0.9978125095367432
+        },
+        {
+          "word": " shifting",
+          "start": 232.9,
+          "end": 233.18,
+          "probability": 0.9858052134513855
+        },
+        {
+          "word": " our",
+          "start": 233.18,
+          "end": 233.38,
+          "probability": 0.9970570802688599
+        },
+        {
+          "word": " focus",
+          "start": 233.38,
+          "end": 233.8,
+          "probability": 0.9994352459907532
+        },
+        {
+          "word": " as",
+          "start": 233.8,
+          "end": 234.46,
+          "probability": 0.8675327301025391
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 22948,
+      "start": 234.46,
+      "end": 238.1,
+      "text": " the global panorama requires us to do.",
+      "tokens": [
+        50589,
+        262,
+        3298,
+        3425,
+        36161,
+        4433,
+        514,
+        284,
+        466,
+        13,
+        50887
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21767357776039525,
+      "compression_ratio": 1.2410714285714286,
+      "no_speech_prob": 0.05225251615047455,
+      "words": [
+        {
+          "word": " the",
+          "start": 234.46,
+          "end": 234.68,
+          "probability": 0.9986782670021057
+        },
+        {
+          "word": " global",
+          "start": 234.68,
+          "end": 235.12,
+          "probability": 0.9721068143844604
+        },
+        {
+          "word": " panorama",
+          "start": 235.12,
+          "end": 236.08,
+          "probability": 0.9644976854324341
+        },
+        {
+          "word": " requires",
+          "start": 236.08,
+          "end": 236.84,
+          "probability": 0.9939510822296143
+        },
+        {
+          "word": " us",
+          "start": 236.84,
+          "end": 237.24,
+          "probability": 0.9985962510108948
+        },
+        {
+          "word": " to",
+          "start": 237.24,
+          "end": 237.6,
+          "probability": 0.9955459833145142
+        },
+        {
+          "word": " do.",
+          "start": 237.6,
+          "end": 238.1,
+          "probability": 0.9986227750778198
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

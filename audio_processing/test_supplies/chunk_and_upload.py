@@ -8,9 +8,9 @@ AudioSegment.converter = r"C:\\Users\\SFEco\\OneDrive\\Desktop\\AI\\ffmpeg-7.1.1
 AudioSegment.ffprobe   = r"C:\\Users\\SFEco\\OneDrive\\Desktop\\AI\\ffmpeg-7.1.1-full_build\\ffmpeg-7.1.1-full_build\\bin\\ffprobe.exe"
 
 # CONFIGURABLE: Set this to your source folder for long audio files
-SOURCE_DIR = "../uploads"  # Now points to uploads folder
+SOURCE_DIR = "."  # Now points to current folder (test_supplies)
 INPUT_FILE = "01. 2012-01-17 - Lecture 1_ History of the Present.mp3"  # Your MP3 file
-OUTPUT_DIR = "../uploads"    # Output to uploads folder (relative to test_supplies)
+OUTPUT_DIR = r"C:\\Users\\SFEco\\OneDrive\\Desktop\\AI\\MyThoughts\\MyThoughtsServer\\upload_server\\uploads"    # Output to uploads folder (absolute path)
 CHUNK_LENGTH_SEC = 240        # 4 minutes
 
 

@@ -1,0 +1,5114 @@
+{
+  "text": " decades and Jeff Engles' edited volume on the fall of the Berlin Wall are fairly short books that are germane only to a particular weeks of the syllabus. Besides being shorter than in weeks past, I hope that this semester's reading list is also a little bit cheaper than has been the case. I always try to be sensitive to the cost of readings, but by assigning fewer books, I hope that I've also been able to reduce the overall expenditure for all of you. The total price of these books, I looked it up on Amazon, I was really considerate, ranges from about $45 to about $70 depending upon whether you buy the books used on new. That's probably cheaper than the textbook layout for most of your classes is, at least I hope that I'm doing better than the chemistry and physics departments with their heavy textbooks. If the cost is a concern, my advice would be that the key texts to acquire are Reynolds and Jurgen. The others you'll find it easier to make do with in the library. But I think you'll find it really useful to have the first two texts because those are utilized in multiple weeks readings. There are other readings besides the four books that are recommended for purchase in the syllabus. These will all be available via B-Space. So you don't have to worry about buying copies of anything beyond the textbooks. You know, I very much hope that the readings are manageable. The reading load has been designed to be manageable. There may be two weeks in which you're expected to read an entire book. No more than that. In some weeks, it's just a couple of chapters. If you have problems with the readings, come talk to me, go talk to GSI. We can probably give you some counsel on how to read historical texts. Look, reading history is different from reading literature. The purpose in most of our readings is not to read every word of every sentence. Rather, you need to sort of read for gist. You need to read so as to acquire some sense of what, you know, the really important events are and of what the author's line of interpretation might happen to be. But you're not reading this to appreciate the prose. And if you find that you're struggling with the reading, then I would humbly suggest that you might be reading in the wrong way for a course of this nature. And we can sort of talk about how you might do things a little differently. Okay, the most important part of the class is not the lectures, but the sections. That's where the real teaching and learning occurs. I'm delighted that the history department was able to provide section meetings for this class, and I hope that you're as excited about them as I am. We have two terrific GSIs who are going to be teaching the class. Maybe you could ask David and Brian to stand up. Okay, maybe I'll ask you each to introduce yourselves. Sure. I'm David Deecher. I'm a long-standing graduate student in the history department from the West End Soviet Union and European history in kind of a global sense. I'm from France and lived abroad and other places. I'm from Estonia and looking forward to meeting you. Great. And Brian? Okay. Great, thank you. Let me simply reinforce the point. The sections serve a very important role.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.74,
+      "text": " decades and Jeff Engles' edited volume on the fall of the Berlin Wall are fairly short",
+      "tokens": [
+        50363,
+        4647,
+        290,
+        5502,
+        1985,
+        829,
+        6,
+        13012,
+        6115,
+        319,
+        262,
+        2121,
+        286,
+        262,
+        11307,
+        5007,
+        389,
+        6547,
+        1790,
+        50650
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17626358360372563,
+      "compression_ratio": 1.609442060085837,
+      "no_speech_prob": 0.009507262147963047,
+      "words": [
+        {
+          "word": " decades",
+          "start": 0.0,
+          "end": 0.66,
+          "probability": 0.29248684644699097
+        },
+        {
+          "word": " and",
+          "start": 0.66,
+          "end": 1.06,
+          "probability": 0.6709486246109009
+        },
+        {
+          "word": " Jeff",
+          "start": 1.06,
+          "end": 1.7,
+          "probability": 0.5300962924957275
+        },
+        {
+          "word": " Engles'",
+          "start": 1.7,
+          "end": 2.1,
+          "probability": 0.5671130120754242
+        },
+        {
+          "word": " edited",
+          "start": 2.28,
+          "end": 2.52,
+          "probability": 0.9700160026550293
+        },
+        {
+          "word": " volume",
+          "start": 2.52,
+          "end": 2.84,
+          "probability": 0.9253396391868591
+        },
+        {
+          "word": " on",
+          "start": 2.84,
+          "end": 3.0,
+          "probability": 0.784491777420044
+        },
+        {
+          "word": " the",
+          "start": 3.0,
+          "end": 3.12,
+          "probability": 0.564983606338501
+        },
+        {
+          "word": " fall",
+          "start": 3.12,
+          "end": 3.26,
+          "probability": 0.7759356498718262
+        },
+        {
+          "word": " of",
+          "start": 3.26,
+          "end": 3.4,
+          "probability": 0.9772216081619263
+        },
+        {
+          "word": " the",
+          "start": 3.4,
+          "end": 3.48,
+          "probability": 0.9813064336776733
+        },
+        {
+          "word": " Berlin",
+          "start": 3.48,
+          "end": 3.76,
+          "probability": 0.9982563853263855
+        },
+        {
+          "word": " Wall",
+          "start": 3.76,
+          "end": 4.1,
+          "probability": 0.8646515607833862
+        },
+        {
+          "word": " are",
+          "start": 4.1,
+          "end": 4.96,
+          "probability": 0.5089947581291199
+        },
+        {
+          "word": " fairly",
+          "start": 4.96,
+          "end": 5.42,
+          "probability": 0.99432373046875
+        },
+        {
+          "word": " short",
+          "start": 5.42,
+          "end": 5.74,
+          "probability": 0.9971753358840942
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.74,
+      "end": 11.48,
+      "text": " books that are germane only to a particular weeks of the syllabus.",
+      "tokens": [
+        50650,
+        3835,
+        326,
+        389,
+        308,
+        2224,
+        68,
+        691,
+        284,
+        257,
+        1948,
+        2745,
+        286,
+        262,
+        27226,
+        46844,
+        13,
+        51019
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17626358360372563,
+      "compression_ratio": 1.609442060085837,
+      "no_speech_prob": 0.009507262147963047,
+      "words": [
+        {
+          "word": " books",
+          "start": 5.74,
+          "end": 6.12,
+          "probability": 0.9932617545127869
+        },
+        {
+          "word": " that",
+          "start": 6.12,
+          "end": 6.94,
+          "probability": 0.9588524699211121
+        },
+        {
+          "word": " are",
+          "start": 6.94,
+          "end": 7.56,
+          "probability": 0.9892027974128723
+        },
+        {
+          "word": " germane",
+          "start": 7.56,
+          "end": 8.22,
+          "probability": 0.9711214900016785
+        },
+        {
+          "word": " only",
+          "start": 8.22,
+          "end": 8.58,
+          "probability": 0.9692206978797913
+        },
+        {
+          "word": " to",
+          "start": 8.58,
+          "end": 9.0,
+          "probability": 0.9531438946723938
+        },
+        {
+          "word": " a",
+          "start": 9.0,
+          "end": 9.22,
+          "probability": 0.6928849220275879
+        },
+        {
+          "word": " particular",
+          "start": 9.22,
+          "end": 9.6,
+          "probability": 0.9911534190177917
+        },
+        {
+          "word": " weeks",
+          "start": 9.6,
+          "end": 10.22,
+          "probability": 0.8641526699066162
+        },
+        {
+          "word": " of",
+          "start": 10.22,
+          "end": 10.74,
+          "probability": 0.9866706728935242
+        },
+        {
+          "word": " the",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 0.9944025874137878
+        },
+        {
+          "word": " syllabus.",
+          "start": 10.9,
+          "end": 11.48,
+          "probability": 0.9868871867656708
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.06,
+      "end": 18.44,
+      "text": " Besides being shorter than in weeks past, I hope that this semester's reading list is",
+      "tokens": [
+        51019,
+        16238,
+        852,
+        12238,
+        621,
+        287,
+        2745,
+        1613,
+        11,
+        314,
+        2911,
+        326,
+        428,
+        24878,
+        338,
+        3555,
+        1351,
+        318,
+        51282
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17626358360372563,
+      "compression_ratio": 1.609442060085837,
+      "no_speech_prob": 0.009507262147963047,
+      "words": [
+        {
+          "word": " Besides",
+          "start": 13.06,
+          "end": 13.38,
+          "probability": 0.9930084943771362
+        },
+        {
+          "word": " being",
+          "start": 13.38,
+          "end": 13.76,
+          "probability": 0.9963867664337158
+        },
+        {
+          "word": " shorter",
+          "start": 13.76,
+          "end": 14.26,
+          "probability": 0.9963731169700623
+        },
+        {
+          "word": " than",
+          "start": 14.26,
+          "end": 15.2,
+          "probability": 0.9202405214309692
+        },
+        {
+          "word": " in",
+          "start": 15.2,
+          "end": 15.4,
+          "probability": 0.9047108292579651
+        },
+        {
+          "word": " weeks",
+          "start": 15.4,
+          "end": 15.78,
+          "probability": 0.9896467328071594
+        },
+        {
+          "word": " past,",
+          "start": 15.78,
+          "end": 16.18,
+          "probability": 0.9828925132751465
+        },
+        {
+          "word": " I",
+          "start": 16.38,
+          "end": 16.44,
+          "probability": 0.9935715198516846
+        },
+        {
+          "word": " hope",
+          "start": 16.44,
+          "end": 16.64,
+          "probability": 0.9959320425987244
+        },
+        {
+          "word": " that",
+          "start": 16.64,
+          "end": 16.9,
+          "probability": 0.9398720264434814
+        },
+        {
+          "word": " this",
+          "start": 16.9,
+          "end": 17.18,
+          "probability": 0.9942955374717712
+        },
+        {
+          "word": " semester's",
+          "start": 17.18,
+          "end": 17.84,
+          "probability": 0.9156082272529602
+        },
+        {
+          "word": " reading",
+          "start": 17.84,
+          "end": 18.04,
+          "probability": 0.9927771091461182
+        },
+        {
+          "word": " list",
+          "start": 18.04,
+          "end": 18.28,
+          "probability": 0.962477445602417
+        },
+        {
+          "word": " is",
+          "start": 18.28,
+          "end": 18.44,
+          "probability": 0.9942627549171448
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.44,
+      "end": 21.56,
+      "text": " also a little bit cheaper than has been the case.",
+      "tokens": [
+        51282,
+        635,
+        257,
+        1310,
+        1643,
+        11721,
+        621,
+        468,
+        587,
+        262,
+        1339,
+        13,
+        51473
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17626358360372563,
+      "compression_ratio": 1.609442060085837,
+      "no_speech_prob": 0.009507262147963047,
+      "words": [
+        {
+          "word": " also",
+          "start": 18.44,
+          "end": 18.7,
+          "probability": 0.9807367324829102
+        },
+        {
+          "word": " a",
+          "start": 18.7,
+          "end": 18.82,
+          "probability": 0.9858019948005676
+        },
+        {
+          "word": " little",
+          "start": 18.82,
+          "end": 18.94,
+          "probability": 0.9912319779396057
+        },
+        {
+          "word": " bit",
+          "start": 18.94,
+          "end": 19.08,
+          "probability": 0.9718607068061829
+        },
+        {
+          "word": " cheaper",
+          "start": 19.08,
+          "end": 19.52,
+          "probability": 0.9978280663490295
+        },
+        {
+          "word": " than",
+          "start": 19.52,
+          "end": 20.56,
+          "probability": 0.9593542814254761
+        },
+        {
+          "word": " has",
+          "start": 20.56,
+          "end": 20.92,
+          "probability": 0.9919273853302002
+        },
+        {
+          "word": " been",
+          "start": 20.92,
+          "end": 21.1,
+          "probability": 0.9983662962913513
+        },
+        {
+          "word": " the",
+          "start": 21.1,
+          "end": 21.28,
+          "probability": 0.9988961219787598
+        },
+        {
+          "word": " case.",
+          "start": 21.28,
+          "end": 21.56,
+          "probability": 0.9994795918464661
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.12,
+      "end": 28.18,
+      "text": " I always try to be sensitive to the cost of readings, but by assigning fewer books, I",
+      "tokens": [
+        51473,
+        314,
+        1464,
+        1949,
+        284,
+        307,
+        8564,
+        284,
+        262,
+        1575,
+        286,
+        24654,
+        11,
+        475,
+        416,
+        38875,
+        7380,
+        3835,
+        11,
+        314,
+        51772
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17626358360372563,
+      "compression_ratio": 1.609442060085837,
+      "no_speech_prob": 0.009507262147963047,
+      "words": [
+        {
+          "word": " I",
+          "start": 22.12,
+          "end": 22.36,
+          "probability": 0.8299487829208374
+        },
+        {
+          "word": " always",
+          "start": 22.36,
+          "end": 22.6,
+          "probability": 0.9917980432510376
+        },
+        {
+          "word": " try",
+          "start": 22.6,
+          "end": 22.78,
+          "probability": 0.988853931427002
+        },
+        {
+          "word": " to",
+          "start": 22.78,
+          "end": 22.88,
+          "probability": 0.9968174695968628
+        },
+        {
+          "word": " be",
+          "start": 22.88,
+          "end": 23.08,
+          "probability": 0.9974836707115173
+        },
+        {
+          "word": " sensitive",
+          "start": 23.08,
+          "end": 23.66,
+          "probability": 0.6892979741096497
+        },
+        {
+          "word": " to",
+          "start": 23.66,
+          "end": 23.92,
+          "probability": 0.9959321618080139
+        },
+        {
+          "word": " the",
+          "start": 23.92,
+          "end": 24.06,
+          "probability": 0.9970747232437134
+        },
+        {
+          "word": " cost",
+          "start": 24.06,
+          "end": 24.28,
+          "probability": 0.9945390820503235
+        },
+        {
+          "word": " of",
+          "start": 24.28,
+          "end": 24.5,
+          "probability": 0.9971171617507935
+        },
+        {
+          "word": " readings,",
+          "start": 24.5,
+          "end": 24.9,
+          "probability": 0.954439640045166
+        },
+        {
+          "word": " but",
+          "start": 25.2,
+          "end": 26.46,
+          "probability": 0.9961956739425659
+        },
+        {
+          "word": " by",
+          "start": 26.46,
+          "end": 26.68,
+          "probability": 0.9931859970092773
+        },
+        {
+          "word": " assigning",
+          "start": 26.68,
+          "end": 27.06,
+          "probability": 0.8957532048225403
+        },
+        {
+          "word": " fewer",
+          "start": 27.06,
+          "end": 27.4,
+          "probability": 0.9786656498908997
+        },
+        {
+          "word": " books,",
+          "start": 27.4,
+          "end": 27.78,
+          "probability": 0.9987708926200867
+        },
+        {
+          "word": " I",
+          "start": 28.06,
+          "end": 28.18,
+          "probability": 0.9972087740898132
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2818,
+      "start": 28.18,
+      "end": 31.92,
+      "text": " hope that I've also been able to reduce the overall expenditure for all of you.",
+      "tokens": [
+        50363,
+        2911,
+        326,
+        314,
+        1053,
+        635,
+        587,
+        1498,
+        284,
+        4646,
+        262,
+        4045,
+        20705,
+        329,
+        477,
+        286,
+        345,
+        13,
+        50595
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11431485873002273,
+      "compression_ratio": 1.6199261992619927,
+      "no_speech_prob": 0.743293821811676,
+      "words": [
+        {
+          "word": " hope",
+          "start": 28.18,
+          "end": 28.3,
+          "probability": 0.19526077806949615
+        },
+        {
+          "word": " that",
+          "start": 28.3,
+          "end": 28.44,
+          "probability": 0.8931640386581421
+        },
+        {
+          "word": " I've",
+          "start": 28.44,
+          "end": 28.58,
+          "probability": 0.9099439680576324
+        },
+        {
+          "word": " also",
+          "start": 28.58,
+          "end": 28.8,
+          "probability": 0.9604523181915283
+        },
+        {
+          "word": " been",
+          "start": 28.8,
+          "end": 28.96,
+          "probability": 0.9753687381744385
+        },
+        {
+          "word": " able",
+          "start": 28.96,
+          "end": 29.1,
+          "probability": 0.9982301592826843
+        },
+        {
+          "word": " to",
+          "start": 29.1,
+          "end": 29.22,
+          "probability": 0.9966259002685547
+        },
+        {
+          "word": " reduce",
+          "start": 29.22,
+          "end": 29.46,
+          "probability": 0.9891607165336609
+        },
+        {
+          "word": " the",
+          "start": 29.46,
+          "end": 29.64,
+          "probability": 0.9975793957710266
+        },
+        {
+          "word": " overall",
+          "start": 29.64,
+          "end": 29.98,
+          "probability": 0.9984685778617859
+        },
+        {
+          "word": " expenditure",
+          "start": 29.98,
+          "end": 31.1,
+          "probability": 0.9789009094238281
+        },
+        {
+          "word": " for",
+          "start": 31.1,
+          "end": 31.42,
+          "probability": 0.9950048327445984
+        },
+        {
+          "word": " all",
+          "start": 31.42,
+          "end": 31.54,
+          "probability": 0.9956302642822266
+        },
+        {
+          "word": " of",
+          "start": 31.54,
+          "end": 31.68,
+          "probability": 0.9977344274520874
+        },
+        {
+          "word": " you.",
+          "start": 31.68,
+          "end": 31.92,
+          "probability": 0.999305009841919
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2818,
+      "start": 32.66,
+      "end": 38.82,
+      "text": " The total price of these books, I looked it up on Amazon, I was really considerate, ranges",
+      "tokens": [
+        50595,
+        383,
+        2472,
+        2756,
+        286,
+        777,
+        3835,
+        11,
+        314,
+        3114,
+        340,
+        510,
+        319,
+        6186,
+        11,
+        314,
+        373,
+        1107,
+        2074,
+        378,
+        11,
+        16069,
+        50900
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11431485873002273,
+      "compression_ratio": 1.6199261992619927,
+      "no_speech_prob": 0.743293821811676,
+      "words": [
+        {
+          "word": " The",
+          "start": 32.66,
+          "end": 32.92,
+          "probability": 0.9934852719306946
+        },
+        {
+          "word": " total",
+          "start": 32.92,
+          "end": 33.26,
+          "probability": 0.9993815422058105
+        },
+        {
+          "word": " price",
+          "start": 33.26,
+          "end": 33.9,
+          "probability": 0.9982700347900391
+        },
+        {
+          "word": " of",
+          "start": 33.9,
+          "end": 34.1,
+          "probability": 0.9869662523269653
+        },
+        {
+          "word": " these",
+          "start": 34.1,
+          "end": 34.24,
+          "probability": 0.9954447746276855
+        },
+        {
+          "word": " books,",
+          "start": 34.24,
+          "end": 34.44,
+          "probability": 0.9973424077033997
+        },
+        {
+          "word": " I",
+          "start": 34.48,
+          "end": 34.6,
+          "probability": 0.9969678521156311
+        },
+        {
+          "word": " looked",
+          "start": 34.6,
+          "end": 34.76,
+          "probability": 0.9962822794914246
+        },
+        {
+          "word": " it",
+          "start": 34.76,
+          "end": 34.86,
+          "probability": 0.968755841255188
+        },
+        {
+          "word": " up",
+          "start": 34.86,
+          "end": 34.96,
+          "probability": 0.9980083107948303
+        },
+        {
+          "word": " on",
+          "start": 34.96,
+          "end": 35.1,
+          "probability": 0.9926981329917908
+        },
+        {
+          "word": " Amazon,",
+          "start": 35.1,
+          "end": 35.46,
+          "probability": 0.9906604886054993
+        },
+        {
+          "word": " I",
+          "start": 35.68,
+          "end": 35.78,
+          "probability": 0.79371577501297
+        },
+        {
+          "word": " was",
+          "start": 35.78,
+          "end": 35.88,
+          "probability": 0.9158123731613159
+        },
+        {
+          "word": " really",
+          "start": 35.88,
+          "end": 36.12,
+          "probability": 0.9945512413978577
+        },
+        {
+          "word": " considerate,",
+          "start": 36.12,
+          "end": 37.36,
+          "probability": 0.987827867269516
+        },
+        {
+          "word": " ranges",
+          "start": 38.16,
+          "end": 38.82,
+          "probability": 0.9839392900466919
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2818,
+      "start": 38.82,
+      "end": 44.2,
+      "text": " from about $45 to about $70 depending upon whether you buy the books used on new.",
+      "tokens": [
+        50900,
+        422,
+        546,
+        720,
+        2231,
+        284,
+        546,
+        720,
+        2154,
+        6906,
+        2402,
+        1771,
+        345,
+        2822,
+        262,
+        3835,
+        973,
+        319,
+        649,
+        13,
+        51262
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11431485873002273,
+      "compression_ratio": 1.6199261992619927,
+      "no_speech_prob": 0.743293821811676,
+      "words": [
+        {
+          "word": " from",
+          "start": 38.82,
+          "end": 39.46,
+          "probability": 0.9980795383453369
+        },
+        {
+          "word": " about",
+          "start": 39.46,
+          "end": 40.04,
+          "probability": 0.9905829429626465
+        },
+        {
+          "word": " $45",
+          "start": 40.04,
+          "end": 40.56,
+          "probability": 0.9728374779224396
+        },
+        {
+          "word": " to",
+          "start": 40.56,
+          "end": 41.14,
+          "probability": 0.9451347589492798
+        },
+        {
+          "word": " about",
+          "start": 41.14,
+          "end": 41.36,
+          "probability": 0.9940314888954163
+        },
+        {
+          "word": " $70",
+          "start": 41.36,
+          "end": 41.84,
+          "probability": 0.9973841905593872
+        },
+        {
+          "word": " depending",
+          "start": 41.84,
+          "end": 42.42,
+          "probability": 0.46545475721359253
+        },
+        {
+          "word": " upon",
+          "start": 42.42,
+          "end": 42.72,
+          "probability": 0.9200257658958435
+        },
+        {
+          "word": " whether",
+          "start": 42.72,
+          "end": 42.96,
+          "probability": 0.9826975464820862
+        },
+        {
+          "word": " you",
+          "start": 42.96,
+          "end": 43.08,
+          "probability": 0.9958993792533875
+        },
+        {
+          "word": " buy",
+          "start": 43.08,
+          "end": 43.2,
+          "probability": 0.9937673807144165
+        },
+        {
+          "word": " the",
+          "start": 43.2,
+          "end": 43.36,
+          "probability": 0.9949113726615906
+        },
+        {
+          "word": " books",
+          "start": 43.36,
+          "end": 43.54,
+          "probability": 0.9961748123168945
+        },
+        {
+          "word": " used",
+          "start": 43.54,
+          "end": 43.84,
+          "probability": 0.9429973363876343
+        },
+        {
+          "word": " on",
+          "start": 43.84,
+          "end": 44.04,
+          "probability": 0.9834327697753906
+        },
+        {
+          "word": " new.",
+          "start": 44.04,
+          "end": 44.2,
+          "probability": 0.5150493383407593
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2818,
+      "start": 45.8,
+      "end": 50.52,
+      "text": " That's probably cheaper than the textbook layout for most of your classes is, at least",
+      "tokens": [
+        51262,
+        1320,
+        338,
+        2192,
+        11721,
+        621,
+        262,
+        28979,
+        12461,
+        329,
+        749,
+        286,
+        534,
+        6097,
+        318,
+        11,
+        379,
+        1551,
+        51479
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11431485873002273,
+      "compression_ratio": 1.6199261992619927,
+      "no_speech_prob": 0.743293821811676,
+      "words": [
+        {
+          "word": " That's",
+          "start": 45.8,
+          "end": 46.24,
+          "probability": 0.9869227111339569
+        },
+        {
+          "word": " probably",
+          "start": 46.24,
+          "end": 46.66,
+          "probability": 0.9981149435043335
+        },
+        {
+          "word": " cheaper",
+          "start": 46.66,
+          "end": 47.08,
+          "probability": 0.9955427050590515
+        },
+        {
+          "word": " than",
+          "start": 47.08,
+          "end": 47.5,
+          "probability": 0.9717720150947571
+        },
+        {
+          "word": " the",
+          "start": 47.5,
+          "end": 48.12,
+          "probability": 0.9943968057632446
+        },
+        {
+          "word": " textbook",
+          "start": 48.12,
+          "end": 48.46,
+          "probability": 0.961086630821228
+        },
+        {
+          "word": " layout",
+          "start": 48.46,
+          "end": 48.76,
+          "probability": 0.92184978723526
+        },
+        {
+          "word": " for",
+          "start": 48.76,
+          "end": 48.94,
+          "probability": 0.9655601382255554
+        },
+        {
+          "word": " most",
+          "start": 48.94,
+          "end": 49.12,
+          "probability": 0.9977372884750366
+        },
+        {
+          "word": " of",
+          "start": 49.12,
+          "end": 49.26,
+          "probability": 0.9958493709564209
+        },
+        {
+          "word": " your",
+          "start": 49.26,
+          "end": 49.4,
+          "probability": 0.9918279647827148
+        },
+        {
+          "word": " classes",
+          "start": 49.4,
+          "end": 49.72,
+          "probability": 0.9926453828811646
+        },
+        {
+          "word": " is,",
+          "start": 49.72,
+          "end": 50.12,
+          "probability": 0.9639120101928711
+        },
+        {
+          "word": " at",
+          "start": 50.32,
+          "end": 50.52,
+          "probability": 0.813315212726593
+        },
+        {
+          "word": " least",
+          "start": 50.52,
+          "end": 50.52,
+          "probability": 0.9978972673416138
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2818,
+      "start": 50.52,
+      "end": 54.7,
+      "text": " I hope that I'm doing better than the chemistry and physics departments with their heavy textbooks.",
+      "tokens": [
+        51479,
+        314,
+        2911,
+        326,
+        314,
+        1101,
+        1804,
+        1365,
+        621,
+        262,
+        16585,
+        290,
+        11887,
+        13346,
+        351,
+        511,
+        4334,
+        31814,
+        13,
+        51789
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11431485873002273,
+      "compression_ratio": 1.6199261992619927,
+      "no_speech_prob": 0.743293821811676,
+      "words": [
+        {
+          "word": " I",
+          "start": 50.52,
+          "end": 50.66,
+          "probability": 0.9664596915245056
+        },
+        {
+          "word": " hope",
+          "start": 50.66,
+          "end": 50.8,
+          "probability": 0.9945883750915527
+        },
+        {
+          "word": " that",
+          "start": 50.8,
+          "end": 50.94,
+          "probability": 0.8687118887901306
+        },
+        {
+          "word": " I'm",
+          "start": 50.94,
+          "end": 51.04,
+          "probability": 0.9877857267856598
+        },
+        {
+          "word": " doing",
+          "start": 51.04,
+          "end": 51.22,
+          "probability": 0.9946168065071106
+        },
+        {
+          "word": " better",
+          "start": 51.22,
+          "end": 51.44,
+          "probability": 0.994438886642456
+        },
+        {
+          "word": " than",
+          "start": 51.44,
+          "end": 51.62,
+          "probability": 0.9852427244186401
+        },
+        {
+          "word": " the",
+          "start": 51.62,
+          "end": 51.86,
+          "probability": 0.9211206436157227
+        },
+        {
+          "word": " chemistry",
+          "start": 51.86,
+          "end": 52.44,
+          "probability": 0.9015691876411438
+        },
+        {
+          "word": " and",
+          "start": 52.44,
+          "end": 52.68,
+          "probability": 0.9890516400337219
+        },
+        {
+          "word": " physics",
+          "start": 52.68,
+          "end": 52.96,
+          "probability": 0.9933311343193054
+        },
+        {
+          "word": " departments",
+          "start": 52.96,
+          "end": 53.38,
+          "probability": 0.9772217273712158
+        },
+        {
+          "word": " with",
+          "start": 53.38,
+          "end": 53.66,
+          "probability": 0.9810475707054138
+        },
+        {
+          "word": " their",
+          "start": 53.66,
+          "end": 53.88,
+          "probability": 0.9859521389007568
+        },
+        {
+          "word": " heavy",
+          "start": 53.88,
+          "end": 54.22,
+          "probability": 0.9991981387138367
+        },
+        {
+          "word": " textbooks.",
+          "start": 54.22,
+          "end": 54.7,
+          "probability": 0.9867691993713379
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5470,
+      "start": 55.879999999999995,
+      "end": 61.92,
+      "text": " If the cost is a concern, my advice would be that the key texts to acquire are Reynolds",
+      "tokens": [
+        50363,
+        1002,
+        262,
+        1575,
+        318,
+        257,
+        2328,
+        11,
+        616,
+        5608,
+        561,
+        307,
+        326,
+        262,
+        1994,
+        13399,
+        284,
+        12831,
+        389,
+        21995,
+        50727
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2019947091328729,
+      "compression_ratio": 1.6260504201680672,
+      "no_speech_prob": 0.012787125073373318,
+      "words": [
+        {
+          "word": " If",
+          "start": 55.879999999999995,
+          "end": 56.44,
+          "probability": 0.6395759582519531
+        },
+        {
+          "word": " the",
+          "start": 56.44,
+          "end": 56.88,
+          "probability": 0.9953696131706238
+        },
+        {
+          "word": " cost",
+          "start": 56.88,
+          "end": 57.1,
+          "probability": 0.9958919286727905
+        },
+        {
+          "word": " is",
+          "start": 57.1,
+          "end": 57.24,
+          "probability": 0.9928054213523865
+        },
+        {
+          "word": " a",
+          "start": 57.24,
+          "end": 57.38,
+          "probability": 0.9948917627334595
+        },
+        {
+          "word": " concern,",
+          "start": 57.38,
+          "end": 57.8,
+          "probability": 0.99955815076828
+        },
+        {
+          "word": " my",
+          "start": 57.94,
+          "end": 58.1,
+          "probability": 0.9956320524215698
+        },
+        {
+          "word": " advice",
+          "start": 58.1,
+          "end": 58.5,
+          "probability": 0.995439887046814
+        },
+        {
+          "word": " would",
+          "start": 58.5,
+          "end": 58.8,
+          "probability": 0.9937911629676819
+        },
+        {
+          "word": " be",
+          "start": 58.8,
+          "end": 59.1,
+          "probability": 0.9986616373062134
+        },
+        {
+          "word": " that",
+          "start": 59.1,
+          "end": 59.48,
+          "probability": 0.9586547613143921
+        },
+        {
+          "word": " the",
+          "start": 59.48,
+          "end": 59.74,
+          "probability": 0.9822911024093628
+        },
+        {
+          "word": " key",
+          "start": 59.74,
+          "end": 60.02,
+          "probability": 0.9967448711395264
+        },
+        {
+          "word": " texts",
+          "start": 60.02,
+          "end": 60.5,
+          "probability": 0.9743860960006714
+        },
+        {
+          "word": " to",
+          "start": 60.5,
+          "end": 60.76,
+          "probability": 0.9922491312026978
+        },
+        {
+          "word": " acquire",
+          "start": 60.76,
+          "end": 61.3,
+          "probability": 0.995541512966156
+        },
+        {
+          "word": " are",
+          "start": 61.3,
+          "end": 61.66,
+          "probability": 0.7544154524803162
+        },
+        {
+          "word": " Reynolds",
+          "start": 61.66,
+          "end": 61.92,
+          "probability": 0.9140977263450623
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5470,
+      "start": 61.92,
+      "end": 63.64,
+      "text": " and Jurgen.",
+      "tokens": [
+        50727,
+        290,
+        449,
+        3686,
+        268,
+        13,
+        50835
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2019947091328729,
+      "compression_ratio": 1.6260504201680672,
+      "no_speech_prob": 0.012787125073373318,
+      "words": [
+        {
+          "word": " and",
+          "start": 61.92,
+          "end": 62.5,
+          "probability": 0.9645441770553589
+        },
+        {
+          "word": " Jurgen.",
+          "start": 62.5,
+          "end": 63.64,
+          "probability": 0.7371945877869924
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5470,
+      "start": 64.0,
+      "end": 66.54,
+      "text": " The others you'll find it easier to make do with in the library.",
+      "tokens": [
+        50835,
+        383,
+        1854,
+        345,
+        1183,
+        1064,
+        340,
+        4577,
+        284,
+        787,
+        466,
+        351,
+        287,
+        262,
+        5888,
+        13,
+        50951
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2019947091328729,
+      "compression_ratio": 1.6260504201680672,
+      "no_speech_prob": 0.012787125073373318,
+      "words": [
+        {
+          "word": " The",
+          "start": 64.0,
+          "end": 64.28,
+          "probability": 0.9485372304916382
+        },
+        {
+          "word": " others",
+          "start": 64.28,
+          "end": 64.52,
+          "probability": 0.9908990859985352
+        },
+        {
+          "word": " you'll",
+          "start": 64.52,
+          "end": 64.78,
+          "probability": 0.833752453327179
+        },
+        {
+          "word": " find",
+          "start": 64.78,
+          "end": 64.88,
+          "probability": 0.999065101146698
+        },
+        {
+          "word": " it",
+          "start": 64.88,
+          "end": 65.04,
+          "probability": 0.9785323143005371
+        },
+        {
+          "word": " easier",
+          "start": 65.04,
+          "end": 65.28,
+          "probability": 0.9814890027046204
+        },
+        {
+          "word": " to",
+          "start": 65.28,
+          "end": 65.42,
+          "probability": 0.9986932873725891
+        },
+        {
+          "word": " make",
+          "start": 65.42,
+          "end": 65.56,
+          "probability": 0.9712887406349182
+        },
+        {
+          "word": " do",
+          "start": 65.56,
+          "end": 65.72,
+          "probability": 0.9081418514251709
+        },
+        {
+          "word": " with",
+          "start": 65.72,
+          "end": 65.86,
+          "probability": 0.7155014872550964
+        },
+        {
+          "word": " in",
+          "start": 65.86,
+          "end": 65.98,
+          "probability": 0.9142355918884277
+        },
+        {
+          "word": " the",
+          "start": 65.98,
+          "end": 66.14,
+          "probability": 0.9962887763977051
+        },
+        {
+          "word": " library.",
+          "start": 66.14,
+          "end": 66.54,
+          "probability": 0.9674116373062134
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5470,
+      "start": 66.9,
+      "end": 71.58,
+      "text": " But I think you'll find it really useful to have the first two texts because those are",
+      "tokens": [
+        50951,
+        887,
+        314,
+        892,
+        345,
+        1183,
+        1064,
+        340,
+        1107,
+        4465,
+        284,
+        423,
+        262,
+        717,
+        734,
+        13399,
+        780,
+        883,
+        389,
+        51201
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2019947091328729,
+      "compression_ratio": 1.6260504201680672,
+      "no_speech_prob": 0.012787125073373318,
+      "words": [
+        {
+          "word": " But",
+          "start": 66.9,
+          "end": 67.0,
+          "probability": 0.9394040107727051
+        },
+        {
+          "word": " I",
+          "start": 67.0,
+          "end": 67.1,
+          "probability": 0.9394532442092896
+        },
+        {
+          "word": " think",
+          "start": 67.1,
+          "end": 67.22,
+          "probability": 0.9974846839904785
+        },
+        {
+          "word": " you'll",
+          "start": 67.22,
+          "end": 67.42,
+          "probability": 0.9844563901424408
+        },
+        {
+          "word": " find",
+          "start": 67.42,
+          "end": 67.54,
+          "probability": 0.9977532029151917
+        },
+        {
+          "word": " it",
+          "start": 67.54,
+          "end": 67.66,
+          "probability": 0.9926562309265137
+        },
+        {
+          "word": " really",
+          "start": 67.66,
+          "end": 67.84,
+          "probability": 0.9732208251953125
+        },
+        {
+          "word": " useful",
+          "start": 67.84,
+          "end": 68.24,
+          "probability": 0.9983885288238525
+        },
+        {
+          "word": " to",
+          "start": 68.24,
+          "end": 68.74,
+          "probability": 0.9736462235450745
+        },
+        {
+          "word": " have",
+          "start": 68.74,
+          "end": 69.06,
+          "probability": 0.9987123012542725
+        },
+        {
+          "word": " the",
+          "start": 69.06,
+          "end": 69.62,
+          "probability": 0.994586706161499
+        },
+        {
+          "word": " first",
+          "start": 69.62,
+          "end": 69.88,
+          "probability": 0.8736511468887329
+        },
+        {
+          "word": " two",
+          "start": 69.88,
+          "end": 70.08,
+          "probability": 0.9857075810432434
+        },
+        {
+          "word": " texts",
+          "start": 70.08,
+          "end": 70.5,
+          "probability": 0.9936987161636353
+        },
+        {
+          "word": " because",
+          "start": 70.5,
+          "end": 71.12,
+          "probability": 0.4566919505596161
+        },
+        {
+          "word": " those",
+          "start": 71.12,
+          "end": 71.4,
+          "probability": 0.9946976900100708
+        },
+        {
+          "word": " are",
+          "start": 71.4,
+          "end": 71.58,
+          "probability": 0.9943892359733582
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5470,
+      "start": 71.58,
+      "end": 73.74,
+      "text": " utilized in multiple weeks readings.",
+      "tokens": [
+        51201,
+        21487,
+        287,
+        3294,
+        2745,
+        24654,
+        13,
+        51403
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2019947091328729,
+      "compression_ratio": 1.6260504201680672,
+      "no_speech_prob": 0.012787125073373318,
+      "words": [
+        {
+          "word": " utilized",
+          "start": 71.58,
+          "end": 71.96,
+          "probability": 0.9859299063682556
+        },
+        {
+          "word": " in",
+          "start": 71.96,
+          "end": 72.5,
+          "probability": 0.9951692223548889
+        },
+        {
+          "word": " multiple",
+          "start": 72.5,
+          "end": 72.88,
+          "probability": 0.9967240691184998
+        },
+        {
+          "word": " weeks",
+          "start": 72.88,
+          "end": 73.36,
+          "probability": 0.804456889629364
+        },
+        {
+          "word": " readings.",
+          "start": 73.36,
+          "end": 73.74,
+          "probability": 0.45694735646247864
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5470,
+      "start": 75.14,
+      "end": 82.42,
+      "text": " There are other readings besides the four books that are recommended for purchase in",
+      "tokens": [
+        51403,
+        1318,
+        389,
+        584,
+        24654,
+        13769,
+        262,
+        1440,
+        3835,
+        326,
+        389,
+        7151,
+        329,
+        5001,
+        287,
+        51747
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2019947091328729,
+      "compression_ratio": 1.6260504201680672,
+      "no_speech_prob": 0.012787125073373318,
+      "words": [
+        {
+          "word": " There",
+          "start": 75.14,
+          "end": 75.58,
+          "probability": 0.9932301044464111
+        },
+        {
+          "word": " are",
+          "start": 75.58,
+          "end": 75.78,
+          "probability": 0.9990418553352356
+        },
+        {
+          "word": " other",
+          "start": 75.78,
+          "end": 76.06,
+          "probability": 0.9959883093833923
+        },
+        {
+          "word": " readings",
+          "start": 76.06,
+          "end": 76.42,
+          "probability": 0.998138427734375
+        },
+        {
+          "word": " besides",
+          "start": 76.42,
+          "end": 77.08,
+          "probability": 0.9770987629890442
+        },
+        {
+          "word": " the",
+          "start": 77.08,
+          "end": 77.82,
+          "probability": 0.991479754447937
+        },
+        {
+          "word": " four",
+          "start": 77.82,
+          "end": 80.2,
+          "probability": 0.9208673238754272
+        },
+        {
+          "word": " books",
+          "start": 80.2,
+          "end": 80.56,
+          "probability": 0.9985835552215576
+        },
+        {
+          "word": " that",
+          "start": 80.56,
+          "end": 81.14,
+          "probability": 0.9874990582466125
+        },
+        {
+          "word": " are",
+          "start": 81.14,
+          "end": 81.26,
+          "probability": 0.9891844987869263
+        },
+        {
+          "word": " recommended",
+          "start": 81.26,
+          "end": 81.66,
+          "probability": 0.9956177473068237
+        },
+        {
+          "word": " for",
+          "start": 81.66,
+          "end": 81.92,
+          "probability": 0.9893534183502197
+        },
+        {
+          "word": " purchase",
+          "start": 81.92,
+          "end": 82.22,
+          "probability": 0.9964600205421448
+        },
+        {
+          "word": " in",
+          "start": 82.22,
+          "end": 82.42,
+          "probability": 0.9580866098403931
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5470,
+      "start": 82.42,
+      "end": 83.34,
+      "text": " the syllabus.",
+      "tokens": [
+        51747,
+        262,
+        27226,
+        46844,
+        13,
+        51812
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2019947091328729,
+      "compression_ratio": 1.6260504201680672,
+      "no_speech_prob": 0.012787125073373318,
+      "words": [
+        {
+          "word": " the",
+          "start": 82.42,
+          "end": 82.58,
+          "probability": 0.9960840940475464
+        },
+        {
+          "word": " syllabus.",
+          "start": 82.58,
+          "end": 83.34,
+          "probability": 0.9763847291469574
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8334,
+      "start": 83.34,
+      "end": 85.82,
+      "text": " These will all be available via B-Space.",
+      "tokens": [
+        50381,
+        2312,
+        481,
+        477,
+        307,
+        1695,
+        2884,
+        347,
+        12,
+        14106,
+        13,
+        50545
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " These",
+          "start": 83.34,
+          "end": 83.76,
+          "probability": 0.6779513359069824
+        },
+        {
+          "word": " will",
+          "start": 83.76,
+          "end": 83.92,
+          "probability": 0.9853665828704834
+        },
+        {
+          "word": " all",
+          "start": 83.92,
+          "end": 84.06,
+          "probability": 0.9769949913024902
+        },
+        {
+          "word": " be",
+          "start": 84.06,
+          "end": 84.24,
+          "probability": 0.9979817867279053
+        },
+        {
+          "word": " available",
+          "start": 84.24,
+          "end": 84.7,
+          "probability": 0.9978602528572083
+        },
+        {
+          "word": " via",
+          "start": 84.7,
+          "end": 85.28,
+          "probability": 0.9839852452278137
+        },
+        {
+          "word": " B",
+          "start": 85.28,
+          "end": 85.52,
+          "probability": 0.5944494009017944
+        },
+        {
+          "word": "-Space.",
+          "start": 85.52,
+          "end": 85.82,
+          "probability": 0.4613468796014786
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8334,
+      "start": 87.33999999999999,
+      "end": 92.4,
+      "text": " So you don't have to worry about buying copies of anything beyond the textbooks.",
+      "tokens": [
+        50545,
+        1406,
+        345,
+        836,
+        470,
+        423,
+        284,
+        5490,
+        546,
+        7067,
+        9088,
+        286,
+        1997,
+        3675,
+        262,
+        31814,
+        13,
+        50857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " So",
+          "start": 87.33999999999999,
+          "end": 87.82,
+          "probability": 0.9396806359291077
+        },
+        {
+          "word": " you",
+          "start": 87.82,
+          "end": 88.3,
+          "probability": 0.8570176362991333
+        },
+        {
+          "word": " don't",
+          "start": 88.3,
+          "end": 88.44,
+          "probability": 0.9966499209403992
+        },
+        {
+          "word": " have",
+          "start": 88.44,
+          "end": 88.62,
+          "probability": 0.9988095760345459
+        },
+        {
+          "word": " to",
+          "start": 88.62,
+          "end": 88.76,
+          "probability": 0.9992786049842834
+        },
+        {
+          "word": " worry",
+          "start": 88.76,
+          "end": 88.94,
+          "probability": 0.9989350438117981
+        },
+        {
+          "word": " about",
+          "start": 88.94,
+          "end": 89.34,
+          "probability": 0.9992677569389343
+        },
+        {
+          "word": " buying",
+          "start": 89.34,
+          "end": 89.84,
+          "probability": 0.9966752529144287
+        },
+        {
+          "word": " copies",
+          "start": 89.84,
+          "end": 90.2,
+          "probability": 0.9977158308029175
+        },
+        {
+          "word": " of",
+          "start": 90.2,
+          "end": 90.38,
+          "probability": 0.95612633228302
+        },
+        {
+          "word": " anything",
+          "start": 90.38,
+          "end": 90.76,
+          "probability": 0.9968729615211487
+        },
+        {
+          "word": " beyond",
+          "start": 90.76,
+          "end": 91.5,
+          "probability": 0.991506040096283
+        },
+        {
+          "word": " the",
+          "start": 91.5,
+          "end": 92.02,
+          "probability": 0.9972187280654907
+        },
+        {
+          "word": " textbooks.",
+          "start": 92.02,
+          "end": 92.4,
+          "probability": 0.8854180574417114
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8334,
+      "start": 93.16,
+      "end": 95.96,
+      "text": " You know, I very much hope that the readings are manageable.",
+      "tokens": [
+        50857,
+        921,
+        760,
+        11,
+        314,
+        845,
+        881,
+        2911,
+        326,
+        262,
+        24654,
+        389,
+        36426,
+        13,
+        51033
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " You",
+          "start": 93.16,
+          "end": 93.24,
+          "probability": 0.26995402574539185
+        },
+        {
+          "word": " know,",
+          "start": 93.24,
+          "end": 93.34,
+          "probability": 0.9977890253067017
+        },
+        {
+          "word": " I",
+          "start": 93.34,
+          "end": 93.46,
+          "probability": 0.99871826171875
+        },
+        {
+          "word": " very",
+          "start": 93.46,
+          "end": 93.68,
+          "probability": 0.9922676682472229
+        },
+        {
+          "word": " much",
+          "start": 93.68,
+          "end": 93.9,
+          "probability": 0.9989697933197021
+        },
+        {
+          "word": " hope",
+          "start": 93.9,
+          "end": 94.12,
+          "probability": 0.9959861636161804
+        },
+        {
+          "word": " that",
+          "start": 94.12,
+          "end": 94.32,
+          "probability": 0.9898025393486023
+        },
+        {
+          "word": " the",
+          "start": 94.32,
+          "end": 94.48,
+          "probability": 0.9936880469322205
+        },
+        {
+          "word": " readings",
+          "start": 94.48,
+          "end": 94.74,
+          "probability": 0.99564528465271
+        },
+        {
+          "word": " are",
+          "start": 94.74,
+          "end": 95.24,
+          "probability": 0.9991890788078308
+        },
+        {
+          "word": " manageable.",
+          "start": 95.24,
+          "end": 95.96,
+          "probability": 0.9971912503242493
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8334,
+      "start": 96.56,
+      "end": 99.12,
+      "text": " The reading load has been designed to be manageable.",
+      "tokens": [
+        51033,
+        383,
+        3555,
+        3440,
+        468,
+        587,
+        3562,
+        284,
+        307,
+        36426,
+        13,
+        51187
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " The",
+          "start": 96.56,
+          "end": 96.84,
+          "probability": 0.9940137267112732
+        },
+        {
+          "word": " reading",
+          "start": 96.84,
+          "end": 97.04,
+          "probability": 0.9709420204162598
+        },
+        {
+          "word": " load",
+          "start": 97.04,
+          "end": 97.26,
+          "probability": 0.9952138662338257
+        },
+        {
+          "word": " has",
+          "start": 97.26,
+          "end": 97.42,
+          "probability": 0.9968807697296143
+        },
+        {
+          "word": " been",
+          "start": 97.42,
+          "end": 97.58,
+          "probability": 0.9980266690254211
+        },
+        {
+          "word": " designed",
+          "start": 97.58,
+          "end": 98.04,
+          "probability": 0.9990168809890747
+        },
+        {
+          "word": " to",
+          "start": 98.04,
+          "end": 98.46,
+          "probability": 0.9981458187103271
+        },
+        {
+          "word": " be",
+          "start": 98.46,
+          "end": 98.64,
+          "probability": 0.9992110729217529
+        },
+        {
+          "word": " manageable.",
+          "start": 98.64,
+          "end": 99.12,
+          "probability": 0.9972894191741943
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8334,
+      "start": 99.64,
+      "end": 102.4,
+      "text": " There may be two weeks in which you're expected to read an entire book.",
+      "tokens": [
+        51187,
+        1318,
+        743,
+        307,
+        734,
+        2745,
+        287,
+        543,
+        345,
+        821,
+        2938,
+        284,
+        1100,
+        281,
+        2104,
+        1492,
+        13,
+        51344
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " There",
+          "start": 99.64,
+          "end": 99.84,
+          "probability": 0.9930710196495056
+        },
+        {
+          "word": " may",
+          "start": 99.84,
+          "end": 99.98,
+          "probability": 0.4258911609649658
+        },
+        {
+          "word": " be",
+          "start": 99.98,
+          "end": 100.22,
+          "probability": 0.9968664050102234
+        },
+        {
+          "word": " two",
+          "start": 100.22,
+          "end": 100.38,
+          "probability": 0.9714420437812805
+        },
+        {
+          "word": " weeks",
+          "start": 100.38,
+          "end": 100.68,
+          "probability": 0.9982648491859436
+        },
+        {
+          "word": " in",
+          "start": 100.68,
+          "end": 100.84,
+          "probability": 0.9824997186660767
+        },
+        {
+          "word": " which",
+          "start": 100.84,
+          "end": 100.92,
+          "probability": 0.9977631568908691
+        },
+        {
+          "word": " you're",
+          "start": 100.92,
+          "end": 101.14,
+          "probability": 0.9417716562747955
+        },
+        {
+          "word": " expected",
+          "start": 101.14,
+          "end": 101.38,
+          "probability": 0.9974007606506348
+        },
+        {
+          "word": " to",
+          "start": 101.38,
+          "end": 101.54,
+          "probability": 0.9982166886329651
+        },
+        {
+          "word": " read",
+          "start": 101.54,
+          "end": 101.66,
+          "probability": 0.9940296411514282
+        },
+        {
+          "word": " an",
+          "start": 101.66,
+          "end": 101.8,
+          "probability": 0.9871972799301147
+        },
+        {
+          "word": " entire",
+          "start": 101.8,
+          "end": 102.1,
+          "probability": 0.9995588660240173
+        },
+        {
+          "word": " book.",
+          "start": 102.1,
+          "end": 102.4,
+          "probability": 0.9992245435714722
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8334,
+      "start": 102.66,
+      "end": 103.66,
+      "text": " No more than that.",
+      "tokens": [
+        51344,
+        1400,
+        517,
+        621,
+        326,
+        13,
+        51405
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " No",
+          "start": 102.66,
+          "end": 103.04,
+          "probability": 0.9928354620933533
+        },
+        {
+          "word": " more",
+          "start": 103.04,
+          "end": 103.24,
+          "probability": 0.9397695660591125
+        },
+        {
+          "word": " than",
+          "start": 103.24,
+          "end": 103.38,
+          "probability": 0.994938850402832
+        },
+        {
+          "word": " that.",
+          "start": 103.38,
+          "end": 103.66,
+          "probability": 0.9989426732063293
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8334,
+      "start": 104.04,
+      "end": 106.04,
+      "text": " In some weeks, it's just a couple of chapters.",
+      "tokens": [
+        51405,
+        554,
+        617,
+        2745,
+        11,
+        340,
+        338,
+        655,
+        257,
+        3155,
+        286,
+        15754,
+        13,
+        51537
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " In",
+          "start": 104.04,
+          "end": 104.28,
+          "probability": 0.9652915000915527
+        },
+        {
+          "word": " some",
+          "start": 104.28,
+          "end": 104.48,
+          "probability": 0.99928218126297
+        },
+        {
+          "word": " weeks,",
+          "start": 104.48,
+          "end": 104.72,
+          "probability": 0.9985207915306091
+        },
+        {
+          "word": " it's",
+          "start": 104.72,
+          "end": 104.94,
+          "probability": 0.9958262741565704
+        },
+        {
+          "word": " just",
+          "start": 104.94,
+          "end": 105.14,
+          "probability": 0.9983248114585876
+        },
+        {
+          "word": " a",
+          "start": 105.14,
+          "end": 105.3,
+          "probability": 0.9989357590675354
+        },
+        {
+          "word": " couple",
+          "start": 105.3,
+          "end": 105.46,
+          "probability": 0.9991989731788635
+        },
+        {
+          "word": " of",
+          "start": 105.46,
+          "end": 105.62,
+          "probability": 0.981153666973114
+        },
+        {
+          "word": " chapters.",
+          "start": 105.62,
+          "end": 106.04,
+          "probability": 0.999413251876831
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8334,
+      "start": 106.6,
+      "end": 111.84,
+      "text": " If you have problems with the readings, come talk to me, go talk to GSI.",
+      "tokens": [
+        51537,
+        1002,
+        345,
+        423,
+        2761,
+        351,
+        262,
+        24654,
+        11,
+        1282,
+        1561,
+        284,
+        502,
+        11,
+        467,
+        1561,
+        284,
+        402,
+        11584,
+        13,
+        51829
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1563065312489742,
+      "compression_ratio": 1.6101083032490975,
+      "no_speech_prob": 0.0077308122999966145,
+      "words": [
+        {
+          "word": " If",
+          "start": 106.6,
+          "end": 106.86,
+          "probability": 0.9970160722732544
+        },
+        {
+          "word": " you",
+          "start": 106.86,
+          "end": 106.98,
+          "probability": 0.9997815489768982
+        },
+        {
+          "word": " have",
+          "start": 106.98,
+          "end": 107.18,
+          "probability": 0.9990571141242981
+        },
+        {
+          "word": " problems",
+          "start": 107.18,
+          "end": 107.58,
+          "probability": 0.9979954957962036
+        },
+        {
+          "word": " with",
+          "start": 107.58,
+          "end": 107.88,
+          "probability": 0.9993031024932861
+        },
+        {
+          "word": " the",
+          "start": 107.88,
+          "end": 108.04,
+          "probability": 0.9984033703804016
+        },
+        {
+          "word": " readings,",
+          "start": 108.04,
+          "end": 108.42,
+          "probability": 0.9958975315093994
+        },
+        {
+          "word": " come",
+          "start": 109.42,
+          "end": 109.72,
+          "probability": 0.9951070547103882
+        },
+        {
+          "word": " talk",
+          "start": 109.72,
+          "end": 110.0,
+          "probability": 0.9968175888061523
+        },
+        {
+          "word": " to",
+          "start": 110.0,
+          "end": 110.2,
+          "probability": 0.9982278943061829
+        },
+        {
+          "word": " me,",
+          "start": 110.2,
+          "end": 110.46,
+          "probability": 0.9992048144340515
+        },
+        {
+          "word": " go",
+          "start": 110.72,
+          "end": 110.84,
+          "probability": 0.9853083491325378
+        },
+        {
+          "word": " talk",
+          "start": 110.84,
+          "end": 111.1,
+          "probability": 0.9904769659042358
+        },
+        {
+          "word": " to",
+          "start": 111.1,
+          "end": 111.28,
+          "probability": 0.9935674071311951
+        },
+        {
+          "word": " GSI.",
+          "start": 111.28,
+          "end": 111.84,
+          "probability": 0.799601286649704
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 11184,
+      "start": 112.36,
+      "end": 118.32,
+      "text": " We can probably give you some counsel on how to read historical texts.",
+      "tokens": [
+        50389,
+        775,
+        460,
+        2192,
+        1577,
+        345,
+        617,
+        7739,
+        319,
+        703,
+        284,
+        1100,
+        6754,
+        13399,
+        13,
+        50717
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18632403458699143,
+      "compression_ratio": 1.685483870967742,
+      "no_speech_prob": 0.005859724245965481,
+      "words": [
+        {
+          "word": " We",
+          "start": 112.36,
+          "end": 112.66,
+          "probability": 0.07088086009025574
+        },
+        {
+          "word": " can",
+          "start": 112.66,
+          "end": 112.82,
+          "probability": 0.9443480968475342
+        },
+        {
+          "word": " probably",
+          "start": 112.82,
+          "end": 113.26,
+          "probability": 0.9846985936164856
+        },
+        {
+          "word": " give",
+          "start": 113.26,
+          "end": 113.5,
+          "probability": 0.9969909191131592
+        },
+        {
+          "word": " you",
+          "start": 113.5,
+          "end": 113.64,
+          "probability": 0.9961985945701599
+        },
+        {
+          "word": " some",
+          "start": 113.64,
+          "end": 114.02,
+          "probability": 0.9942173957824707
+        },
+        {
+          "word": " counsel",
+          "start": 114.02,
+          "end": 114.68,
+          "probability": 0.963570773601532
+        },
+        {
+          "word": " on",
+          "start": 114.68,
+          "end": 115.56,
+          "probability": 0.9929908514022827
+        },
+        {
+          "word": " how",
+          "start": 115.56,
+          "end": 115.96,
+          "probability": 0.9979552030563354
+        },
+        {
+          "word": " to",
+          "start": 115.96,
+          "end": 116.16,
+          "probability": 0.9983914494514465
+        },
+        {
+          "word": " read",
+          "start": 116.16,
+          "end": 116.48,
+          "probability": 0.9988021850585938
+        },
+        {
+          "word": " historical",
+          "start": 116.48,
+          "end": 117.42,
+          "probability": 0.9487012624740601
+        },
+        {
+          "word": " texts.",
+          "start": 117.42,
+          "end": 118.32,
+          "probability": 0.9714439511299133
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 11184,
+      "start": 118.92,
+      "end": 121.6,
+      "text": " Look, reading history is different from reading literature.",
+      "tokens": [
+        50717,
+        6803,
+        11,
+        3555,
+        2106,
+        318,
+        1180,
+        422,
+        3555,
+        9285,
+        13,
+        50893
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18632403458699143,
+      "compression_ratio": 1.685483870967742,
+      "no_speech_prob": 0.005859724245965481,
+      "words": [
+        {
+          "word": " Look,",
+          "start": 118.92,
+          "end": 118.98,
+          "probability": 0.7945557236671448
+        },
+        {
+          "word": " reading",
+          "start": 119.08,
+          "end": 119.28,
+          "probability": 0.9944120049476624
+        },
+        {
+          "word": " history",
+          "start": 119.28,
+          "end": 119.64,
+          "probability": 0.9960750937461853
+        },
+        {
+          "word": " is",
+          "start": 119.64,
+          "end": 119.86,
+          "probability": 0.9980428218841553
+        },
+        {
+          "word": " different",
+          "start": 119.86,
+          "end": 120.16,
+          "probability": 0.9989508390426636
+        },
+        {
+          "word": " from",
+          "start": 120.16,
+          "end": 120.44,
+          "probability": 0.9839726686477661
+        },
+        {
+          "word": " reading",
+          "start": 120.44,
+          "end": 120.86,
+          "probability": 0.9979421496391296
+        },
+        {
+          "word": " literature.",
+          "start": 120.86,
+          "end": 121.6,
+          "probability": 0.9871197938919067
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 11184,
+      "start": 122.28,
+      "end": 127.86,
+      "text": " The purpose in most of our readings is not to read every word of every sentence.",
+      "tokens": [
+        50893,
+        383,
+        4007,
+        287,
+        749,
+        286,
+        674,
+        24654,
+        318,
+        407,
+        284,
+        1100,
+        790,
+        1573,
+        286,
+        790,
+        6827,
+        13,
+        51183
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18632403458699143,
+      "compression_ratio": 1.685483870967742,
+      "no_speech_prob": 0.005859724245965481,
+      "words": [
+        {
+          "word": " The",
+          "start": 122.28,
+          "end": 122.58,
+          "probability": 0.995762825012207
+        },
+        {
+          "word": " purpose",
+          "start": 122.58,
+          "end": 122.94,
+          "probability": 0.9990643858909607
+        },
+        {
+          "word": " in",
+          "start": 122.94,
+          "end": 123.32,
+          "probability": 0.9737632274627686
+        },
+        {
+          "word": " most",
+          "start": 123.32,
+          "end": 124.26,
+          "probability": 0.9964860677719116
+        },
+        {
+          "word": " of",
+          "start": 124.26,
+          "end": 124.44,
+          "probability": 0.9981080293655396
+        },
+        {
+          "word": " our",
+          "start": 124.44,
+          "end": 124.6,
+          "probability": 0.9979084730148315
+        },
+        {
+          "word": " readings",
+          "start": 124.6,
+          "end": 124.84,
+          "probability": 0.9734536409378052
+        },
+        {
+          "word": " is",
+          "start": 124.84,
+          "end": 125.04,
+          "probability": 0.9936593174934387
+        },
+        {
+          "word": " not",
+          "start": 125.04,
+          "end": 125.32,
+          "probability": 0.996681272983551
+        },
+        {
+          "word": " to",
+          "start": 125.32,
+          "end": 125.58,
+          "probability": 0.9976392984390259
+        },
+        {
+          "word": " read",
+          "start": 125.58,
+          "end": 125.88,
+          "probability": 0.9990205764770508
+        },
+        {
+          "word": " every",
+          "start": 125.88,
+          "end": 126.44,
+          "probability": 0.9978906512260437
+        },
+        {
+          "word": " word",
+          "start": 126.44,
+          "end": 126.82,
+          "probability": 0.9991136193275452
+        },
+        {
+          "word": " of",
+          "start": 126.82,
+          "end": 127.12,
+          "probability": 0.9930898547172546
+        },
+        {
+          "word": " every",
+          "start": 127.12,
+          "end": 127.38,
+          "probability": 0.9943453073501587
+        },
+        {
+          "word": " sentence.",
+          "start": 127.38,
+          "end": 127.86,
+          "probability": 0.9980552196502686
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 11184,
+      "start": 128.24,
+      "end": 130.66,
+      "text": " Rather, you need to sort of read for gist.",
+      "tokens": [
+        51183,
+        11317,
+        11,
+        345,
+        761,
+        284,
+        3297,
+        286,
+        1100,
+        329,
+        50057,
+        13,
+        51323
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18632403458699143,
+      "compression_ratio": 1.685483870967742,
+      "no_speech_prob": 0.005859724245965481,
+      "words": [
+        {
+          "word": " Rather,",
+          "start": 128.24,
+          "end": 128.66,
+          "probability": 0.9955295920372009
+        },
+        {
+          "word": " you",
+          "start": 128.84,
+          "end": 128.86,
+          "probability": 0.9982450008392334
+        },
+        {
+          "word": " need",
+          "start": 128.86,
+          "end": 129.08,
+          "probability": 0.9923871755599976
+        },
+        {
+          "word": " to",
+          "start": 129.08,
+          "end": 129.38,
+          "probability": 0.992347002029419
+        },
+        {
+          "word": " sort",
+          "start": 129.38,
+          "end": 129.66,
+          "probability": 0.45074278116226196
+        },
+        {
+          "word": " of",
+          "start": 129.66,
+          "end": 129.86,
+          "probability": 0.9971453547477722
+        },
+        {
+          "word": " read",
+          "start": 129.86,
+          "end": 130.12,
+          "probability": 0.9936781525611877
+        },
+        {
+          "word": " for",
+          "start": 130.12,
+          "end": 130.28,
+          "probability": 0.9111169576644897
+        },
+        {
+          "word": " gist.",
+          "start": 130.28,
+          "end": 130.66,
+          "probability": 0.9545034766197205
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 11184,
+      "start": 131.04,
+      "end": 136.54,
+      "text": " You need to read so as to acquire some sense of what, you know, the really important events",
+      "tokens": [
+        51323,
+        921,
+        761,
+        284,
+        1100,
+        523,
+        355,
+        284,
+        12831,
+        617,
+        2565,
+        286,
+        644,
+        11,
+        345,
+        760,
+        11,
+        262,
+        1107,
+        1593,
+        2995,
+        51599
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18632403458699143,
+      "compression_ratio": 1.685483870967742,
+      "no_speech_prob": 0.005859724245965481,
+      "words": [
+        {
+          "word": " You",
+          "start": 131.04,
+          "end": 131.12,
+          "probability": 0.9976000189781189
+        },
+        {
+          "word": " need",
+          "start": 131.12,
+          "end": 131.32,
+          "probability": 0.9992464780807495
+        },
+        {
+          "word": " to",
+          "start": 131.32,
+          "end": 131.9,
+          "probability": 0.9966564178466797
+        },
+        {
+          "word": " read",
+          "start": 131.9,
+          "end": 132.48,
+          "probability": 0.9971946477890015
+        },
+        {
+          "word": " so",
+          "start": 132.48,
+          "end": 132.94,
+          "probability": 0.8887786269187927
+        },
+        {
+          "word": " as",
+          "start": 132.94,
+          "end": 133.08,
+          "probability": 0.9886850714683533
+        },
+        {
+          "word": " to",
+          "start": 133.08,
+          "end": 133.18,
+          "probability": 0.9959015250205994
+        },
+        {
+          "word": " acquire",
+          "start": 133.18,
+          "end": 133.56,
+          "probability": 0.9927456974983215
+        },
+        {
+          "word": " some",
+          "start": 133.56,
+          "end": 133.84,
+          "probability": 0.9977355003356934
+        },
+        {
+          "word": " sense",
+          "start": 133.84,
+          "end": 134.26,
+          "probability": 0.9989016056060791
+        },
+        {
+          "word": " of",
+          "start": 134.26,
+          "end": 134.48,
+          "probability": 0.9976613521575928
+        },
+        {
+          "word": " what,",
+          "start": 134.48,
+          "end": 134.7,
+          "probability": 0.9842959642410278
+        },
+        {
+          "word": " you",
+          "start": 134.7,
+          "end": 134.94,
+          "probability": 0.9919437170028687
+        },
+        {
+          "word": " know,",
+          "start": 134.94,
+          "end": 135.08,
+          "probability": 0.9995847344398499
+        },
+        {
+          "word": " the",
+          "start": 135.44,
+          "end": 135.68,
+          "probability": 0.9903870224952698
+        },
+        {
+          "word": " really",
+          "start": 135.68,
+          "end": 135.9,
+          "probability": 0.996950089931488
+        },
+        {
+          "word": " important",
+          "start": 135.9,
+          "end": 136.22,
+          "probability": 0.9991915822029114
+        },
+        {
+          "word": " events",
+          "start": 136.22,
+          "end": 136.54,
+          "probability": 0.9985711574554443
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 11184,
+      "start": 136.54,
+      "end": 140.62,
+      "text": " are and of what the author's line of interpretation might happen to be.",
+      "tokens": [
+        51599,
+        389,
+        290,
+        286,
+        644,
+        262,
+        1772,
+        338,
+        1627,
+        286,
+        10794,
+        1244,
+        1645,
+        284,
+        307,
+        13,
+        51803
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18632403458699143,
+      "compression_ratio": 1.685483870967742,
+      "no_speech_prob": 0.005859724245965481,
+      "words": [
+        {
+          "word": " are",
+          "start": 136.54,
+          "end": 136.92,
+          "probability": 0.9968428611755371
+        },
+        {
+          "word": " and",
+          "start": 136.92,
+          "end": 137.42,
+          "probability": 0.7853620052337646
+        },
+        {
+          "word": " of",
+          "start": 137.42,
+          "end": 137.54,
+          "probability": 0.964865505695343
+        },
+        {
+          "word": " what",
+          "start": 137.54,
+          "end": 137.68,
+          "probability": 0.9953698515892029
+        },
+        {
+          "word": " the",
+          "start": 137.68,
+          "end": 137.88,
+          "probability": 0.9972115159034729
+        },
+        {
+          "word": " author's",
+          "start": 137.88,
+          "end": 138.4,
+          "probability": 0.900882214307785
+        },
+        {
+          "word": " line",
+          "start": 138.4,
+          "end": 138.62,
+          "probability": 0.9964666366577148
+        },
+        {
+          "word": " of",
+          "start": 138.62,
+          "end": 138.76,
+          "probability": 0.9980290532112122
+        },
+        {
+          "word": " interpretation",
+          "start": 138.76,
+          "end": 139.4,
+          "probability": 0.9975138902664185
+        },
+        {
+          "word": " might",
+          "start": 139.4,
+          "end": 139.8,
+          "probability": 0.997562050819397
+        },
+        {
+          "word": " happen",
+          "start": 139.8,
+          "end": 140.08,
+          "probability": 0.9982638955116272
+        },
+        {
+          "word": " to",
+          "start": 140.08,
+          "end": 140.28,
+          "probability": 0.9994463324546814
+        },
+        {
+          "word": " be.",
+          "start": 140.28,
+          "end": 140.62,
+          "probability": 0.9994267225265503
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 14062,
+      "start": 140.62,
+      "end": 144.62,
+      "text": " But you're not reading this to appreciate the prose.",
+      "tokens": [
+        50377,
+        887,
+        345,
+        821,
+        407,
+        3555,
+        428,
+        284,
+        9144,
+        262,
+        27149,
+        13,
+        50573
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1901317892722713,
+      "compression_ratio": 1.689516129032258,
+      "no_speech_prob": 0.0026612516958266497,
+      "words": [
+        {
+          "word": " But",
+          "start": 140.62,
+          "end": 141.02,
+          "probability": 0.2159690409898758
+        },
+        {
+          "word": " you're",
+          "start": 141.02,
+          "end": 141.24,
+          "probability": 0.911891907453537
+        },
+        {
+          "word": " not",
+          "start": 141.24,
+          "end": 141.4,
+          "probability": 0.9986677169799805
+        },
+        {
+          "word": " reading",
+          "start": 141.4,
+          "end": 141.68,
+          "probability": 0.997866690158844
+        },
+        {
+          "word": " this",
+          "start": 141.68,
+          "end": 142.12,
+          "probability": 0.9836545586585999
+        },
+        {
+          "word": " to",
+          "start": 142.12,
+          "end": 143.58,
+          "probability": 0.851540744304657
+        },
+        {
+          "word": " appreciate",
+          "start": 143.58,
+          "end": 144.04,
+          "probability": 0.9936285614967346
+        },
+        {
+          "word": " the",
+          "start": 144.04,
+          "end": 144.26,
+          "probability": 0.9964841604232788
+        },
+        {
+          "word": " prose.",
+          "start": 144.26,
+          "end": 144.62,
+          "probability": 0.7915878295898438
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 14062,
+      "start": 145.84,
+      "end": 150.26,
+      "text": " And if you find that you're struggling with the reading, then I would humbly suggest that",
+      "tokens": [
+        50623,
+        843,
+        611,
+        345,
+        1064,
+        326,
+        345,
+        821,
+        9648,
+        351,
+        262,
+        3555,
+        11,
+        788,
+        314,
+        561,
+        1311,
+        36874,
+        1950,
+        326,
+        50843
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1901317892722713,
+      "compression_ratio": 1.689516129032258,
+      "no_speech_prob": 0.0026612516958266497,
+      "words": [
+        {
+          "word": " And",
+          "start": 145.84,
+          "end": 145.98,
+          "probability": 0.9164708256721497
+        },
+        {
+          "word": " if",
+          "start": 145.98,
+          "end": 146.08,
+          "probability": 0.9845367074012756
+        },
+        {
+          "word": " you",
+          "start": 146.08,
+          "end": 146.2,
+          "probability": 0.9979294538497925
+        },
+        {
+          "word": " find",
+          "start": 146.2,
+          "end": 146.36,
+          "probability": 0.9826880097389221
+        },
+        {
+          "word": " that",
+          "start": 146.36,
+          "end": 146.52,
+          "probability": 0.9520577788352966
+        },
+        {
+          "word": " you're",
+          "start": 146.52,
+          "end": 146.68,
+          "probability": 0.9703923761844635
+        },
+        {
+          "word": " struggling",
+          "start": 146.68,
+          "end": 146.94,
+          "probability": 0.998636782169342
+        },
+        {
+          "word": " with",
+          "start": 146.94,
+          "end": 147.2,
+          "probability": 0.9981322884559631
+        },
+        {
+          "word": " the",
+          "start": 147.2,
+          "end": 147.34,
+          "probability": 0.9851791262626648
+        },
+        {
+          "word": " reading,",
+          "start": 147.34,
+          "end": 147.62,
+          "probability": 0.9990070462226868
+        },
+        {
+          "word": " then",
+          "start": 147.94,
+          "end": 148.02,
+          "probability": 0.9639633893966675
+        },
+        {
+          "word": " I",
+          "start": 148.02,
+          "end": 148.62,
+          "probability": 0.9841330051422119
+        },
+        {
+          "word": " would",
+          "start": 148.62,
+          "end": 148.84,
+          "probability": 0.9970970153808594
+        },
+        {
+          "word": " humbly",
+          "start": 148.84,
+          "end": 149.34,
+          "probability": 0.9585521519184113
+        },
+        {
+          "word": " suggest",
+          "start": 149.34,
+          "end": 149.74,
+          "probability": 0.9970955848693848
+        },
+        {
+          "word": " that",
+          "start": 149.74,
+          "end": 150.26,
+          "probability": 0.98479825258255
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 14062,
+      "start": 150.26,
+      "end": 153.78,
+      "text": " you might be reading in the wrong way for a course of this nature.",
+      "tokens": [
+        50843,
+        345,
+        1244,
+        307,
+        3555,
+        287,
+        262,
+        2642,
+        835,
+        329,
+        257,
+        1781,
+        286,
+        428,
+        3450,
+        13,
+        51023
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1901317892722713,
+      "compression_ratio": 1.689516129032258,
+      "no_speech_prob": 0.0026612516958266497,
+      "words": [
+        {
+          "word": " you",
+          "start": 150.26,
+          "end": 150.38,
+          "probability": 0.9984993934631348
+        },
+        {
+          "word": " might",
+          "start": 150.38,
+          "end": 150.54,
+          "probability": 0.9966180920600891
+        },
+        {
+          "word": " be",
+          "start": 150.54,
+          "end": 150.72,
+          "probability": 0.9979705214500427
+        },
+        {
+          "word": " reading",
+          "start": 150.72,
+          "end": 151.02,
+          "probability": 0.9994565844535828
+        },
+        {
+          "word": " in",
+          "start": 151.02,
+          "end": 151.34,
+          "probability": 0.9692172408103943
+        },
+        {
+          "word": " the",
+          "start": 151.34,
+          "end": 151.48,
+          "probability": 0.9985970854759216
+        },
+        {
+          "word": " wrong",
+          "start": 151.48,
+          "end": 151.62,
+          "probability": 0.9990754127502441
+        },
+        {
+          "word": " way",
+          "start": 151.62,
+          "end": 151.98,
+          "probability": 0.9983787536621094
+        },
+        {
+          "word": " for",
+          "start": 151.98,
+          "end": 152.7,
+          "probability": 0.9498280882835388
+        },
+        {
+          "word": " a",
+          "start": 152.7,
+          "end": 152.92,
+          "probability": 0.9851512312889099
+        },
+        {
+          "word": " course",
+          "start": 152.92,
+          "end": 153.1,
+          "probability": 0.9976805448532104
+        },
+        {
+          "word": " of",
+          "start": 153.1,
+          "end": 153.24,
+          "probability": 0.9926436543464661
+        },
+        {
+          "word": " this",
+          "start": 153.24,
+          "end": 153.4,
+          "probability": 0.9969406127929688
+        },
+        {
+          "word": " nature.",
+          "start": 153.4,
+          "end": 153.78,
+          "probability": 0.9989439845085144
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 14062,
+      "start": 153.86,
+      "end": 157.6,
+      "text": " And we can sort of talk about how you might do things a little differently.",
+      "tokens": [
+        51023,
+        843,
+        356,
+        460,
+        3297,
+        286,
+        1561,
+        546,
+        703,
+        345,
+        1244,
+        466,
+        1243,
+        257,
+        1310,
+        10338,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1901317892722713,
+      "compression_ratio": 1.689516129032258,
+      "no_speech_prob": 0.0026612516958266497,
+      "words": [
+        {
+          "word": " And",
+          "start": 153.86,
+          "end": 153.96,
+          "probability": 0.6884827613830566
+        },
+        {
+          "word": " we",
+          "start": 153.96,
+          "end": 154.04,
+          "probability": 0.9903458952903748
+        },
+        {
+          "word": " can",
+          "start": 154.04,
+          "end": 154.34,
+          "probability": 0.994392454624176
+        },
+        {
+          "word": " sort",
+          "start": 154.34,
+          "end": 154.5,
+          "probability": 0.7543671727180481
+        },
+        {
+          "word": " of",
+          "start": 154.5,
+          "end": 154.6,
+          "probability": 0.9971786737442017
+        },
+        {
+          "word": " talk",
+          "start": 154.6,
+          "end": 154.84,
+          "probability": 0.9967840909957886
+        },
+        {
+          "word": " about",
+          "start": 154.84,
+          "end": 155.12,
+          "probability": 0.9981327652931213
+        },
+        {
+          "word": " how",
+          "start": 155.12,
+          "end": 155.32,
+          "probability": 0.9943382143974304
+        },
+        {
+          "word": " you",
+          "start": 155.32,
+          "end": 155.54,
+          "probability": 0.9962489008903503
+        },
+        {
+          "word": " might",
+          "start": 155.54,
+          "end": 156.04,
+          "probability": 0.9970515966415405
+        },
+        {
+          "word": " do",
+          "start": 156.04,
+          "end": 156.22,
+          "probability": 0.9974842071533203
+        },
+        {
+          "word": " things",
+          "start": 156.22,
+          "end": 156.5,
+          "probability": 0.9973955154418945
+        },
+        {
+          "word": " a",
+          "start": 156.5,
+          "end": 156.98,
+          "probability": 0.995717465877533
+        },
+        {
+          "word": " little",
+          "start": 156.98,
+          "end": 157.14,
+          "probability": 0.995520830154419
+        },
+        {
+          "word": " differently.",
+          "start": 157.14,
+          "end": 157.6,
+          "probability": 0.9903034567832947
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 14062,
+      "start": 159.54,
+      "end": 166.16,
+      "text": " Okay, the most important part of the class is not the lectures, but the sections.",
+      "tokens": [
+        51311,
+        16805,
+        11,
+        262,
+        749,
+        1593,
+        636,
+        286,
+        262,
+        1398,
+        318,
+        407,
+        262,
+        25917,
+        11,
+        475,
+        262,
+        9004,
+        13,
+        51649
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1901317892722713,
+      "compression_ratio": 1.689516129032258,
+      "no_speech_prob": 0.0026612516958266497,
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 159.54,
+          "end": 159.88,
+          "probability": 0.5366719365119934
+        },
+        {
+          "word": " the",
+          "start": 160.14,
+          "end": 160.52,
+          "probability": 0.9899975657463074
+        },
+        {
+          "word": " most",
+          "start": 160.52,
+          "end": 160.74,
+          "probability": 0.9990134239196777
+        },
+        {
+          "word": " important",
+          "start": 160.74,
+          "end": 161.16,
+          "probability": 0.9989022016525269
+        },
+        {
+          "word": " part",
+          "start": 161.16,
+          "end": 161.42,
+          "probability": 0.9988310933113098
+        },
+        {
+          "word": " of",
+          "start": 161.42,
+          "end": 161.58,
+          "probability": 0.99819415807724
+        },
+        {
+          "word": " the",
+          "start": 161.58,
+          "end": 161.72,
+          "probability": 0.9967129230499268
+        },
+        {
+          "word": " class",
+          "start": 161.72,
+          "end": 162.16,
+          "probability": 0.9986870884895325
+        },
+        {
+          "word": " is",
+          "start": 162.16,
+          "end": 163.26,
+          "probability": 0.9568785429000854
+        },
+        {
+          "word": " not",
+          "start": 163.26,
+          "end": 163.5,
+          "probability": 0.9857336282730103
+        },
+        {
+          "word": " the",
+          "start": 163.5,
+          "end": 164.54,
+          "probability": 0.9955456256866455
+        },
+        {
+          "word": " lectures,",
+          "start": 164.54,
+          "end": 164.98,
+          "probability": 0.9363179206848145
+        },
+        {
+          "word": " but",
+          "start": 165.08,
+          "end": 165.58,
+          "probability": 0.9976122379302979
+        },
+        {
+          "word": " the",
+          "start": 165.58,
+          "end": 165.78,
+          "probability": 0.9987344145774841
+        },
+        {
+          "word": " sections.",
+          "start": 165.78,
+          "end": 166.16,
+          "probability": 0.9964614510536194
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 14062,
+      "start": 166.26,
+      "end": 169.04,
+      "text": " That's where the real teaching and learning occurs.",
+      "tokens": [
+        51649,
+        1320,
+        338,
+        810,
+        262,
+        1103,
+        7743,
+        290,
+        4673,
+        8833,
+        13,
+        51797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1901317892722713,
+      "compression_ratio": 1.689516129032258,
+      "no_speech_prob": 0.0026612516958266497,
+      "words": [
+        {
+          "word": " That's",
+          "start": 166.26,
+          "end": 166.64,
+          "probability": 0.9963467419147491
+        },
+        {
+          "word": " where",
+          "start": 166.64,
+          "end": 166.78,
+          "probability": 0.9962454438209534
+        },
+        {
+          "word": " the",
+          "start": 166.78,
+          "end": 166.92,
+          "probability": 0.9951826930046082
+        },
+        {
+          "word": " real",
+          "start": 166.92,
+          "end": 167.22,
+          "probability": 0.9972802400588989
+        },
+        {
+          "word": " teaching",
+          "start": 167.22,
+          "end": 167.72,
+          "probability": 0.9920267462730408
+        },
+        {
+          "word": " and",
+          "start": 167.72,
+          "end": 167.92,
+          "probability": 0.994394063949585
+        },
+        {
+          "word": " learning",
+          "start": 167.92,
+          "end": 168.24,
+          "probability": 0.9992838501930237
+        },
+        {
+          "word": " occurs.",
+          "start": 168.24,
+          "end": 169.04,
+          "probability": 0.9978553652763367
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 16904,
+      "start": 169.04,
+      "end": 174.76,
+      "text": " I'm delighted that the history department was able to provide section meetings for this",
+      "tokens": [
+        50363,
+        314,
+        1101,
+        20707,
+        326,
+        262,
+        2106,
+        5011,
+        373,
+        1498,
+        284,
+        2148,
+        2665,
+        8292,
+        329,
+        428,
+        50619
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 169.04,
+          "end": 169.9,
+          "probability": 0.8764570355415344
+        },
+        {
+          "word": " delighted",
+          "start": 169.9,
+          "end": 170.3,
+          "probability": 0.997812032699585
+        },
+        {
+          "word": " that",
+          "start": 170.3,
+          "end": 170.72,
+          "probability": 0.9906005859375
+        },
+        {
+          "word": " the",
+          "start": 170.72,
+          "end": 171.44,
+          "probability": 0.9735619425773621
+        },
+        {
+          "word": " history",
+          "start": 171.44,
+          "end": 171.66,
+          "probability": 0.6811493039131165
+        },
+        {
+          "word": " department",
+          "start": 171.66,
+          "end": 172.04,
+          "probability": 0.9939247965812683
+        },
+        {
+          "word": " was",
+          "start": 172.04,
+          "end": 172.26,
+          "probability": 0.9926073551177979
+        },
+        {
+          "word": " able",
+          "start": 172.26,
+          "end": 172.5,
+          "probability": 0.9973384737968445
+        },
+        {
+          "word": " to",
+          "start": 172.5,
+          "end": 172.72,
+          "probability": 0.9989089965820312
+        },
+        {
+          "word": " provide",
+          "start": 172.72,
+          "end": 173.18,
+          "probability": 0.9978585839271545
+        },
+        {
+          "word": " section",
+          "start": 173.18,
+          "end": 173.76,
+          "probability": 0.8802406191825867
+        },
+        {
+          "word": " meetings",
+          "start": 173.76,
+          "end": 174.16,
+          "probability": 0.9837383031845093
+        },
+        {
+          "word": " for",
+          "start": 174.16,
+          "end": 174.58,
+          "probability": 0.9050360321998596
+        },
+        {
+          "word": " this",
+          "start": 174.58,
+          "end": 174.76,
+          "probability": 0.9970062375068665
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 16904,
+      "start": 174.76,
+      "end": 178.26,
+      "text": " class, and I hope that you're as excited about them as I am.",
+      "tokens": [
+        50619,
+        1398,
+        11,
+        290,
+        314,
+        2911,
+        326,
+        345,
+        821,
+        355,
+        6568,
+        546,
+        606,
+        355,
+        314,
+        716,
+        13,
+        50797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " class,",
+          "start": 174.76,
+          "end": 175.12,
+          "probability": 0.9981662631034851
+        },
+        {
+          "word": " and",
+          "start": 175.28,
+          "end": 175.68,
+          "probability": 0.9904054999351501
+        },
+        {
+          "word": " I",
+          "start": 175.68,
+          "end": 175.78,
+          "probability": 0.9966752529144287
+        },
+        {
+          "word": " hope",
+          "start": 175.78,
+          "end": 175.98,
+          "probability": 0.997696578502655
+        },
+        {
+          "word": " that",
+          "start": 175.98,
+          "end": 176.16,
+          "probability": 0.9068373441696167
+        },
+        {
+          "word": " you're",
+          "start": 176.16,
+          "end": 176.46,
+          "probability": 0.8449198305606842
+        },
+        {
+          "word": " as",
+          "start": 176.46,
+          "end": 176.58,
+          "probability": 0.9755660891532898
+        },
+        {
+          "word": " excited",
+          "start": 176.58,
+          "end": 176.92,
+          "probability": 0.9976896047592163
+        },
+        {
+          "word": " about",
+          "start": 176.92,
+          "end": 177.18,
+          "probability": 0.9933041930198669
+        },
+        {
+          "word": " them",
+          "start": 177.18,
+          "end": 177.4,
+          "probability": 0.9966273903846741
+        },
+        {
+          "word": " as",
+          "start": 177.4,
+          "end": 177.66,
+          "probability": 0.9962201714515686
+        },
+        {
+          "word": " I",
+          "start": 177.66,
+          "end": 177.94,
+          "probability": 0.9982389211654663
+        },
+        {
+          "word": " am.",
+          "start": 177.94,
+          "end": 178.26,
+          "probability": 0.9988780617713928
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 16904,
+      "start": 179.48,
+      "end": 183.92,
+      "text": " We have two terrific GSIs who are going to be teaching the class.",
+      "tokens": [
+        50857,
+        775,
+        423,
+        734,
+        23754,
+        26681,
+        3792,
+        508,
+        389,
+        1016,
+        284,
+        307,
+        7743,
+        262,
+        1398,
+        13,
+        51089
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " We",
+          "start": 179.48,
+          "end": 179.6,
+          "probability": 0.9889995455741882
+        },
+        {
+          "word": " have",
+          "start": 179.6,
+          "end": 179.78,
+          "probability": 0.9781436920166016
+        },
+        {
+          "word": " two",
+          "start": 179.78,
+          "end": 180.04,
+          "probability": 0.9892827272415161
+        },
+        {
+          "word": " terrific",
+          "start": 180.04,
+          "end": 180.68,
+          "probability": 0.9937293529510498
+        },
+        {
+          "word": " GSIs",
+          "start": 180.68,
+          "end": 181.4,
+          "probability": 0.9341753721237183
+        },
+        {
+          "word": " who",
+          "start": 181.4,
+          "end": 181.92,
+          "probability": 0.8960059881210327
+        },
+        {
+          "word": " are",
+          "start": 181.92,
+          "end": 182.04,
+          "probability": 0.978760302066803
+        },
+        {
+          "word": " going",
+          "start": 182.04,
+          "end": 182.08,
+          "probability": 0.8886458277702332
+        },
+        {
+          "word": " to",
+          "start": 182.08,
+          "end": 182.18,
+          "probability": 0.9975994229316711
+        },
+        {
+          "word": " be",
+          "start": 182.18,
+          "end": 182.4,
+          "probability": 0.9979554414749146
+        },
+        {
+          "word": " teaching",
+          "start": 182.4,
+          "end": 183.06,
+          "probability": 0.9963233470916748
+        },
+        {
+          "word": " the",
+          "start": 183.06,
+          "end": 183.62,
+          "probability": 0.9923398494720459
+        },
+        {
+          "word": " class.",
+          "start": 183.62,
+          "end": 183.92,
+          "probability": 0.998889148235321
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 16904,
+      "start": 184.06,
+      "end": 186.86,
+      "text": " Maybe you could ask David and Brian to stand up.",
+      "tokens": [
+        51089,
+        6674,
+        345,
+        714,
+        1265,
+        3271,
+        290,
+        8403,
+        284,
+        1302,
+        510,
+        13,
+        51209
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " Maybe",
+          "start": 184.06,
+          "end": 184.16,
+          "probability": 0.9855705499649048
+        },
+        {
+          "word": " you",
+          "start": 184.16,
+          "end": 184.3,
+          "probability": 0.47705698013305664
+        },
+        {
+          "word": " could",
+          "start": 184.3,
+          "end": 184.36,
+          "probability": 0.6306748390197754
+        },
+        {
+          "word": " ask",
+          "start": 184.36,
+          "end": 184.7,
+          "probability": 0.9950152039527893
+        },
+        {
+          "word": " David",
+          "start": 184.7,
+          "end": 185.2,
+          "probability": 0.9918637275695801
+        },
+        {
+          "word": " and",
+          "start": 185.2,
+          "end": 185.38,
+          "probability": 0.9979682564735413
+        },
+        {
+          "word": " Brian",
+          "start": 185.38,
+          "end": 185.58,
+          "probability": 0.8381540775299072
+        },
+        {
+          "word": " to",
+          "start": 185.58,
+          "end": 185.8,
+          "probability": 0.9984385371208191
+        },
+        {
+          "word": " stand",
+          "start": 185.8,
+          "end": 186.04,
+          "probability": 0.9992256164550781
+        },
+        {
+          "word": " up.",
+          "start": 186.04,
+          "end": 186.86,
+          "probability": 0.9980493783950806
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 16904,
+      "start": 187.67999999999998,
+      "end": 192.14,
+      "text": " Okay, maybe I'll ask you each to introduce yourselves.",
+      "tokens": [
+        51377,
+        16805,
+        11,
+        3863,
+        314,
+        1183,
+        1265,
+        345,
+        1123,
+        284,
+        10400,
+        27012,
+        13,
+        51499
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 187.67999999999998,
+          "end": 188.2,
+          "probability": 0.311898410320282
+        },
+        {
+          "word": " maybe",
+          "start": 189.8,
+          "end": 190.32,
+          "probability": 0.984305739402771
+        },
+        {
+          "word": " I'll",
+          "start": 190.32,
+          "end": 190.5,
+          "probability": 0.5118929594755173
+        },
+        {
+          "word": " ask",
+          "start": 190.5,
+          "end": 190.66,
+          "probability": 0.9970476031303406
+        },
+        {
+          "word": " you",
+          "start": 190.66,
+          "end": 190.78,
+          "probability": 0.8088650703430176
+        },
+        {
+          "word": " each",
+          "start": 190.78,
+          "end": 191.04,
+          "probability": 0.9210127592086792
+        },
+        {
+          "word": " to",
+          "start": 191.04,
+          "end": 191.24,
+          "probability": 0.9964637160301208
+        },
+        {
+          "word": " introduce",
+          "start": 191.24,
+          "end": 191.58,
+          "probability": 0.9982020854949951
+        },
+        {
+          "word": " yourselves.",
+          "start": 191.58,
+          "end": 192.14,
+          "probability": 0.9933993816375732
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 16904,
+      "start": 193.42,
+      "end": 193.56,
+      "text": " Sure.",
+      "tokens": [
+        51549,
+        10889,
+        13,
+        51599
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " Sure.",
+          "start": 193.42,
+          "end": 193.56,
+          "probability": 0.10289248824119568
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 16904,
+      "start": 193.9,
+      "end": 194.72,
+      "text": " I'm David Deecher.",
+      "tokens": [
+        51599,
+        314,
+        1101,
+        3271,
+        1024,
+        721,
+        372,
+        13,
+        51649
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 193.9,
+          "end": 194.06,
+          "probability": 0.9435130953788757
+        },
+        {
+          "word": " David",
+          "start": 194.06,
+          "end": 194.36,
+          "probability": 0.5797979235649109
+        },
+        {
+          "word": " Deecher.",
+          "start": 194.36,
+          "end": 194.72,
+          "probability": 0.48897306869427365
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 16904,
+      "start": 194.9,
+      "end": 198.52,
+      "text": " I'm a long-standing graduate student in the history department from the West End Soviet",
+      "tokens": [
+        51649,
+        314,
+        1101,
+        257,
+        890,
+        12,
+        5646,
+        10428,
+        3710,
+        287,
+        262,
+        2106,
+        5011,
+        422,
+        262,
+        2688,
+        5268,
+        7570,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38574505696254496,
+      "compression_ratio": 1.6142322097378277,
+      "no_speech_prob": 0.009133761748671532,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 194.9,
+          "end": 195.42,
+          "probability": 0.9818522036075592
+        },
+        {
+          "word": " a",
+          "start": 195.42,
+          "end": 195.68,
+          "probability": 0.9902198910713196
+        },
+        {
+          "word": " long",
+          "start": 195.68,
+          "end": 195.78,
+          "probability": 0.8830961585044861
+        },
+        {
+          "word": "-standing",
+          "start": 195.78,
+          "end": 196.12,
+          "probability": 0.8856405913829803
+        },
+        {
+          "word": " graduate",
+          "start": 196.12,
+          "end": 196.28,
+          "probability": 0.9573601484298706
+        },
+        {
+          "word": " student",
+          "start": 196.28,
+          "end": 196.7,
+          "probability": 0.9876921772956848
+        },
+        {
+          "word": " in",
+          "start": 196.7,
+          "end": 196.86,
+          "probability": 0.5026453733444214
+        },
+        {
+          "word": " the",
+          "start": 196.86,
+          "end": 196.98,
+          "probability": 0.9755223989486694
+        },
+        {
+          "word": " history",
+          "start": 196.98,
+          "end": 197.02,
+          "probability": 0.888786792755127
+        },
+        {
+          "word": " department",
+          "start": 197.02,
+          "end": 197.42,
+          "probability": 0.9974109530448914
+        },
+        {
+          "word": " from",
+          "start": 197.42,
+          "end": 197.72,
+          "probability": 0.40872856974601746
+        },
+        {
+          "word": " the",
+          "start": 197.72,
+          "end": 197.86,
+          "probability": 0.913964033126831
+        },
+        {
+          "word": " West",
+          "start": 197.86,
+          "end": 198.02,
+          "probability": 0.23959463834762573
+        },
+        {
+          "word": " End",
+          "start": 198.02,
+          "end": 198.14,
+          "probability": 0.07920794188976288
+        },
+        {
+          "word": " Soviet",
+          "start": 198.14,
+          "end": 198.52,
+          "probability": 0.721336305141449
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 19852,
+      "start": 198.52,
+      "end": 203.06,
+      "text": " Union and European history in kind of a global sense.",
+      "tokens": [
+        50365,
+        4479,
+        290,
+        3427,
+        2106,
+        287,
+        1611,
+        286,
+        257,
+        3298,
+        2565,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6081394958496094,
+      "compression_ratio": 1.3059701492537314,
+      "no_speech_prob": 0.25269174575805664,
+      "words": [
+        {
+          "word": " Union",
+          "start": 198.52,
+          "end": 198.78,
+          "probability": 8.891324250726029e-05
+        },
+        {
+          "word": " and",
+          "start": 198.78,
+          "end": 199.52,
+          "probability": 0.7204378247261047
+        },
+        {
+          "word": " European",
+          "start": 199.52,
+          "end": 200.54,
+          "probability": 0.9535418748855591
+        },
+        {
+          "word": " history",
+          "start": 200.54,
+          "end": 201.1,
+          "probability": 0.9725990891456604
+        },
+        {
+          "word": " in",
+          "start": 201.1,
+          "end": 201.48,
+          "probability": 0.18403315544128418
+        },
+        {
+          "word": " kind",
+          "start": 201.48,
+          "end": 201.9,
+          "probability": 0.32017263770103455
+        },
+        {
+          "word": " of",
+          "start": 201.9,
+          "end": 202.0,
+          "probability": 0.9964534044265747
+        },
+        {
+          "word": " a",
+          "start": 202.0,
+          "end": 202.12,
+          "probability": 0.8625993728637695
+        },
+        {
+          "word": " global",
+          "start": 202.12,
+          "end": 202.66,
+          "probability": 0.6947985291481018
+        },
+        {
+          "word": " sense.",
+          "start": 202.66,
+          "end": 203.06,
+          "probability": 0.9682003855705261
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 19852,
+      "start": 203.52,
+      "end": 206.64,
+      "text": " I'm from France and lived abroad and other places.",
+      "tokens": [
+        50615,
+        314,
+        1101,
+        422,
+        4881,
+        290,
+        5615,
+        10522,
+        290,
+        584,
+        4113,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6081394958496094,
+      "compression_ratio": 1.3059701492537314,
+      "no_speech_prob": 0.25269174575805664,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 203.52,
+          "end": 203.56,
+          "probability": 0.2455496834591031
+        },
+        {
+          "word": " from",
+          "start": 203.56,
+          "end": 203.72,
+          "probability": 0.02347904071211815
+        },
+        {
+          "word": " France",
+          "start": 203.72,
+          "end": 204.32,
+          "probability": 0.8536297678947449
+        },
+        {
+          "word": " and",
+          "start": 204.32,
+          "end": 205.18,
+          "probability": 0.567315936088562
+        },
+        {
+          "word": " lived",
+          "start": 205.18,
+          "end": 205.34,
+          "probability": 0.763293445110321
+        },
+        {
+          "word": " abroad",
+          "start": 205.34,
+          "end": 205.68,
+          "probability": 0.9034822583198547
+        },
+        {
+          "word": " and",
+          "start": 205.68,
+          "end": 205.86,
+          "probability": 0.5525274872779846
+        },
+        {
+          "word": " other",
+          "start": 205.86,
+          "end": 206.04,
+          "probability": 0.45684435963630676
+        },
+        {
+          "word": " places.",
+          "start": 206.04,
+          "end": 206.64,
+          "probability": 0.6339870691299438
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 19852,
+      "start": 207.2,
+      "end": 212.7,
+      "text": " I'm from Estonia and looking forward to meeting you.",
+      "tokens": [
+        50765,
+        314,
+        1101,
+        422,
+        30912,
+        290,
+        2045,
+        2651,
+        284,
+        3249,
+        345,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6081394958496094,
+      "compression_ratio": 1.3059701492537314,
+      "no_speech_prob": 0.25269174575805664,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 207.2,
+          "end": 207.4,
+          "probability": 0.5152668952941895
+        },
+        {
+          "word": " from",
+          "start": 207.4,
+          "end": 207.4,
+          "probability": 0.27388110756874084
+        },
+        {
+          "word": " Estonia",
+          "start": 207.4,
+          "end": 209.44,
+          "probability": 0.7792830467224121
+        },
+        {
+          "word": " and",
+          "start": 209.44,
+          "end": 210.68,
+          "probability": 0.5254020690917969
+        },
+        {
+          "word": " looking",
+          "start": 210.68,
+          "end": 212.02,
+          "probability": 0.6890760064125061
+        },
+        {
+          "word": " forward",
+          "start": 212.02,
+          "end": 212.2,
+          "probability": 0.991783618927002
+        },
+        {
+          "word": " to",
+          "start": 212.2,
+          "end": 212.36,
+          "probability": 0.997572124004364
+        },
+        {
+          "word": " meeting",
+          "start": 212.36,
+          "end": 212.5,
+          "probability": 0.9620293378829956
+        },
+        {
+          "word": " you.",
+          "start": 212.5,
+          "end": 212.7,
+          "probability": 0.9177454113960266
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 19852,
+      "start": 213.18,
+      "end": 213.4,
+      "text": " Great.",
+      "tokens": [
+        51065,
+        3878,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6081394958496094,
+      "compression_ratio": 1.3059701492537314,
+      "no_speech_prob": 0.25269174575805664,
+      "words": [
+        {
+          "word": " Great.",
+          "start": 213.18,
+          "end": 213.4,
+          "probability": 0.6181955933570862
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 19852,
+      "start": 214.04,
+      "end": 214.96,
+      "text": " And Brian?",
+      "tokens": [
+        51115,
+        843,
+        8403,
+        30,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6081394958496094,
+      "compression_ratio": 1.3059701492537314,
+      "no_speech_prob": 0.25269174575805664,
+      "words": [
+        {
+          "word": " And",
+          "start": 214.04,
+          "end": 214.26,
+          "probability": 0.9716500043869019
+        },
+        {
+          "word": " Brian?",
+          "start": 214.26,
+          "end": 214.96,
+          "probability": 0.7874651551246643
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 21496,
+      "start": 214.96,
+      "end": 216.08,
+      "text": " Okay.",
+      "tokens": [
+        50365,
+        16805,
+        13,
+        50415
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5972139912266885,
+      "compression_ratio": 1.0869565217391304,
+      "no_speech_prob": 0.0047936951741576195,
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 214.96,
+          "end": 216.08,
+          "probability": 0.04298964887857437
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 21496,
+      "start": 228.98,
+      "end": 234.12,
+      "text": " Great, thank you.",
+      "tokens": [
+        51265,
+        3878,
+        11,
+        5875,
+        345,
+        13,
+        51315
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5972139912266885,
+      "compression_ratio": 1.0869565217391304,
+      "no_speech_prob": 0.0047936951741576195,
+      "words": [
+        {
+          "word": " Great,",
+          "start": 228.98,
+          "end": 230.1,
+          "probability": 0.4866947829723358
+        },
+        {
+          "word": " thank",
+          "start": 230.74,
+          "end": 230.74,
+          "probability": 0.9886034727096558
+        },
+        {
+          "word": " you.",
+          "start": 230.74,
+          "end": 234.12,
+          "probability": 0.9952680468559265
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 21496,
+      "start": 235.2,
+      "end": 237.38,
+      "text": " Let me simply reinforce the point.",
+      "tokens": [
+        51365,
+        3914,
+        502,
+        2391,
+        19594,
+        262,
+        966,
+        13,
+        51465
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5972139912266885,
+      "compression_ratio": 1.0869565217391304,
+      "no_speech_prob": 0.0047936951741576195,
+      "words": [
+        {
+          "word": " Let",
+          "start": 235.2,
+          "end": 235.48,
+          "probability": 0.9929097294807434
+        },
+        {
+          "word": " me",
+          "start": 235.48,
+          "end": 235.64,
+          "probability": 0.9984143972396851
+        },
+        {
+          "word": " simply",
+          "start": 235.64,
+          "end": 236.0,
+          "probability": 0.9886654615402222
+        },
+        {
+          "word": " reinforce",
+          "start": 236.0,
+          "end": 236.9,
+          "probability": 0.9621284008026123
+        },
+        {
+          "word": " the",
+          "start": 236.9,
+          "end": 237.16,
+          "probability": 0.9872581362724304
+        },
+        {
+          "word": " point.",
+          "start": 237.16,
+          "end": 237.38,
+          "probability": 0.9983046054840088
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 21496,
+      "start": 237.98,
+      "end": 239.98,
+      "text": " The sections serve a very important role.",
+      "tokens": [
+        51465,
+        383,
+        9004,
+        4691,
+        257,
+        845,
+        1593,
+        2597,
+        13,
+        51765
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.5972139912266885,
+      "compression_ratio": 1.0869565217391304,
+      "no_speech_prob": 0.0047936951741576195,
+      "words": [
+        {
+          "word": " The",
+          "start": 237.98,
+          "end": 238.12,
+          "probability": 0.9763392210006714
+        },
+        {
+          "word": " sections",
+          "start": 238.12,
+          "end": 238.64,
+          "probability": 0.9911070466041565
+        },
+        {
+          "word": " serve",
+          "start": 238.64,
+          "end": 239.4,
+          "probability": 0.7176053524017334
+        },
+        {
+          "word": " a",
+          "start": 239.4,
+          "end": 239.8,
+          "probability": 0.9131240844726562
+        },
+        {
+          "word": " very",
+          "start": 239.8,
+          "end": 239.98,
+          "probability": 0.028859572485089302
+        },
+        {
+          "word": " important",
+          "start": 239.98,
+          "end": 239.98,
+          "probability": 0.2351955771446228
+        },
+        {
+          "word": " role.",
+          "start": 239.98,
+          "end": 239.98,
+          "probability": 0.5175212025642395
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

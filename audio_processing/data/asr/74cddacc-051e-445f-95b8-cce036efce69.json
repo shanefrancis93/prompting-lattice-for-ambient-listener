@@ -1,0 +1,4640 @@
+{
+  "text": " ideological and not geopolitical even, but are civilizational. The world as Huntington saw it was divided into a number of discrete civilizations. You know, the Western civilization, Orthodox Christian civilization, which is Russia and its and the post-Soviet successor states, Indian civilization, African civilization, and Islamic civilization. This was Huntington's sort of view of the world, and it's a worldview that has been quite influential, particularly on our public discourse in the United States, I would suggest. But is there cause to see, you know, sort of recent conflicts as simply another episode in a long-running clash of civilizations? Can we link, you know, disagreements over Iran's nuclear program and the states of Hormuz to the Crusades of the 12th and the Middle East? Probably not, but some might be inclined to do so. We could, after all, see these sort of recent international crises, the rise of radical Islamism in the Middle East since the 1950s, the Iranian Revolution of 1979, the rise of Al Qaeda in the 1990s, the 9-11 attack in 2001, as sort of flash points in a long-running clash of civilizations. My own view is that this would be far too simplistic a framework in which to understand the complex politics of the Middle East. It's a framework that obscures conflict within the Islamic world, profound differences between Shiite Iran and its Sunni neighbors, but it's a perspective that some commentators on the region would nonetheless favor. So we sort of offer it as an alternative paradigm or vantage point on events. You know, here we have, you know, once again sort of three different perspectives. Do we see the friction that exists between Iran and the United States today as a rogue state acting out, as a consequence of the West's hegemonic aspirations, or as the manifestation of a civilizational clash that is perhaps over a millennium old? So three different perspectives. I'm not saying that the United States is correct as a singular construct, but thinking about how events look from different perspectives helps us to get a handle on the range of possible interpretations. That's really important because not everybody sees events in the same way. The Iranians may see the conflict over the Straits of Hormuz in very different terms from those in which we see them, and it's important for us to think about the historical reference points that Iranian leaders might use to, you know, comprehend an existing crisis. So what then is the sort of utility for historians of the kinds of explanatory narrative that I've just constructed? By linking particular events to sort of larger frameworks of meaning, what do we accomplish? I think the first thing we do is we connect the present to the past in ways that help us to comprehend the deepest significance of particular events. You know, we get a vantage point, some sense of the larger stakes and perhaps also of the larger consequences. We should also be aware that different narrative interpretations of events, different, you know, kinds of frameworks such as those which I've proposed, carry quite different political implications, right? There are stakes in how we comprehend particular events. The larger frameworks of meaning within which we locate...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.22,
+      "text": " ideological and not geopolitical even, but are civilizational. The world as",
+      "tokens": [
+        50363,
+        15735,
+        290,
+        407,
+        35493,
+        772,
+        11,
+        475,
+        389,
+        3026,
+        22684,
+        13,
+        383,
+        995,
+        355,
+        50619
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1822920560836792,
+      "compression_ratio": 1.7534246575342465,
+      "no_speech_prob": 0.003281499957665801,
+      "words": [
+        {
+          "word": " ideological",
+          "start": 0.0,
+          "end": 0.8,
+          "probability": 0.25365278124809265
+        },
+        {
+          "word": " and",
+          "start": 0.8,
+          "end": 1.26,
+          "probability": 0.46469277143478394
+        },
+        {
+          "word": " not",
+          "start": 1.26,
+          "end": 1.42,
+          "probability": 0.9494139552116394
+        },
+        {
+          "word": " geopolitical",
+          "start": 1.42,
+          "end": 1.8,
+          "probability": 0.9764288663864136
+        },
+        {
+          "word": " even,",
+          "start": 1.8,
+          "end": 2.3,
+          "probability": 0.9174907803535461
+        },
+        {
+          "word": " but",
+          "start": 2.32,
+          "end": 2.76,
+          "probability": 0.9978030323982239
+        },
+        {
+          "word": " are",
+          "start": 2.76,
+          "end": 2.98,
+          "probability": 0.9157847166061401
+        },
+        {
+          "word": " civilizational.",
+          "start": 2.98,
+          "end": 3.78,
+          "probability": 0.9616691768169403
+        },
+        {
+          "word": " The",
+          "start": 4.64,
+          "end": 4.84,
+          "probability": 0.9883003234863281
+        },
+        {
+          "word": " world",
+          "start": 4.84,
+          "end": 5.02,
+          "probability": 0.9957347512245178
+        },
+        {
+          "word": " as",
+          "start": 5.02,
+          "end": 5.22,
+          "probability": 0.8613327145576477
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.22,
+      "end": 10.68,
+      "text": " Huntington saw it was divided into a number of discrete civilizations. You",
+      "tokens": [
+        50619,
+        40644,
+        2497,
+        340,
+        373,
+        9086,
+        656,
+        257,
+        1271,
+        286,
+        28810,
+        35928,
+        13,
+        921,
+        50893
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1822920560836792,
+      "compression_ratio": 1.7534246575342465,
+      "no_speech_prob": 0.003281499957665801,
+      "words": [
+        {
+          "word": " Huntington",
+          "start": 5.22,
+          "end": 5.46,
+          "probability": 0.8992598652839661
+        },
+        {
+          "word": " saw",
+          "start": 5.46,
+          "end": 5.86,
+          "probability": 0.9481061697006226
+        },
+        {
+          "word": " it",
+          "start": 5.86,
+          "end": 6.1,
+          "probability": 0.9881380200386047
+        },
+        {
+          "word": " was",
+          "start": 6.1,
+          "end": 6.58,
+          "probability": 0.8462006449699402
+        },
+        {
+          "word": " divided",
+          "start": 6.58,
+          "end": 7.02,
+          "probability": 0.996136486530304
+        },
+        {
+          "word": " into",
+          "start": 7.02,
+          "end": 7.58,
+          "probability": 0.996733546257019
+        },
+        {
+          "word": " a",
+          "start": 7.58,
+          "end": 8.1,
+          "probability": 0.9891547560691833
+        },
+        {
+          "word": " number",
+          "start": 8.1,
+          "end": 8.38,
+          "probability": 0.9947671890258789
+        },
+        {
+          "word": " of",
+          "start": 8.38,
+          "end": 8.62,
+          "probability": 0.99817955493927
+        },
+        {
+          "word": " discrete",
+          "start": 8.62,
+          "end": 9.06,
+          "probability": 0.8926545977592468
+        },
+        {
+          "word": " civilizations.",
+          "start": 9.06,
+          "end": 10.14,
+          "probability": 0.9832111597061157
+        },
+        {
+          "word": " You",
+          "start": 10.68,
+          "end": 10.68,
+          "probability": 0.4408263862133026
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.68,
+      "end": 15.54,
+      "text": " know, the Western civilization, Orthodox Christian civilization, which is Russia",
+      "tokens": [
+        50893,
+        760,
+        11,
+        262,
+        4885,
+        14355,
+        11,
+        17650,
+        4302,
+        14355,
+        11,
+        543,
+        318,
+        3284,
+        51131
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1822920560836792,
+      "compression_ratio": 1.7534246575342465,
+      "no_speech_prob": 0.003281499957665801,
+      "words": [
+        {
+          "word": " know,",
+          "start": 10.68,
+          "end": 10.82,
+          "probability": 0.9967051148414612
+        },
+        {
+          "word": " the",
+          "start": 10.9,
+          "end": 11.1,
+          "probability": 0.9654009342193604
+        },
+        {
+          "word": " Western",
+          "start": 11.1,
+          "end": 11.38,
+          "probability": 0.7307109832763672
+        },
+        {
+          "word": " civilization,",
+          "start": 11.38,
+          "end": 12.26,
+          "probability": 0.9468232989311218
+        },
+        {
+          "word": " Orthodox",
+          "start": 12.98,
+          "end": 13.34,
+          "probability": 0.8122549057006836
+        },
+        {
+          "word": " Christian",
+          "start": 13.34,
+          "end": 13.84,
+          "probability": 0.9410896897315979
+        },
+        {
+          "word": " civilization,",
+          "start": 13.84,
+          "end": 14.58,
+          "probability": 0.9896773099899292
+        },
+        {
+          "word": " which",
+          "start": 14.8,
+          "end": 14.86,
+          "probability": 0.9423891305923462
+        },
+        {
+          "word": " is",
+          "start": 14.86,
+          "end": 14.98,
+          "probability": 0.9854835867881775
+        },
+        {
+          "word": " Russia",
+          "start": 14.98,
+          "end": 15.54,
+          "probability": 0.8308612108230591
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.54,
+      "end": 22.28,
+      "text": " and its and the post-Soviet successor states, Indian civilization, African",
+      "tokens": [
+        51131,
+        290,
+        663,
+        290,
+        262,
+        1281,
+        12,
+        40408,
+        17270,
+        2585,
+        11,
+        3942,
+        14355,
+        11,
+        5510,
+        51477
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1822920560836792,
+      "compression_ratio": 1.7534246575342465,
+      "no_speech_prob": 0.003281499957665801,
+      "words": [
+        {
+          "word": " and",
+          "start": 15.54,
+          "end": 15.88,
+          "probability": 0.8811950087547302
+        },
+        {
+          "word": " its",
+          "start": 15.88,
+          "end": 16.12,
+          "probability": 0.5791833400726318
+        },
+        {
+          "word": " and",
+          "start": 16.12,
+          "end": 16.6,
+          "probability": 0.27466872334480286
+        },
+        {
+          "word": " the",
+          "start": 16.6,
+          "end": 16.76,
+          "probability": 0.9886510372161865
+        },
+        {
+          "word": " post",
+          "start": 16.76,
+          "end": 17.12,
+          "probability": 0.9726693630218506
+        },
+        {
+          "word": "-Soviet",
+          "start": 17.12,
+          "end": 17.42,
+          "probability": 0.7333303093910217
+        },
+        {
+          "word": " successor",
+          "start": 17.42,
+          "end": 17.78,
+          "probability": 0.5915339589118958
+        },
+        {
+          "word": " states,",
+          "start": 17.78,
+          "end": 18.38,
+          "probability": 0.9166446924209595
+        },
+        {
+          "word": " Indian",
+          "start": 19.0,
+          "end": 20.02,
+          "probability": 0.967170000076294
+        },
+        {
+          "word": " civilization,",
+          "start": 20.02,
+          "end": 21.1,
+          "probability": 0.9848349094390869
+        },
+        {
+          "word": " African",
+          "start": 21.7,
+          "end": 22.28,
+          "probability": 0.9973635077476501
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 22.28,
+      "end": 26.76,
+      "text": " civilization, and Islamic civilization. This was Huntington's sort of view of",
+      "tokens": [
+        51477,
+        14355,
+        11,
+        290,
+        5533,
+        14355,
+        13,
+        770,
+        373,
+        40644,
+        338,
+        3297,
+        286,
+        1570,
+        286,
+        51697
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1822920560836792,
+      "compression_ratio": 1.7534246575342465,
+      "no_speech_prob": 0.003281499957665801,
+      "words": [
+        {
+          "word": " civilization,",
+          "start": 22.28,
+          "end": 22.94,
+          "probability": 0.996950626373291
+        },
+        {
+          "word": " and",
+          "start": 22.96,
+          "end": 23.2,
+          "probability": 0.998189389705658
+        },
+        {
+          "word": " Islamic",
+          "start": 23.2,
+          "end": 23.58,
+          "probability": 0.9979410767555237
+        },
+        {
+          "word": " civilization.",
+          "start": 23.58,
+          "end": 24.36,
+          "probability": 0.997565746307373
+        },
+        {
+          "word": " This",
+          "start": 24.56,
+          "end": 24.92,
+          "probability": 0.9939860105514526
+        },
+        {
+          "word": " was",
+          "start": 24.92,
+          "end": 25.14,
+          "probability": 0.9964268803596497
+        },
+        {
+          "word": " Huntington's",
+          "start": 25.14,
+          "end": 25.98,
+          "probability": 0.9831206202507019
+        },
+        {
+          "word": " sort",
+          "start": 25.98,
+          "end": 26.14,
+          "probability": 0.8248791098594666
+        },
+        {
+          "word": " of",
+          "start": 26.14,
+          "end": 26.38,
+          "probability": 0.9968337416648865
+        },
+        {
+          "word": " view",
+          "start": 26.38,
+          "end": 26.58,
+          "probability": 0.995753288269043
+        },
+        {
+          "word": " of",
+          "start": 26.58,
+          "end": 26.76,
+          "probability": 0.999466598033905
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2676,
+      "start": 26.76,
+      "end": 30.6,
+      "text": " the world, and it's a worldview that has been quite influential, particularly on",
+      "tokens": [
+        50363,
+        262,
+        995,
+        11,
+        290,
+        340,
+        338,
+        257,
+        29081,
+        326,
+        468,
+        587,
+        2407,
+        14212,
+        11,
+        3573,
+        319,
+        50553
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1360017458597819,
+      "compression_ratio": 1.5252918287937742,
+      "no_speech_prob": 0.33954790234565735,
+      "words": [
+        {
+          "word": " the",
+          "start": 26.76,
+          "end": 26.88,
+          "probability": 0.5066052675247192
+        },
+        {
+          "word": " world,",
+          "start": 26.88,
+          "end": 27.12,
+          "probability": 0.995643138885498
+        },
+        {
+          "word": " and",
+          "start": 27.22,
+          "end": 27.56,
+          "probability": 0.9974950551986694
+        },
+        {
+          "word": " it's",
+          "start": 27.56,
+          "end": 27.72,
+          "probability": 0.9799384772777557
+        },
+        {
+          "word": " a",
+          "start": 27.72,
+          "end": 27.84,
+          "probability": 0.989474356174469
+        },
+        {
+          "word": " worldview",
+          "start": 27.84,
+          "end": 28.14,
+          "probability": 0.7709841728210449
+        },
+        {
+          "word": " that",
+          "start": 28.14,
+          "end": 28.32,
+          "probability": 0.997765064239502
+        },
+        {
+          "word": " has",
+          "start": 28.32,
+          "end": 28.44,
+          "probability": 0.9942160248756409
+        },
+        {
+          "word": " been",
+          "start": 28.44,
+          "end": 28.6,
+          "probability": 0.9990787506103516
+        },
+        {
+          "word": " quite",
+          "start": 28.6,
+          "end": 28.82,
+          "probability": 0.9994277358055115
+        },
+        {
+          "word": " influential,",
+          "start": 28.82,
+          "end": 29.4,
+          "probability": 0.9987706542015076
+        },
+        {
+          "word": " particularly",
+          "start": 29.72,
+          "end": 30.28,
+          "probability": 0.9984585046768188
+        },
+        {
+          "word": " on",
+          "start": 30.28,
+          "end": 30.6,
+          "probability": 0.9877611398696899
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2676,
+      "start": 30.6,
+      "end": 35.62,
+      "text": " our public discourse in the United States, I would suggest. But is there",
+      "tokens": [
+        50553,
+        674,
+        1171,
+        18129,
+        287,
+        262,
+        1578,
+        1829,
+        11,
+        314,
+        561,
+        1950,
+        13,
+        887,
+        318,
+        612,
+        50807
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1360017458597819,
+      "compression_ratio": 1.5252918287937742,
+      "no_speech_prob": 0.33954790234565735,
+      "words": [
+        {
+          "word": " our",
+          "start": 30.6,
+          "end": 30.78,
+          "probability": 0.9748725891113281
+        },
+        {
+          "word": " public",
+          "start": 30.78,
+          "end": 31.04,
+          "probability": 0.9982603192329407
+        },
+        {
+          "word": " discourse",
+          "start": 31.04,
+          "end": 31.54,
+          "probability": 0.999549925327301
+        },
+        {
+          "word": " in",
+          "start": 31.54,
+          "end": 32.0,
+          "probability": 0.7572465538978577
+        },
+        {
+          "word": " the",
+          "start": 32.0,
+          "end": 32.14,
+          "probability": 0.9949188828468323
+        },
+        {
+          "word": " United",
+          "start": 32.14,
+          "end": 32.38,
+          "probability": 0.9975451827049255
+        },
+        {
+          "word": " States,",
+          "start": 32.38,
+          "end": 32.82,
+          "probability": 0.9990707039833069
+        },
+        {
+          "word": " I",
+          "start": 32.84,
+          "end": 33.02,
+          "probability": 0.9982166886329651
+        },
+        {
+          "word": " would",
+          "start": 33.02,
+          "end": 33.18,
+          "probability": 0.999188244342804
+        },
+        {
+          "word": " suggest.",
+          "start": 33.18,
+          "end": 33.68,
+          "probability": 0.9989933371543884
+        },
+        {
+          "word": " But",
+          "start": 35.12,
+          "end": 35.3,
+          "probability": 0.9921080470085144
+        },
+        {
+          "word": " is",
+          "start": 35.3,
+          "end": 35.44,
+          "probability": 0.9813831448554993
+        },
+        {
+          "word": " there",
+          "start": 35.44,
+          "end": 35.62,
+          "probability": 0.930629312992096
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2676,
+      "start": 35.62,
+      "end": 43.7,
+      "text": " cause to see, you know, sort of recent conflicts as simply another episode in a",
+      "tokens": [
+        50807,
+        2728,
+        284,
+        766,
+        11,
+        345,
+        760,
+        11,
+        3297,
+        286,
+        2274,
+        12333,
+        355,
+        2391,
+        1194,
+        4471,
+        287,
+        257,
+        51203
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1360017458597819,
+      "compression_ratio": 1.5252918287937742,
+      "no_speech_prob": 0.33954790234565735,
+      "words": [
+        {
+          "word": " cause",
+          "start": 35.62,
+          "end": 35.94,
+          "probability": 0.2990366220474243
+        },
+        {
+          "word": " to",
+          "start": 35.94,
+          "end": 36.2,
+          "probability": 0.998494029045105
+        },
+        {
+          "word": " see,",
+          "start": 36.2,
+          "end": 36.92,
+          "probability": 0.998903751373291
+        },
+        {
+          "word": " you",
+          "start": 36.92,
+          "end": 37.46,
+          "probability": 0.7266296148300171
+        },
+        {
+          "word": " know,",
+          "start": 37.46,
+          "end": 37.54,
+          "probability": 0.997089684009552
+        },
+        {
+          "word": " sort",
+          "start": 37.56,
+          "end": 37.62,
+          "probability": 0.8327205777168274
+        },
+        {
+          "word": " of",
+          "start": 37.62,
+          "end": 37.76,
+          "probability": 0.996731162071228
+        },
+        {
+          "word": " recent",
+          "start": 37.76,
+          "end": 38.14,
+          "probability": 0.9579631090164185
+        },
+        {
+          "word": " conflicts",
+          "start": 38.14,
+          "end": 39.66,
+          "probability": 0.9386579990386963
+        },
+        {
+          "word": " as",
+          "start": 39.66,
+          "end": 40.58,
+          "probability": 0.949164628982544
+        },
+        {
+          "word": " simply",
+          "start": 40.58,
+          "end": 41.4,
+          "probability": 0.9931341409683228
+        },
+        {
+          "word": " another",
+          "start": 41.4,
+          "end": 41.9,
+          "probability": 0.9966373443603516
+        },
+        {
+          "word": " episode",
+          "start": 41.9,
+          "end": 42.98,
+          "probability": 0.968135416507721
+        },
+        {
+          "word": " in",
+          "start": 42.98,
+          "end": 43.48,
+          "probability": 0.9894320964813232
+        },
+        {
+          "word": " a",
+          "start": 43.48,
+          "end": 43.7,
+          "probability": 0.9988147020339966
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2676,
+      "start": 43.7,
+      "end": 48.68,
+      "text": " long-running clash of civilizations? Can we link, you know, disagreements over",
+      "tokens": [
+        51203,
+        890,
+        12,
+        20270,
+        19122,
+        286,
+        35928,
+        30,
+        1680,
+        356,
+        2792,
+        11,
+        345,
+        760,
+        11,
+        37990,
+        625,
+        51461
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1360017458597819,
+      "compression_ratio": 1.5252918287937742,
+      "no_speech_prob": 0.33954790234565735,
+      "words": [
+        {
+          "word": " long",
+          "start": 43.7,
+          "end": 43.88,
+          "probability": 0.9993314743041992
+        },
+        {
+          "word": "-running",
+          "start": 43.88,
+          "end": 44.16,
+          "probability": 0.8664833307266235
+        },
+        {
+          "word": " clash",
+          "start": 44.16,
+          "end": 44.54,
+          "probability": 0.9963110089302063
+        },
+        {
+          "word": " of",
+          "start": 44.54,
+          "end": 44.88,
+          "probability": 0.999177873134613
+        },
+        {
+          "word": " civilizations?",
+          "start": 44.88,
+          "end": 45.56,
+          "probability": 0.9761417508125305
+        },
+        {
+          "word": " Can",
+          "start": 46.06,
+          "end": 46.42,
+          "probability": 0.996825098991394
+        },
+        {
+          "word": " we",
+          "start": 46.42,
+          "end": 46.62,
+          "probability": 0.9993839263916016
+        },
+        {
+          "word": " link,",
+          "start": 46.62,
+          "end": 47.04,
+          "probability": 0.9991945624351501
+        },
+        {
+          "word": " you",
+          "start": 47.2,
+          "end": 47.62,
+          "probability": 0.9864033460617065
+        },
+        {
+          "word": " know,",
+          "start": 47.62,
+          "end": 47.74,
+          "probability": 0.9993786811828613
+        },
+        {
+          "word": " disagreements",
+          "start": 47.78,
+          "end": 48.32,
+          "probability": 0.9974449872970581
+        },
+        {
+          "word": " over",
+          "start": 48.32,
+          "end": 48.68,
+          "probability": 0.6860932111740112
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2676,
+      "start": 48.68,
+      "end": 56.74,
+      "text": " Iran's nuclear program and the states of Hormuz to the Crusades of the 12th and",
+      "tokens": [
+        51461,
+        4068,
+        338,
+        4523,
+        1430,
+        290,
+        262,
+        2585,
+        286,
+        367,
+        579,
+        10277,
+        284,
+        262,
+        15170,
+        2367,
+        286,
+        262,
+        1105,
+        400,
+        290,
+        51671
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1360017458597819,
+      "compression_ratio": 1.5252918287937742,
+      "no_speech_prob": 0.33954790234565735,
+      "words": [
+        {
+          "word": " Iran's",
+          "start": 48.68,
+          "end": 49.22,
+          "probability": 0.9986885786056519
+        },
+        {
+          "word": " nuclear",
+          "start": 49.22,
+          "end": 49.48,
+          "probability": 0.998977780342102
+        },
+        {
+          "word": " program",
+          "start": 49.48,
+          "end": 49.94,
+          "probability": 0.985789954662323
+        },
+        {
+          "word": " and",
+          "start": 49.94,
+          "end": 50.12,
+          "probability": 0.9653587937355042
+        },
+        {
+          "word": " the",
+          "start": 50.12,
+          "end": 50.28,
+          "probability": 0.998980700969696
+        },
+        {
+          "word": " states",
+          "start": 50.28,
+          "end": 50.46,
+          "probability": 0.8088377118110657
+        },
+        {
+          "word": " of",
+          "start": 50.46,
+          "end": 50.66,
+          "probability": 0.9972149133682251
+        },
+        {
+          "word": " Hormuz",
+          "start": 50.66,
+          "end": 51.0,
+          "probability": 0.9661557078361511
+        },
+        {
+          "word": " to",
+          "start": 51.0,
+          "end": 51.58,
+          "probability": 0.9640929102897644
+        },
+        {
+          "word": " the",
+          "start": 51.58,
+          "end": 51.78,
+          "probability": 0.9993525147438049
+        },
+        {
+          "word": " Crusades",
+          "start": 51.78,
+          "end": 52.22,
+          "probability": 0.8253551721572876
+        },
+        {
+          "word": " of",
+          "start": 52.22,
+          "end": 52.42,
+          "probability": 0.9991590976715088
+        },
+        {
+          "word": " the",
+          "start": 52.42,
+          "end": 52.58,
+          "probability": 0.9987564086914062
+        },
+        {
+          "word": " 12th",
+          "start": 52.58,
+          "end": 56.74,
+          "probability": 0.9793294072151184
+        },
+        {
+          "word": " and",
+          "start": 56.74,
+          "end": 56.74,
+          "probability": 0.9915151596069336
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5674,
+      "start": 57.82,
+      "end": 62.4,
+      "text": " the Middle East? Probably not, but some might be inclined to do so. We could, after",
+      "tokens": [
+        50363,
+        262,
+        6046,
+        3687,
+        30,
+        18578,
+        407,
+        11,
+        475,
+        617,
+        1244,
+        307,
+        19514,
+        284,
+        466,
+        523,
+        13,
+        775,
+        714,
+        11,
+        706,
+        50643
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2205120612835062,
+      "compression_ratio": 1.5847750865051904,
+      "no_speech_prob": 0.07533394545316696,
+      "words": [
+        {
+          "word": " the",
+          "start": 57.82,
+          "end": 58.32,
+          "probability": 0.01283311378210783
+        },
+        {
+          "word": " Middle",
+          "start": 58.32,
+          "end": 58.32,
+          "probability": 0.08531536906957626
+        },
+        {
+          "word": " East?",
+          "start": 58.32,
+          "end": 58.32,
+          "probability": 0.9696885347366333
+        },
+        {
+          "word": " Probably",
+          "start": 58.32,
+          "end": 58.44,
+          "probability": 0.5642770528793335
+        },
+        {
+          "word": " not,",
+          "start": 58.44,
+          "end": 58.86,
+          "probability": 0.9960013031959534
+        },
+        {
+          "word": " but",
+          "start": 58.94,
+          "end": 59.54,
+          "probability": 0.9825876355171204
+        },
+        {
+          "word": " some",
+          "start": 59.54,
+          "end": 59.86,
+          "probability": 0.9963286519050598
+        },
+        {
+          "word": " might",
+          "start": 59.86,
+          "end": 60.26,
+          "probability": 0.9900042414665222
+        },
+        {
+          "word": " be",
+          "start": 60.26,
+          "end": 60.42,
+          "probability": 0.9983149766921997
+        },
+        {
+          "word": " inclined",
+          "start": 60.42,
+          "end": 60.8,
+          "probability": 0.9983001351356506
+        },
+        {
+          "word": " to",
+          "start": 60.8,
+          "end": 61.24,
+          "probability": 0.9961662292480469
+        },
+        {
+          "word": " do",
+          "start": 61.24,
+          "end": 61.44,
+          "probability": 0.9970268607139587
+        },
+        {
+          "word": " so.",
+          "start": 61.44,
+          "end": 61.74,
+          "probability": 0.991462767124176
+        },
+        {
+          "word": " We",
+          "start": 61.88,
+          "end": 61.96,
+          "probability": 0.9890985488891602
+        },
+        {
+          "word": " could,",
+          "start": 61.96,
+          "end": 62.18,
+          "probability": 0.9979883432388306
+        },
+        {
+          "word": " after",
+          "start": 62.22,
+          "end": 62.4,
+          "probability": 0.998346209526062
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5674,
+      "start": 62.4,
+      "end": 67.34,
+      "text": " all, see these sort of recent international crises, the rise of radical",
+      "tokens": [
+        50643,
+        477,
+        11,
+        766,
+        777,
+        3297,
+        286,
+        2274,
+        3230,
+        25712,
+        11,
+        262,
+        4485,
+        286,
+        7702,
+        50891
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2205120612835062,
+      "compression_ratio": 1.5847750865051904,
+      "no_speech_prob": 0.07533394545316696,
+      "words": [
+        {
+          "word": " all,",
+          "start": 62.4,
+          "end": 62.64,
+          "probability": 0.9924473762512207
+        },
+        {
+          "word": " see",
+          "start": 62.8,
+          "end": 63.22,
+          "probability": 0.9967725872993469
+        },
+        {
+          "word": " these",
+          "start": 63.22,
+          "end": 63.54,
+          "probability": 0.34640148282051086
+        },
+        {
+          "word": " sort",
+          "start": 63.54,
+          "end": 63.62,
+          "probability": 0.5254517197608948
+        },
+        {
+          "word": " of",
+          "start": 63.62,
+          "end": 63.76,
+          "probability": 0.9968120455741882
+        },
+        {
+          "word": " recent",
+          "start": 63.76,
+          "end": 64.1,
+          "probability": 0.9973107576370239
+        },
+        {
+          "word": " international",
+          "start": 64.1,
+          "end": 64.84,
+          "probability": 0.9872435927391052
+        },
+        {
+          "word": " crises,",
+          "start": 64.84,
+          "end": 65.38,
+          "probability": 0.9864389896392822
+        },
+        {
+          "word": " the",
+          "start": 65.88,
+          "end": 66.16,
+          "probability": 0.9975789189338684
+        },
+        {
+          "word": " rise",
+          "start": 66.16,
+          "end": 66.38,
+          "probability": 0.9995782971382141
+        },
+        {
+          "word": " of",
+          "start": 66.38,
+          "end": 66.8,
+          "probability": 0.9992973804473877
+        },
+        {
+          "word": " radical",
+          "start": 66.8,
+          "end": 67.34,
+          "probability": 0.9874909520149231
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5674,
+      "start": 67.34,
+      "end": 72.1,
+      "text": " Islamism in the Middle East since the 1950s, the Iranian Revolution of 1979,",
+      "tokens": [
+        50891,
+        3449,
+        1042,
+        287,
+        262,
+        6046,
+        3687,
+        1201,
+        262,
+        11445,
+        82,
+        11,
+        262,
+        10704,
+        9303,
+        286,
+        13521,
+        11,
+        51121
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2205120612835062,
+      "compression_ratio": 1.5847750865051904,
+      "no_speech_prob": 0.07533394545316696,
+      "words": [
+        {
+          "word": " Islamism",
+          "start": 67.34,
+          "end": 67.88,
+          "probability": 0.9704225361347198
+        },
+        {
+          "word": " in",
+          "start": 67.88,
+          "end": 68.02,
+          "probability": 0.9948505759239197
+        },
+        {
+          "word": " the",
+          "start": 68.02,
+          "end": 68.14,
+          "probability": 0.9994258880615234
+        },
+        {
+          "word": " Middle",
+          "start": 68.14,
+          "end": 68.3,
+          "probability": 0.9979263544082642
+        },
+        {
+          "word": " East",
+          "start": 68.3,
+          "end": 68.58,
+          "probability": 0.9989548921585083
+        },
+        {
+          "word": " since",
+          "start": 68.58,
+          "end": 68.78,
+          "probability": 0.9712196588516235
+        },
+        {
+          "word": " the",
+          "start": 68.78,
+          "end": 68.96,
+          "probability": 0.9983789920806885
+        },
+        {
+          "word": " 1950s,",
+          "start": 68.96,
+          "end": 69.76,
+          "probability": 0.9879895746707916
+        },
+        {
+          "word": " the",
+          "start": 69.98,
+          "end": 70.18,
+          "probability": 0.9961097836494446
+        },
+        {
+          "word": " Iranian",
+          "start": 70.18,
+          "end": 70.56,
+          "probability": 0.9971008896827698
+        },
+        {
+          "word": " Revolution",
+          "start": 70.56,
+          "end": 71.08,
+          "probability": 0.40294989943504333
+        },
+        {
+          "word": " of",
+          "start": 71.08,
+          "end": 71.34,
+          "probability": 0.987079918384552
+        },
+        {
+          "word": " 1979,",
+          "start": 71.34,
+          "end": 72.1,
+          "probability": 0.9975511431694031
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5674,
+      "start": 72.42,
+      "end": 78.62,
+      "text": " the rise of Al Qaeda in the 1990s, the 9-11 attack in 2001, as sort of flash",
+      "tokens": [
+        51121,
+        262,
+        4485,
+        286,
+        978,
+        17942,
+        287,
+        262,
+        6303,
+        82,
+        11,
+        262,
+        860,
+        12,
+        1157,
+        1368,
+        287,
+        5878,
+        11,
+        355,
+        3297,
+        286,
+        7644,
+        51451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2205120612835062,
+      "compression_ratio": 1.5847750865051904,
+      "no_speech_prob": 0.07533394545316696,
+      "words": [
+        {
+          "word": " the",
+          "start": 72.42,
+          "end": 72.5,
+          "probability": 0.993294894695282
+        },
+        {
+          "word": " rise",
+          "start": 72.5,
+          "end": 73.12,
+          "probability": 0.9959824085235596
+        },
+        {
+          "word": " of",
+          "start": 73.12,
+          "end": 73.3,
+          "probability": 0.9751123785972595
+        },
+        {
+          "word": " Al",
+          "start": 73.3,
+          "end": 73.54,
+          "probability": 0.50469571352005
+        },
+        {
+          "word": " Qaeda",
+          "start": 73.54,
+          "end": 73.74,
+          "probability": 0.603122353553772
+        },
+        {
+          "word": " in",
+          "start": 73.74,
+          "end": 74.16,
+          "probability": 0.9962297081947327
+        },
+        {
+          "word": " the",
+          "start": 74.16,
+          "end": 74.28,
+          "probability": 0.9992092847824097
+        },
+        {
+          "word": " 1990s,",
+          "start": 74.28,
+          "end": 75.1,
+          "probability": 0.9929491579532623
+        },
+        {
+          "word": " the",
+          "start": 75.42,
+          "end": 75.74,
+          "probability": 0.9878405928611755
+        },
+        {
+          "word": " 9",
+          "start": 75.74,
+          "end": 75.94,
+          "probability": 0.9909381866455078
+        },
+        {
+          "word": "-11",
+          "start": 75.94,
+          "end": 76.18,
+          "probability": 0.5100614009425044
+        },
+        {
+          "word": " attack",
+          "start": 76.18,
+          "end": 76.5,
+          "probability": 0.987183690071106
+        },
+        {
+          "word": " in",
+          "start": 76.5,
+          "end": 76.68,
+          "probability": 0.9976810216903687
+        },
+        {
+          "word": " 2001,",
+          "start": 76.68,
+          "end": 77.4,
+          "probability": 0.9981920123100281
+        },
+        {
+          "word": " as",
+          "start": 77.9,
+          "end": 78.06,
+          "probability": 0.9941967725753784
+        },
+        {
+          "word": " sort",
+          "start": 78.06,
+          "end": 78.18,
+          "probability": 0.9605340361595154
+        },
+        {
+          "word": " of",
+          "start": 78.18,
+          "end": 78.34,
+          "probability": 0.9990278482437134
+        },
+        {
+          "word": " flash",
+          "start": 78.34,
+          "end": 78.62,
+          "probability": 0.9976021647453308
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5674,
+      "start": 78.62,
+      "end": 83.1,
+      "text": " points in a long-running clash of civilizations. My own view is that this",
+      "tokens": [
+        51451,
+        2173,
+        287,
+        257,
+        890,
+        12,
+        20270,
+        19122,
+        286,
+        35928,
+        13,
+        2011,
+        898,
+        1570,
+        318,
+        326,
+        428,
+        51677
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2205120612835062,
+      "compression_ratio": 1.5847750865051904,
+      "no_speech_prob": 0.07533394545316696,
+      "words": [
+        {
+          "word": " points",
+          "start": 78.62,
+          "end": 78.92,
+          "probability": 0.377705454826355
+        },
+        {
+          "word": " in",
+          "start": 78.92,
+          "end": 79.14,
+          "probability": 0.9987002611160278
+        },
+        {
+          "word": " a",
+          "start": 79.14,
+          "end": 79.34,
+          "probability": 0.9961244463920593
+        },
+        {
+          "word": " long",
+          "start": 79.34,
+          "end": 79.5,
+          "probability": 0.9992105960845947
+        },
+        {
+          "word": "-running",
+          "start": 79.5,
+          "end": 79.78,
+          "probability": 0.7999869287014008
+        },
+        {
+          "word": " clash",
+          "start": 79.78,
+          "end": 80.14,
+          "probability": 0.9955956339836121
+        },
+        {
+          "word": " of",
+          "start": 80.14,
+          "end": 80.52,
+          "probability": 0.9991077780723572
+        },
+        {
+          "word": " civilizations.",
+          "start": 80.52,
+          "end": 81.16,
+          "probability": 0.9779630303382874
+        },
+        {
+          "word": " My",
+          "start": 81.94,
+          "end": 82.24,
+          "probability": 0.9978896975517273
+        },
+        {
+          "word": " own",
+          "start": 82.24,
+          "end": 82.46,
+          "probability": 0.9990323781967163
+        },
+        {
+          "word": " view",
+          "start": 82.46,
+          "end": 82.64,
+          "probability": 0.9982390403747559
+        },
+        {
+          "word": " is",
+          "start": 82.64,
+          "end": 82.8,
+          "probability": 0.9981372356414795
+        },
+        {
+          "word": " that",
+          "start": 82.8,
+          "end": 82.96,
+          "probability": 0.9972193241119385
+        },
+        {
+          "word": " this",
+          "start": 82.96,
+          "end": 83.1,
+          "probability": 0.9989487528800964
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5674,
+      "start": 83.1,
+      "end": 86.38,
+      "text": " would be far too simplistic a framework in which to understand the complex",
+      "tokens": [
+        51677,
+        561,
+        307,
+        1290,
+        1165,
+        35010,
+        257,
+        9355,
+        287,
+        543,
+        284,
+        1833,
+        262,
+        3716,
+        51839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2205120612835062,
+      "compression_ratio": 1.5847750865051904,
+      "no_speech_prob": 0.07533394545316696,
+      "words": [
+        {
+          "word": " would",
+          "start": 83.1,
+          "end": 83.24,
+          "probability": 0.9768785834312439
+        },
+        {
+          "word": " be",
+          "start": 83.24,
+          "end": 83.4,
+          "probability": 0.9993315935134888
+        },
+        {
+          "word": " far",
+          "start": 83.4,
+          "end": 83.56,
+          "probability": 0.9988744854927063
+        },
+        {
+          "word": " too",
+          "start": 83.56,
+          "end": 83.8,
+          "probability": 0.996402382850647
+        },
+        {
+          "word": " simplistic",
+          "start": 83.8,
+          "end": 84.28,
+          "probability": 0.9991369843482971
+        },
+        {
+          "word": " a",
+          "start": 84.28,
+          "end": 84.54,
+          "probability": 0.976818323135376
+        },
+        {
+          "word": " framework",
+          "start": 84.54,
+          "end": 84.82,
+          "probability": 0.9992548823356628
+        },
+        {
+          "word": " in",
+          "start": 84.82,
+          "end": 85.12,
+          "probability": 0.9934710264205933
+        },
+        {
+          "word": " which",
+          "start": 85.12,
+          "end": 85.28,
+          "probability": 0.9997184872627258
+        },
+        {
+          "word": " to",
+          "start": 85.28,
+          "end": 85.46,
+          "probability": 0.9969340562820435
+        },
+        {
+          "word": " understand",
+          "start": 85.46,
+          "end": 85.82,
+          "probability": 0.9994854927062988
+        },
+        {
+          "word": " the",
+          "start": 85.82,
+          "end": 86.0,
+          "probability": 0.9980742931365967
+        },
+        {
+          "word": " complex",
+          "start": 86.0,
+          "end": 86.38,
+          "probability": 0.999024510383606
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8638,
+      "start": 86.38,
+      "end": 91.44,
+      "text": " politics of the Middle East. It's a framework that obscures conflict within",
+      "tokens": [
+        50365,
+        4819,
+        286,
+        262,
+        6046,
+        3687,
+        13,
+        632,
+        338,
+        257,
+        9355,
+        326,
+        10666,
+        942,
+        5358,
+        1626,
+        50619
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15144928296407065,
+      "compression_ratio": 1.5206611570247934,
+      "no_speech_prob": 0.024496115744113922,
+      "words": [
+        {
+          "word": " politics",
+          "start": 86.38,
+          "end": 86.84,
+          "probability": 0.7118417024612427
+        },
+        {
+          "word": " of",
+          "start": 86.84,
+          "end": 87.1,
+          "probability": 0.9927253723144531
+        },
+        {
+          "word": " the",
+          "start": 87.1,
+          "end": 87.24,
+          "probability": 0.9984555244445801
+        },
+        {
+          "word": " Middle",
+          "start": 87.24,
+          "end": 87.36,
+          "probability": 0.9893002510070801
+        },
+        {
+          "word": " East.",
+          "start": 87.36,
+          "end": 87.68,
+          "probability": 0.9975031018257141
+        },
+        {
+          "word": " It's",
+          "start": 88.64,
+          "end": 88.92,
+          "probability": 0.9776633083820343
+        },
+        {
+          "word": " a",
+          "start": 88.92,
+          "end": 89.26,
+          "probability": 0.9881882071495056
+        },
+        {
+          "word": " framework",
+          "start": 89.26,
+          "end": 89.78,
+          "probability": 0.9987348914146423
+        },
+        {
+          "word": " that",
+          "start": 89.78,
+          "end": 90.04,
+          "probability": 0.9990894794464111
+        },
+        {
+          "word": " obscures",
+          "start": 90.04,
+          "end": 90.48,
+          "probability": 0.9965062439441681
+        },
+        {
+          "word": " conflict",
+          "start": 90.48,
+          "end": 91.06,
+          "probability": 0.9920563101768494
+        },
+        {
+          "word": " within",
+          "start": 91.06,
+          "end": 91.44,
+          "probability": 0.9967679977416992
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8638,
+      "start": 91.44,
+      "end": 95.3,
+      "text": " the Islamic world, profound differences between Shiite",
+      "tokens": [
+        50619,
+        262,
+        5533,
+        995,
+        11,
+        11982,
+        5400,
+        1022,
+        31445,
+        50807
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15144928296407065,
+      "compression_ratio": 1.5206611570247934,
+      "no_speech_prob": 0.024496115744113922,
+      "words": [
+        {
+          "word": " the",
+          "start": 91.44,
+          "end": 91.64,
+          "probability": 0.9995500445365906
+        },
+        {
+          "word": " Islamic",
+          "start": 91.64,
+          "end": 91.98,
+          "probability": 0.9984562397003174
+        },
+        {
+          "word": " world,",
+          "start": 91.98,
+          "end": 92.42,
+          "probability": 0.989446759223938
+        },
+        {
+          "word": " profound",
+          "start": 92.82,
+          "end": 93.2,
+          "probability": 0.6656421422958374
+        },
+        {
+          "word": " differences",
+          "start": 93.2,
+          "end": 94.06,
+          "probability": 0.9962050318717957
+        },
+        {
+          "word": " between",
+          "start": 94.06,
+          "end": 94.8,
+          "probability": 0.9977995753288269
+        },
+        {
+          "word": " Shiite",
+          "start": 94.8,
+          "end": 95.3,
+          "probability": 0.7163761258125305
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8638,
+      "start": 95.3,
+      "end": 104.3,
+      "text": " Iran and its Sunni neighbors, but it's a perspective that some commentators on",
+      "tokens": [
+        50807,
+        4068,
+        290,
+        663,
+        18592,
+        12020,
+        11,
+        475,
+        340,
+        338,
+        257,
+        6650,
+        326,
+        617,
+        25699,
+        319,
+        51259
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15144928296407065,
+      "compression_ratio": 1.5206611570247934,
+      "no_speech_prob": 0.024496115744113922,
+      "words": [
+        {
+          "word": " Iran",
+          "start": 95.3,
+          "end": 95.9,
+          "probability": 0.10351458191871643
+        },
+        {
+          "word": " and",
+          "start": 95.9,
+          "end": 96.46,
+          "probability": 0.9547699689865112
+        },
+        {
+          "word": " its",
+          "start": 96.46,
+          "end": 96.68,
+          "probability": 0.9491063356399536
+        },
+        {
+          "word": " Sunni",
+          "start": 96.68,
+          "end": 97.14,
+          "probability": 0.9967118501663208
+        },
+        {
+          "word": " neighbors,",
+          "start": 97.14,
+          "end": 97.48,
+          "probability": 0.9859337210655212
+        },
+        {
+          "word": " but",
+          "start": 99.28,
+          "end": 100.34,
+          "probability": 0.9934287667274475
+        },
+        {
+          "word": " it's",
+          "start": 100.34,
+          "end": 101.26,
+          "probability": 0.9939340949058533
+        },
+        {
+          "word": " a",
+          "start": 101.26,
+          "end": 101.38,
+          "probability": 0.9961071610450745
+        },
+        {
+          "word": " perspective",
+          "start": 101.38,
+          "end": 102.04,
+          "probability": 0.9970431923866272
+        },
+        {
+          "word": " that",
+          "start": 102.04,
+          "end": 102.52,
+          "probability": 0.9987764954566956
+        },
+        {
+          "word": " some",
+          "start": 102.52,
+          "end": 103.5,
+          "probability": 0.9885727167129517
+        },
+        {
+          "word": " commentators",
+          "start": 103.5,
+          "end": 104.0,
+          "probability": 0.9989426732063293
+        },
+        {
+          "word": " on",
+          "start": 104.0,
+          "end": 104.3,
+          "probability": 0.9814687967300415
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8638,
+      "start": 104.3,
+      "end": 109.16,
+      "text": " the region would nonetheless favor. So we sort of offer it as an alternative",
+      "tokens": [
+        51259,
+        262,
+        3814,
+        561,
+        19018,
+        2661,
+        13,
+        1406,
+        356,
+        3297,
+        286,
+        2897,
+        340,
+        355,
+        281,
+        5559,
+        51507
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15144928296407065,
+      "compression_ratio": 1.5206611570247934,
+      "no_speech_prob": 0.024496115744113922,
+      "words": [
+        {
+          "word": " the",
+          "start": 104.3,
+          "end": 104.42,
+          "probability": 0.9992517828941345
+        },
+        {
+          "word": " region",
+          "start": 104.42,
+          "end": 104.78,
+          "probability": 0.9983856678009033
+        },
+        {
+          "word": " would",
+          "start": 104.78,
+          "end": 105.44,
+          "probability": 0.9970787763595581
+        },
+        {
+          "word": " nonetheless",
+          "start": 105.44,
+          "end": 106.44,
+          "probability": 0.8713016510009766
+        },
+        {
+          "word": " favor.",
+          "start": 106.44,
+          "end": 107.16,
+          "probability": 0.9798243045806885
+        },
+        {
+          "word": " So",
+          "start": 107.44,
+          "end": 107.6,
+          "probability": 0.9871349930763245
+        },
+        {
+          "word": " we",
+          "start": 107.6,
+          "end": 107.76,
+          "probability": 0.9155653119087219
+        },
+        {
+          "word": " sort",
+          "start": 107.76,
+          "end": 108.06,
+          "probability": 0.44286781549453735
+        },
+        {
+          "word": " of",
+          "start": 108.06,
+          "end": 108.18,
+          "probability": 0.9974385499954224
+        },
+        {
+          "word": " offer",
+          "start": 108.18,
+          "end": 108.42,
+          "probability": 0.9059913158416748
+        },
+        {
+          "word": " it",
+          "start": 108.42,
+          "end": 108.54,
+          "probability": 0.9940558671951294
+        },
+        {
+          "word": " as",
+          "start": 108.54,
+          "end": 108.62,
+          "probability": 0.9933138489723206
+        },
+        {
+          "word": " an",
+          "start": 108.62,
+          "end": 108.76,
+          "probability": 0.9991100430488586
+        },
+        {
+          "word": " alternative",
+          "start": 108.76,
+          "end": 109.16,
+          "probability": 0.9975368976593018
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8638,
+      "start": 109.16,
+      "end": 114.42,
+      "text": " paradigm or vantage point on events. You know, here we have, you know, once again",
+      "tokens": [
+        51507,
+        23457,
+        393,
+        47929,
+        966,
+        319,
+        2995,
+        13,
+        921,
+        760,
+        11,
+        994,
+        356,
+        423,
+        11,
+        345,
+        760,
+        11,
+        1752,
+        757,
+        51749
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15144928296407065,
+      "compression_ratio": 1.5206611570247934,
+      "no_speech_prob": 0.024496115744113922,
+      "words": [
+        {
+          "word": " paradigm",
+          "start": 109.16,
+          "end": 109.78,
+          "probability": 0.9997714161872864
+        },
+        {
+          "word": " or",
+          "start": 109.78,
+          "end": 110.3,
+          "probability": 0.8609409928321838
+        },
+        {
+          "word": " vantage",
+          "start": 110.3,
+          "end": 110.6,
+          "probability": 0.9857041239738464
+        },
+        {
+          "word": " point",
+          "start": 110.6,
+          "end": 110.96,
+          "probability": 0.9987236857414246
+        },
+        {
+          "word": " on",
+          "start": 110.96,
+          "end": 111.18,
+          "probability": 0.9979841709136963
+        },
+        {
+          "word": " events.",
+          "start": 111.18,
+          "end": 111.62,
+          "probability": 0.998618483543396
+        },
+        {
+          "word": " You",
+          "start": 112.5,
+          "end": 112.5,
+          "probability": 0.24411465227603912
+        },
+        {
+          "word": " know,",
+          "start": 112.5,
+          "end": 112.62,
+          "probability": 0.9984847903251648
+        },
+        {
+          "word": " here",
+          "start": 112.64,
+          "end": 112.74,
+          "probability": 0.9956440925598145
+        },
+        {
+          "word": " we",
+          "start": 112.74,
+          "end": 112.92,
+          "probability": 0.9585578441619873
+        },
+        {
+          "word": " have,",
+          "start": 112.92,
+          "end": 113.38,
+          "probability": 0.9989686012268066
+        },
+        {
+          "word": " you",
+          "start": 113.38,
+          "end": 113.68,
+          "probability": 0.6169034242630005
+        },
+        {
+          "word": " know,",
+          "start": 113.68,
+          "end": 113.8,
+          "probability": 0.9990919828414917
+        },
+        {
+          "word": " once",
+          "start": 113.86,
+          "end": 113.96,
+          "probability": 0.9978076815605164
+        },
+        {
+          "word": " again",
+          "start": 113.96,
+          "end": 114.42,
+          "probability": 0.999462902545929
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11442,
+      "start": 114.42,
+      "end": 120.78,
+      "text": " sort of three different perspectives. Do we see the friction that exists between",
+      "tokens": [
+        50365,
+        3297,
+        286,
+        1115,
+        1180,
+        22582,
+        13,
+        2141,
+        356,
+        766,
+        262,
+        23822,
+        326,
+        7160,
+        1022,
+        50683
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18315303488953472,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.013017894700169563,
+      "words": [
+        {
+          "word": " sort",
+          "start": 114.42,
+          "end": 114.8,
+          "probability": 0.2733854353427887
+        },
+        {
+          "word": " of",
+          "start": 114.8,
+          "end": 115.1,
+          "probability": 0.9974876642227173
+        },
+        {
+          "word": " three",
+          "start": 115.1,
+          "end": 115.46,
+          "probability": 0.8684030175209045
+        },
+        {
+          "word": " different",
+          "start": 115.46,
+          "end": 116.16,
+          "probability": 0.9693435430526733
+        },
+        {
+          "word": " perspectives.",
+          "start": 116.16,
+          "end": 116.84,
+          "probability": 0.997951090335846
+        },
+        {
+          "word": " Do",
+          "start": 117.3,
+          "end": 117.66,
+          "probability": 0.9916812777519226
+        },
+        {
+          "word": " we",
+          "start": 117.66,
+          "end": 117.82,
+          "probability": 0.9994111061096191
+        },
+        {
+          "word": " see",
+          "start": 117.82,
+          "end": 118.32,
+          "probability": 0.9991468191146851
+        },
+        {
+          "word": " the",
+          "start": 118.32,
+          "end": 119.08,
+          "probability": 0.9779148101806641
+        },
+        {
+          "word": " friction",
+          "start": 119.08,
+          "end": 119.48,
+          "probability": 0.9973843693733215
+        },
+        {
+          "word": " that",
+          "start": 119.48,
+          "end": 119.9,
+          "probability": 0.9899904727935791
+        },
+        {
+          "word": " exists",
+          "start": 119.9,
+          "end": 120.28,
+          "probability": 0.9962617754936218
+        },
+        {
+          "word": " between",
+          "start": 120.28,
+          "end": 120.78,
+          "probability": 0.998854398727417
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11442,
+      "start": 120.78,
+      "end": 127.02,
+      "text": " Iran and the United States today as a rogue state acting out, as a consequence",
+      "tokens": [
+        50683,
+        4068,
+        290,
+        262,
+        1578,
+        1829,
+        1909,
+        355,
+        257,
+        23586,
+        1181,
+        7205,
+        503,
+        11,
+        355,
+        257,
+        12921,
+        50995
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18315303488953472,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.013017894700169563,
+      "words": [
+        {
+          "word": " Iran",
+          "start": 120.78,
+          "end": 121.52,
+          "probability": 0.9959048628807068
+        },
+        {
+          "word": " and",
+          "start": 121.52,
+          "end": 121.98,
+          "probability": 0.993693470954895
+        },
+        {
+          "word": " the",
+          "start": 121.98,
+          "end": 122.12,
+          "probability": 0.9958521127700806
+        },
+        {
+          "word": " United",
+          "start": 122.12,
+          "end": 122.32,
+          "probability": 0.9957879185676575
+        },
+        {
+          "word": " States",
+          "start": 122.32,
+          "end": 122.66,
+          "probability": 0.9978259205818176
+        },
+        {
+          "word": " today",
+          "start": 122.66,
+          "end": 123.08,
+          "probability": 0.9958640336990356
+        },
+        {
+          "word": " as",
+          "start": 123.08,
+          "end": 123.96,
+          "probability": 0.9240171313285828
+        },
+        {
+          "word": " a",
+          "start": 123.96,
+          "end": 124.3,
+          "probability": 0.9946110248565674
+        },
+        {
+          "word": " rogue",
+          "start": 124.3,
+          "end": 124.48,
+          "probability": 0.9890535473823547
+        },
+        {
+          "word": " state",
+          "start": 124.48,
+          "end": 124.84,
+          "probability": 0.9879421591758728
+        },
+        {
+          "word": " acting",
+          "start": 124.84,
+          "end": 125.36,
+          "probability": 0.99273681640625
+        },
+        {
+          "word": " out,",
+          "start": 125.36,
+          "end": 125.76,
+          "probability": 0.9988195300102234
+        },
+        {
+          "word": " as",
+          "start": 125.76,
+          "end": 126.48,
+          "probability": 0.9958206415176392
+        },
+        {
+          "word": " a",
+          "start": 126.48,
+          "end": 126.66,
+          "probability": 0.9989029169082642
+        },
+        {
+          "word": " consequence",
+          "start": 126.66,
+          "end": 127.02,
+          "probability": 0.9986839890480042
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 11442,
+      "start": 127.02,
+      "end": 132.98,
+      "text": " of the West's hegemonic aspirations, or as the manifestation of a civilizational",
+      "tokens": [
+        50995,
+        286,
+        262,
+        2688,
+        338,
+        339,
+        70,
+        50016,
+        27337,
+        11,
+        393,
+        355,
+        262,
+        30566,
+        286,
+        257,
+        3026,
+        22684,
+        51295
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18315303488953472,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.013017894700169563,
+      "words": [
+        {
+          "word": " of",
+          "start": 127.02,
+          "end": 127.22,
+          "probability": 0.998204231262207
+        },
+        {
+          "word": " the",
+          "start": 127.22,
+          "end": 127.38,
+          "probability": 0.9981887936592102
+        },
+        {
+          "word": " West's",
+          "start": 127.38,
+          "end": 127.82,
+          "probability": 0.91378253698349
+        },
+        {
+          "word": " hegemonic",
+          "start": 127.82,
+          "end": 128.2,
+          "probability": 0.9955636858940125
+        },
+        {
+          "word": " aspirations,",
+          "start": 128.2,
+          "end": 129.04,
+          "probability": 0.9959419369697571
+        },
+        {
+          "word": " or",
+          "start": 129.04,
+          "end": 130.0,
+          "probability": 0.9953743815422058
+        },
+        {
+          "word": " as",
+          "start": 130.0,
+          "end": 130.18,
+          "probability": 0.810900866985321
+        },
+        {
+          "word": " the",
+          "start": 130.18,
+          "end": 130.64,
+          "probability": 0.9976744055747986
+        },
+        {
+          "word": " manifestation",
+          "start": 130.64,
+          "end": 131.28,
+          "probability": 0.9961380362510681
+        },
+        {
+          "word": " of",
+          "start": 131.28,
+          "end": 132.06,
+          "probability": 0.9992514252662659
+        },
+        {
+          "word": " a",
+          "start": 132.06,
+          "end": 132.26,
+          "probability": 0.978402316570282
+        },
+        {
+          "word": " civilizational",
+          "start": 132.26,
+          "end": 132.98,
+          "probability": 0.9812309741973877
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11442,
+      "start": 132.98,
+      "end": 143.1,
+      "text": " clash that is perhaps over a millennium old? So three different perspectives. I'm",
+      "tokens": [
+        51295,
+        19122,
+        326,
+        318,
+        3737,
+        625,
+        257,
+        39210,
+        1468,
+        30,
+        1406,
+        1115,
+        1180,
+        22582,
+        13,
+        314,
+        1101,
+        51603
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18315303488953472,
+      "compression_ratio": 1.5940594059405941,
+      "no_speech_prob": 0.013017894700169563,
+      "words": [
+        {
+          "word": " clash",
+          "start": 132.98,
+          "end": 133.58,
+          "probability": 0.9989243149757385
+        },
+        {
+          "word": " that",
+          "start": 133.58,
+          "end": 134.3,
+          "probability": 0.9589475989341736
+        },
+        {
+          "word": " is",
+          "start": 134.3,
+          "end": 134.5,
+          "probability": 0.9967376589775085
+        },
+        {
+          "word": " perhaps",
+          "start": 134.5,
+          "end": 134.98,
+          "probability": 0.9200778007507324
+        },
+        {
+          "word": " over",
+          "start": 134.98,
+          "end": 135.38,
+          "probability": 0.9593527317047119
+        },
+        {
+          "word": " a",
+          "start": 135.38,
+          "end": 135.66,
+          "probability": 0.9945205450057983
+        },
+        {
+          "word": " millennium",
+          "start": 135.66,
+          "end": 135.96,
+          "probability": 0.9808837175369263
+        },
+        {
+          "word": " old?",
+          "start": 135.96,
+          "end": 136.64,
+          "probability": 0.9955770969390869
+        },
+        {
+          "word": " So",
+          "start": 137.08,
+          "end": 137.38,
+          "probability": 0.967387855052948
+        },
+        {
+          "word": " three",
+          "start": 137.38,
+          "end": 137.6,
+          "probability": 0.7904393672943115
+        },
+        {
+          "word": " different",
+          "start": 137.6,
+          "end": 137.9,
+          "probability": 0.9991994500160217
+        },
+        {
+          "word": " perspectives.",
+          "start": 137.9,
+          "end": 138.46,
+          "probability": 0.9992440938949585
+        },
+        {
+          "word": " I'm",
+          "start": 142.28,
+          "end": 143.1,
+          "probability": 0.9975024461746216
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 14310,
+      "start": 143.1,
+      "end": 147.62,
+      "text": " not saying that the United States is correct as a singular construct, but",
+      "tokens": [
+        50363,
+        407,
+        2282,
+        326,
+        262,
+        1578,
+        1829,
+        318,
+        3376,
+        355,
+        257,
+        18032,
+        5678,
+        11,
+        475,
+        50591
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2833711794107267,
+      "compression_ratio": 1.6715328467153285,
+      "no_speech_prob": 0.3475380539894104,
+      "words": [
+        {
+          "word": " not",
+          "start": 143.1,
+          "end": 143.58,
+          "probability": 0.0014530010521411896
+        },
+        {
+          "word": " saying",
+          "start": 143.58,
+          "end": 143.58,
+          "probability": 0.0005293518770486116
+        },
+        {
+          "word": " that",
+          "start": 143.58,
+          "end": 143.58,
+          "probability": 0.3666200637817383
+        },
+        {
+          "word": " the",
+          "start": 143.58,
+          "end": 143.58,
+          "probability": 0.11933968961238861
+        },
+        {
+          "word": " United",
+          "start": 143.58,
+          "end": 143.58,
+          "probability": 0.02600511536002159
+        },
+        {
+          "word": " States",
+          "start": 143.58,
+          "end": 143.58,
+          "probability": 0.8658072352409363
+        },
+        {
+          "word": " is",
+          "start": 143.58,
+          "end": 143.58,
+          "probability": 0.6424184441566467
+        },
+        {
+          "word": " correct",
+          "start": 143.58,
+          "end": 143.58,
+          "probability": 0.8427020907402039
+        },
+        {
+          "word": " as",
+          "start": 143.58,
+          "end": 144.34,
+          "probability": 0.9150020480155945
+        },
+        {
+          "word": " a",
+          "start": 144.34,
+          "end": 144.7,
+          "probability": 0.9807733297348022
+        },
+        {
+          "word": " singular",
+          "start": 144.7,
+          "end": 145.28,
+          "probability": 0.8073734045028687
+        },
+        {
+          "word": " construct,",
+          "start": 145.28,
+          "end": 146.7,
+          "probability": 0.9903711676597595
+        },
+        {
+          "word": " but",
+          "start": 147.1,
+          "end": 147.62,
+          "probability": 0.9962714910507202
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 14310,
+      "start": 147.62,
+      "end": 151.78,
+      "text": " thinking about how events look from different perspectives helps us to get a",
+      "tokens": [
+        50591,
+        3612,
+        546,
+        703,
+        2995,
+        804,
+        422,
+        1180,
+        22582,
+        5419,
+        514,
+        284,
+        651,
+        257,
+        50787
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2833711794107267,
+      "compression_ratio": 1.6715328467153285,
+      "no_speech_prob": 0.3475380539894104,
+      "words": [
+        {
+          "word": " thinking",
+          "start": 147.62,
+          "end": 148.12,
+          "probability": 0.9976199269294739
+        },
+        {
+          "word": " about",
+          "start": 148.12,
+          "end": 148.5,
+          "probability": 0.9978001713752747
+        },
+        {
+          "word": " how",
+          "start": 148.5,
+          "end": 148.78,
+          "probability": 0.9968422651290894
+        },
+        {
+          "word": " events",
+          "start": 148.78,
+          "end": 149.08,
+          "probability": 0.9920014142990112
+        },
+        {
+          "word": " look",
+          "start": 149.08,
+          "end": 149.4,
+          "probability": 0.9945774078369141
+        },
+        {
+          "word": " from",
+          "start": 149.4,
+          "end": 149.78,
+          "probability": 0.9614812731742859
+        },
+        {
+          "word": " different",
+          "start": 149.78,
+          "end": 150.06,
+          "probability": 0.5894909501075745
+        },
+        {
+          "word": " perspectives",
+          "start": 150.06,
+          "end": 150.56,
+          "probability": 0.34824416041374207
+        },
+        {
+          "word": " helps",
+          "start": 150.56,
+          "end": 151.22,
+          "probability": 0.9177754521369934
+        },
+        {
+          "word": " us",
+          "start": 151.22,
+          "end": 151.38,
+          "probability": 0.9750272631645203
+        },
+        {
+          "word": " to",
+          "start": 151.38,
+          "end": 151.48,
+          "probability": 0.9760667085647583
+        },
+        {
+          "word": " get",
+          "start": 151.48,
+          "end": 151.56,
+          "probability": 0.9949072003364563
+        },
+        {
+          "word": " a",
+          "start": 151.56,
+          "end": 151.78,
+          "probability": 0.9939478635787964
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 14310,
+      "start": 151.78,
+      "end": 156.26,
+      "text": " handle on the range of possible interpretations. That's really important",
+      "tokens": [
+        50787,
+        5412,
+        319,
+        262,
+        2837,
+        286,
+        1744,
+        26146,
+        13,
+        1320,
+        338,
+        1107,
+        1593,
+        51021
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2833711794107267,
+      "compression_ratio": 1.6715328467153285,
+      "no_speech_prob": 0.3475380539894104,
+      "words": [
+        {
+          "word": " handle",
+          "start": 151.78,
+          "end": 152.04,
+          "probability": 0.9991508722305298
+        },
+        {
+          "word": " on",
+          "start": 152.04,
+          "end": 152.48,
+          "probability": 0.9960874319076538
+        },
+        {
+          "word": " the",
+          "start": 152.48,
+          "end": 152.62,
+          "probability": 0.989062488079071
+        },
+        {
+          "word": " range",
+          "start": 152.62,
+          "end": 153.04,
+          "probability": 0.9933038353919983
+        },
+        {
+          "word": " of",
+          "start": 153.04,
+          "end": 153.54,
+          "probability": 0.9937888979911804
+        },
+        {
+          "word": " possible",
+          "start": 153.54,
+          "end": 154.18,
+          "probability": 0.8924117684364319
+        },
+        {
+          "word": " interpretations.",
+          "start": 154.18,
+          "end": 154.88,
+          "probability": 0.9762553572654724
+        },
+        {
+          "word": " That's",
+          "start": 155.42,
+          "end": 155.68,
+          "probability": 0.7438907325267792
+        },
+        {
+          "word": " really",
+          "start": 155.68,
+          "end": 155.86,
+          "probability": 0.9896135926246643
+        },
+        {
+          "word": " important",
+          "start": 155.86,
+          "end": 156.26,
+          "probability": 0.9994056224822998
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 14310,
+      "start": 156.26,
+      "end": 161.04,
+      "text": " because not everybody sees events in the same way. The Iranians may see the",
+      "tokens": [
+        51021,
+        780,
+        407,
+        7288,
+        7224,
+        2995,
+        287,
+        262,
+        976,
+        835,
+        13,
+        383,
+        34608,
+        743,
+        766,
+        262,
+        51255
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2833711794107267,
+      "compression_ratio": 1.6715328467153285,
+      "no_speech_prob": 0.3475380539894104,
+      "words": [
+        {
+          "word": " because",
+          "start": 156.26,
+          "end": 156.96,
+          "probability": 0.5458353161811829
+        },
+        {
+          "word": " not",
+          "start": 156.96,
+          "end": 157.16,
+          "probability": 0.9958323836326599
+        },
+        {
+          "word": " everybody",
+          "start": 157.16,
+          "end": 157.48,
+          "probability": 0.9477084279060364
+        },
+        {
+          "word": " sees",
+          "start": 157.48,
+          "end": 157.74,
+          "probability": 0.9756563305854797
+        },
+        {
+          "word": " events",
+          "start": 157.74,
+          "end": 158.02,
+          "probability": 0.9909526109695435
+        },
+        {
+          "word": " in",
+          "start": 158.02,
+          "end": 158.2,
+          "probability": 0.9657377004623413
+        },
+        {
+          "word": " the",
+          "start": 158.2,
+          "end": 158.3,
+          "probability": 0.9984423518180847
+        },
+        {
+          "word": " same",
+          "start": 158.3,
+          "end": 158.46,
+          "probability": 0.9993665814399719
+        },
+        {
+          "word": " way.",
+          "start": 158.46,
+          "end": 158.8,
+          "probability": 0.9984629154205322
+        },
+        {
+          "word": " The",
+          "start": 159.2,
+          "end": 159.34,
+          "probability": 0.9906163811683655
+        },
+        {
+          "word": " Iranians",
+          "start": 159.34,
+          "end": 159.76,
+          "probability": 0.9977003931999207
+        },
+        {
+          "word": " may",
+          "start": 159.76,
+          "end": 160.14,
+          "probability": 0.9944357872009277
+        },
+        {
+          "word": " see",
+          "start": 160.14,
+          "end": 160.52,
+          "probability": 0.9983396530151367
+        },
+        {
+          "word": " the",
+          "start": 160.52,
+          "end": 161.04,
+          "probability": 0.9858011603355408
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 14310,
+      "start": 161.04,
+      "end": 165.48,
+      "text": " conflict over the Straits of Hormuz in very different terms from those in which",
+      "tokens": [
+        51255,
+        5358,
+        625,
+        262,
+        15195,
+        896,
+        286,
+        367,
+        579,
+        10277,
+        287,
+        845,
+        1180,
+        2846,
+        422,
+        883,
+        287,
+        543,
+        51473
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2833711794107267,
+      "compression_ratio": 1.6715328467153285,
+      "no_speech_prob": 0.3475380539894104,
+      "words": [
+        {
+          "word": " conflict",
+          "start": 161.04,
+          "end": 161.46,
+          "probability": 0.9900109171867371
+        },
+        {
+          "word": " over",
+          "start": 161.46,
+          "end": 162.1,
+          "probability": 0.9563809633255005
+        },
+        {
+          "word": " the",
+          "start": 162.1,
+          "end": 162.3,
+          "probability": 0.9979076385498047
+        },
+        {
+          "word": " Straits",
+          "start": 162.3,
+          "end": 162.48,
+          "probability": 0.8363288342952728
+        },
+        {
+          "word": " of",
+          "start": 162.48,
+          "end": 162.68,
+          "probability": 0.9958770275115967
+        },
+        {
+          "word": " Hormuz",
+          "start": 162.68,
+          "end": 163.0,
+          "probability": 0.5782551368077596
+        },
+        {
+          "word": " in",
+          "start": 163.0,
+          "end": 163.82,
+          "probability": 0.9750574231147766
+        },
+        {
+          "word": " very",
+          "start": 163.82,
+          "end": 164.02,
+          "probability": 0.9890674948692322
+        },
+        {
+          "word": " different",
+          "start": 164.02,
+          "end": 164.34,
+          "probability": 0.9984660148620605
+        },
+        {
+          "word": " terms",
+          "start": 164.34,
+          "end": 164.68,
+          "probability": 0.9947516322135925
+        },
+        {
+          "word": " from",
+          "start": 164.68,
+          "end": 164.94,
+          "probability": 0.927134096622467
+        },
+        {
+          "word": " those",
+          "start": 164.94,
+          "end": 165.14,
+          "probability": 0.9944883584976196
+        },
+        {
+          "word": " in",
+          "start": 165.14,
+          "end": 165.32,
+          "probability": 0.9739608764648438
+        },
+        {
+          "word": " which",
+          "start": 165.32,
+          "end": 165.48,
+          "probability": 0.9991936087608337
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 14310,
+      "start": 165.48,
+      "end": 170.68,
+      "text": " we see them, and it's important for us to think about the historical reference",
+      "tokens": [
+        51473,
+        356,
+        766,
+        606,
+        11,
+        290,
+        340,
+        338,
+        1593,
+        329,
+        514,
+        284,
+        892,
+        546,
+        262,
+        6754,
+        4941,
+        51743
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2833711794107267,
+      "compression_ratio": 1.6715328467153285,
+      "no_speech_prob": 0.3475380539894104,
+      "words": [
+        {
+          "word": " we",
+          "start": 165.48,
+          "end": 165.68,
+          "probability": 0.9987509250640869
+        },
+        {
+          "word": " see",
+          "start": 165.68,
+          "end": 165.88,
+          "probability": 0.9973350167274475
+        },
+        {
+          "word": " them,",
+          "start": 165.88,
+          "end": 166.16,
+          "probability": 0.9899805188179016
+        },
+        {
+          "word": " and",
+          "start": 166.16,
+          "end": 166.64,
+          "probability": 0.9971691966056824
+        },
+        {
+          "word": " it's",
+          "start": 166.64,
+          "end": 166.82,
+          "probability": 0.9887781739234924
+        },
+        {
+          "word": " important",
+          "start": 166.82,
+          "end": 167.12,
+          "probability": 0.9983795881271362
+        },
+        {
+          "word": " for",
+          "start": 167.12,
+          "end": 167.36,
+          "probability": 0.9895588159561157
+        },
+        {
+          "word": " us",
+          "start": 167.36,
+          "end": 167.46,
+          "probability": 0.9993515610694885
+        },
+        {
+          "word": " to",
+          "start": 167.46,
+          "end": 167.62,
+          "probability": 0.9983254075050354
+        },
+        {
+          "word": " think",
+          "start": 167.62,
+          "end": 167.8,
+          "probability": 0.9990037083625793
+        },
+        {
+          "word": " about",
+          "start": 167.8,
+          "end": 168.14,
+          "probability": 0.9986642599105835
+        },
+        {
+          "word": " the",
+          "start": 168.14,
+          "end": 169.32,
+          "probability": 0.9954589605331421
+        },
+        {
+          "word": " historical",
+          "start": 169.32,
+          "end": 169.96,
+          "probability": 0.9975444674491882
+        },
+        {
+          "word": " reference",
+          "start": 169.96,
+          "end": 170.68,
+          "probability": 0.9892047643661499
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 17068,
+      "start": 170.68,
+      "end": 176.8,
+      "text": " points that Iranian leaders might use to, you know, comprehend an existing crisis.",
+      "tokens": [
+        50367,
+        2173,
+        326,
+        10704,
+        2766,
+        1244,
+        779,
+        284,
+        11,
+        345,
+        760,
+        11,
+        24772,
+        281,
+        4683,
+        4902,
+        13,
+        50735
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11649059903794441,
+      "compression_ratio": 1.497584541062802,
+      "no_speech_prob": 0.031934887170791626,
+      "words": [
+        {
+          "word": " points",
+          "start": 170.68,
+          "end": 171.08,
+          "probability": 0.9058155417442322
+        },
+        {
+          "word": " that",
+          "start": 171.08,
+          "end": 171.6,
+          "probability": 0.9550626873970032
+        },
+        {
+          "word": " Iranian",
+          "start": 171.6,
+          "end": 171.94,
+          "probability": 0.9893157482147217
+        },
+        {
+          "word": " leaders",
+          "start": 171.94,
+          "end": 172.32,
+          "probability": 0.9970689415931702
+        },
+        {
+          "word": " might",
+          "start": 172.32,
+          "end": 172.84,
+          "probability": 0.991661548614502
+        },
+        {
+          "word": " use",
+          "start": 172.84,
+          "end": 173.24,
+          "probability": 0.9968389272689819
+        },
+        {
+          "word": " to,",
+          "start": 173.24,
+          "end": 173.6,
+          "probability": 0.997627317905426
+        },
+        {
+          "word": " you",
+          "start": 173.6,
+          "end": 173.7,
+          "probability": 0.996900200843811
+        },
+        {
+          "word": " know,",
+          "start": 173.7,
+          "end": 173.84,
+          "probability": 0.9990585446357727
+        },
+        {
+          "word": " comprehend",
+          "start": 173.88,
+          "end": 174.3,
+          "probability": 0.9955875873565674
+        },
+        {
+          "word": " an",
+          "start": 174.3,
+          "end": 175.54,
+          "probability": 0.9759148955345154
+        },
+        {
+          "word": " existing",
+          "start": 175.54,
+          "end": 176.02,
+          "probability": 0.9966186285018921
+        },
+        {
+          "word": " crisis.",
+          "start": 176.02,
+          "end": 176.8,
+          "probability": 0.9887970685958862
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 17068,
+      "start": 178.46,
+      "end": 184.44,
+      "text": " So what then is the sort of utility for historians of the kinds of explanatory",
+      "tokens": [
+        50735,
+        1406,
+        644,
+        788,
+        318,
+        262,
+        3297,
+        286,
+        10361,
+        329,
+        21262,
+        286,
+        262,
+        6982,
+        286,
+        44742,
+        51051
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11649059903794441,
+      "compression_ratio": 1.497584541062802,
+      "no_speech_prob": 0.031934887170791626,
+      "words": [
+        {
+          "word": " So",
+          "start": 178.46,
+          "end": 179.18,
+          "probability": 0.9942691326141357
+        },
+        {
+          "word": " what",
+          "start": 179.18,
+          "end": 179.38,
+          "probability": 0.891101062297821
+        },
+        {
+          "word": " then",
+          "start": 179.38,
+          "end": 179.56,
+          "probability": 0.8637983202934265
+        },
+        {
+          "word": " is",
+          "start": 179.56,
+          "end": 179.78,
+          "probability": 0.9594259262084961
+        },
+        {
+          "word": " the",
+          "start": 179.78,
+          "end": 180.02,
+          "probability": 0.9792246222496033
+        },
+        {
+          "word": " sort",
+          "start": 180.02,
+          "end": 180.2,
+          "probability": 0.8305919170379639
+        },
+        {
+          "word": " of",
+          "start": 180.2,
+          "end": 180.32,
+          "probability": 0.9984180927276611
+        },
+        {
+          "word": " utility",
+          "start": 180.32,
+          "end": 180.78,
+          "probability": 0.9893139004707336
+        },
+        {
+          "word": " for",
+          "start": 180.78,
+          "end": 181.4,
+          "probability": 0.9927721619606018
+        },
+        {
+          "word": " historians",
+          "start": 181.4,
+          "end": 182.36,
+          "probability": 0.9471752047538757
+        },
+        {
+          "word": " of",
+          "start": 182.36,
+          "end": 182.74,
+          "probability": 0.9893073439598083
+        },
+        {
+          "word": " the",
+          "start": 182.74,
+          "end": 182.94,
+          "probability": 0.999384880065918
+        },
+        {
+          "word": " kinds",
+          "start": 182.94,
+          "end": 183.32,
+          "probability": 0.9912603497505188
+        },
+        {
+          "word": " of",
+          "start": 183.32,
+          "end": 183.62,
+          "probability": 0.9993300437927246
+        },
+        {
+          "word": " explanatory",
+          "start": 183.62,
+          "end": 184.44,
+          "probability": 0.9869709014892578
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 17068,
+      "start": 184.44,
+      "end": 191.24,
+      "text": " narrative that I've just constructed? By linking particular events to sort of",
+      "tokens": [
+        51051,
+        8689,
+        326,
+        314,
+        1053,
+        655,
+        12006,
+        30,
+        2750,
+        17795,
+        1948,
+        2995,
+        284,
+        3297,
+        286,
+        51387
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11649059903794441,
+      "compression_ratio": 1.497584541062802,
+      "no_speech_prob": 0.031934887170791626,
+      "words": [
+        {
+          "word": " narrative",
+          "start": 184.44,
+          "end": 184.94,
+          "probability": 0.9881796836853027
+        },
+        {
+          "word": " that",
+          "start": 184.94,
+          "end": 185.5,
+          "probability": 0.9963129162788391
+        },
+        {
+          "word": " I've",
+          "start": 185.5,
+          "end": 185.68,
+          "probability": 0.981377363204956
+        },
+        {
+          "word": " just",
+          "start": 185.68,
+          "end": 185.96,
+          "probability": 0.9993257522583008
+        },
+        {
+          "word": " constructed?",
+          "start": 185.96,
+          "end": 186.82,
+          "probability": 0.9944151639938354
+        },
+        {
+          "word": " By",
+          "start": 187.76,
+          "end": 188.48,
+          "probability": 0.9973758459091187
+        },
+        {
+          "word": " linking",
+          "start": 188.48,
+          "end": 189.0,
+          "probability": 0.9994089603424072
+        },
+        {
+          "word": " particular",
+          "start": 189.0,
+          "end": 189.82,
+          "probability": 0.6339316964149475
+        },
+        {
+          "word": " events",
+          "start": 189.82,
+          "end": 190.3,
+          "probability": 0.9990257024765015
+        },
+        {
+          "word": " to",
+          "start": 190.3,
+          "end": 190.84,
+          "probability": 0.995526134967804
+        },
+        {
+          "word": " sort",
+          "start": 190.84,
+          "end": 191.08,
+          "probability": 0.6682134866714478
+        },
+        {
+          "word": " of",
+          "start": 191.08,
+          "end": 191.24,
+          "probability": 0.9947392344474792
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 17068,
+      "start": 191.24,
+      "end": 196.26,
+      "text": " larger frameworks of meaning, what do we accomplish? I think the first",
+      "tokens": [
+        51387,
+        4025,
+        29251,
+        286,
+        3616,
+        11,
+        644,
+        466,
+        356,
+        9989,
+        30,
+        314,
+        892,
+        262,
+        717,
+        51637
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11649059903794441,
+      "compression_ratio": 1.497584541062802,
+      "no_speech_prob": 0.031934887170791626,
+      "words": [
+        {
+          "word": " larger",
+          "start": 191.24,
+          "end": 191.58,
+          "probability": 0.9912681579589844
+        },
+        {
+          "word": " frameworks",
+          "start": 191.58,
+          "end": 192.18,
+          "probability": 0.9989120960235596
+        },
+        {
+          "word": " of",
+          "start": 192.18,
+          "end": 192.5,
+          "probability": 0.9988871216773987
+        },
+        {
+          "word": " meaning,",
+          "start": 192.5,
+          "end": 192.78,
+          "probability": 0.9955000281333923
+        },
+        {
+          "word": " what",
+          "start": 193.22,
+          "end": 193.54,
+          "probability": 0.997593104839325
+        },
+        {
+          "word": " do",
+          "start": 193.54,
+          "end": 193.66,
+          "probability": 0.9975985884666443
+        },
+        {
+          "word": " we",
+          "start": 193.66,
+          "end": 194.28,
+          "probability": 0.9977487921714783
+        },
+        {
+          "word": " accomplish?",
+          "start": 194.28,
+          "end": 194.66,
+          "probability": 0.7251034379005432
+        },
+        {
+          "word": " I",
+          "start": 195.68,
+          "end": 195.76,
+          "probability": 0.79934161901474
+        },
+        {
+          "word": " think",
+          "start": 195.76,
+          "end": 195.86,
+          "probability": 0.9698411226272583
+        },
+        {
+          "word": " the",
+          "start": 195.86,
+          "end": 196.0,
+          "probability": 0.9938451647758484
+        },
+        {
+          "word": " first",
+          "start": 196.0,
+          "end": 196.26,
+          "probability": 0.9994584918022156
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 19626,
+      "start": 196.26,
+      "end": 203.54,
+      "text": " thing we do is we connect the present to the past in ways that help us to",
+      "tokens": [
+        50363,
+        1517,
+        356,
+        466,
+        318,
+        356,
+        2018,
+        262,
+        1944,
+        284,
+        262,
+        1613,
+        287,
+        2842,
+        326,
+        1037,
+        514,
+        284,
+        50711
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12896320001402897,
+      "compression_ratio": 1.5906735751295338,
+      "no_speech_prob": 0.09389081597328186,
+      "words": [
+        {
+          "word": " thing",
+          "start": 196.26,
+          "end": 196.38,
+          "probability": 0.4579356014728546
+        },
+        {
+          "word": " we",
+          "start": 196.38,
+          "end": 196.54,
+          "probability": 0.9835447669029236
+        },
+        {
+          "word": " do",
+          "start": 196.54,
+          "end": 196.76,
+          "probability": 0.9978899359703064
+        },
+        {
+          "word": " is",
+          "start": 196.76,
+          "end": 197.08,
+          "probability": 0.9243377447128296
+        },
+        {
+          "word": " we",
+          "start": 197.08,
+          "end": 197.54,
+          "probability": 0.9649812579154968
+        },
+        {
+          "word": " connect",
+          "start": 197.54,
+          "end": 198.92,
+          "probability": 0.9867247343063354
+        },
+        {
+          "word": " the",
+          "start": 198.92,
+          "end": 199.5,
+          "probability": 0.9948115348815918
+        },
+        {
+          "word": " present",
+          "start": 199.5,
+          "end": 199.8,
+          "probability": 0.9991368651390076
+        },
+        {
+          "word": " to",
+          "start": 199.8,
+          "end": 200.24,
+          "probability": 0.9956461787223816
+        },
+        {
+          "word": " the",
+          "start": 200.24,
+          "end": 200.42,
+          "probability": 0.9988781809806824
+        },
+        {
+          "word": " past",
+          "start": 200.42,
+          "end": 200.78,
+          "probability": 0.9992427825927734
+        },
+        {
+          "word": " in",
+          "start": 200.78,
+          "end": 201.36,
+          "probability": 0.9714910984039307
+        },
+        {
+          "word": " ways",
+          "start": 201.36,
+          "end": 201.68,
+          "probability": 0.9982432126998901
+        },
+        {
+          "word": " that",
+          "start": 201.68,
+          "end": 202.0,
+          "probability": 0.9973639845848083
+        },
+        {
+          "word": " help",
+          "start": 202.0,
+          "end": 202.4,
+          "probability": 0.9853578805923462
+        },
+        {
+          "word": " us",
+          "start": 202.4,
+          "end": 202.96,
+          "probability": 0.9952486157417297
+        },
+        {
+          "word": " to",
+          "start": 202.96,
+          "end": 203.54,
+          "probability": 0.9649237394332886
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 19626,
+      "start": 203.54,
+      "end": 208.68,
+      "text": " comprehend the deepest significance of particular events. You know, we get a",
+      "tokens": [
+        50711,
+        24772,
+        262,
+        25420,
+        12085,
+        286,
+        1948,
+        2995,
+        13,
+        921,
+        760,
+        11,
+        356,
+        651,
+        257,
+        50967
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12896320001402897,
+      "compression_ratio": 1.5906735751295338,
+      "no_speech_prob": 0.09389081597328186,
+      "words": [
+        {
+          "word": " comprehend",
+          "start": 203.54,
+          "end": 204.4,
+          "probability": 0.6904925107955933
+        },
+        {
+          "word": " the",
+          "start": 204.4,
+          "end": 205.34,
+          "probability": 0.9969508647918701
+        },
+        {
+          "word": " deepest",
+          "start": 205.34,
+          "end": 205.64,
+          "probability": 0.8390777111053467
+        },
+        {
+          "word": " significance",
+          "start": 205.64,
+          "end": 206.2,
+          "probability": 0.989608108997345
+        },
+        {
+          "word": " of",
+          "start": 206.2,
+          "end": 206.52,
+          "probability": 0.9975246787071228
+        },
+        {
+          "word": " particular",
+          "start": 206.52,
+          "end": 206.96,
+          "probability": 0.9893209934234619
+        },
+        {
+          "word": " events.",
+          "start": 206.96,
+          "end": 207.42,
+          "probability": 0.9958522319793701
+        },
+        {
+          "word": " You",
+          "start": 207.96,
+          "end": 207.98,
+          "probability": 0.47768327593803406
+        },
+        {
+          "word": " know,",
+          "start": 207.98,
+          "end": 208.08,
+          "probability": 0.9987323880195618
+        },
+        {
+          "word": " we",
+          "start": 208.08,
+          "end": 208.16,
+          "probability": 0.9966112971305847
+        },
+        {
+          "word": " get",
+          "start": 208.16,
+          "end": 208.32,
+          "probability": 0.9966530203819275
+        },
+        {
+          "word": " a",
+          "start": 208.32,
+          "end": 208.68,
+          "probability": 0.9229016304016113
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 19626,
+      "start": 208.68,
+      "end": 212.76,
+      "text": " vantage point, some sense of the larger stakes and perhaps also of the larger",
+      "tokens": [
+        50967,
+        47929,
+        966,
+        11,
+        617,
+        2565,
+        286,
+        262,
+        4025,
+        21147,
+        290,
+        3737,
+        635,
+        286,
+        262,
+        4025,
+        51195
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12896320001402897,
+      "compression_ratio": 1.5906735751295338,
+      "no_speech_prob": 0.09389081597328186,
+      "words": [
+        {
+          "word": " vantage",
+          "start": 208.68,
+          "end": 209.08,
+          "probability": 0.9981254935264587
+        },
+        {
+          "word": " point,",
+          "start": 209.08,
+          "end": 209.42,
+          "probability": 0.995322048664093
+        },
+        {
+          "word": " some",
+          "start": 209.58,
+          "end": 209.86,
+          "probability": 0.9937119483947754
+        },
+        {
+          "word": " sense",
+          "start": 209.86,
+          "end": 210.24,
+          "probability": 0.998992383480072
+        },
+        {
+          "word": " of",
+          "start": 210.24,
+          "end": 210.4,
+          "probability": 0.9975391626358032
+        },
+        {
+          "word": " the",
+          "start": 210.4,
+          "end": 210.56,
+          "probability": 0.9970288872718811
+        },
+        {
+          "word": " larger",
+          "start": 210.56,
+          "end": 210.78,
+          "probability": 0.6590715646743774
+        },
+        {
+          "word": " stakes",
+          "start": 210.78,
+          "end": 211.18,
+          "probability": 0.9822775721549988
+        },
+        {
+          "word": " and",
+          "start": 211.18,
+          "end": 211.4,
+          "probability": 0.6986187696456909
+        },
+        {
+          "word": " perhaps",
+          "start": 211.4,
+          "end": 211.66,
+          "probability": 0.9758197069168091
+        },
+        {
+          "word": " also",
+          "start": 211.66,
+          "end": 212.02,
+          "probability": 0.9808916449546814
+        },
+        {
+          "word": " of",
+          "start": 212.02,
+          "end": 212.24,
+          "probability": 0.9873096346855164
+        },
+        {
+          "word": " the",
+          "start": 212.24,
+          "end": 212.42,
+          "probability": 0.9991546869277954
+        },
+        {
+          "word": " larger",
+          "start": 212.42,
+          "end": 212.76,
+          "probability": 0.995148241519928
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 19626,
+      "start": 212.76,
+      "end": 223.26,
+      "text": " consequences. We should also be aware that different narrative interpretations",
+      "tokens": [
+        51195,
+        6948,
+        13,
+        775,
+        815,
+        635,
+        307,
+        3910,
+        326,
+        1180,
+        8689,
+        26146,
+        51719
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12896320001402897,
+      "compression_ratio": 1.5906735751295338,
+      "no_speech_prob": 0.09389081597328186,
+      "words": [
+        {
+          "word": " consequences.",
+          "start": 212.76,
+          "end": 213.8,
+          "probability": 0.9980942606925964
+        },
+        {
+          "word": " We",
+          "start": 215.62,
+          "end": 216.34,
+          "probability": 0.9940314888954163
+        },
+        {
+          "word": " should",
+          "start": 216.34,
+          "end": 216.48,
+          "probability": 0.9986817240715027
+        },
+        {
+          "word": " also",
+          "start": 216.48,
+          "end": 216.9,
+          "probability": 0.9992843270301819
+        },
+        {
+          "word": " be",
+          "start": 216.9,
+          "end": 218.06,
+          "probability": 0.9974574446678162
+        },
+        {
+          "word": " aware",
+          "start": 218.06,
+          "end": 218.44,
+          "probability": 0.9995827078819275
+        },
+        {
+          "word": " that",
+          "start": 218.44,
+          "end": 219.32,
+          "probability": 0.9966589212417603
+        },
+        {
+          "word": " different",
+          "start": 219.32,
+          "end": 220.2,
+          "probability": 0.9975863695144653
+        },
+        {
+          "word": " narrative",
+          "start": 220.2,
+          "end": 222.06,
+          "probability": 0.9633451104164124
+        },
+        {
+          "word": " interpretations",
+          "start": 222.06,
+          "end": 223.26,
+          "probability": 0.9922041893005371
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 22326,
+      "start": 223.26,
+      "end": 227.44,
+      "text": " of events, different, you know, kinds of frameworks such as those which I've",
+      "tokens": [
+        50363,
+        286,
+        2995,
+        11,
+        1180,
+        11,
+        345,
+        760,
+        11,
+        6982,
+        286,
+        29251,
+        884,
+        355,
+        883,
+        543,
+        314,
+        1053,
+        50563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2770027092524937,
+      "compression_ratio": 1.457142857142857,
+      "no_speech_prob": 0.29599079489707947,
+      "words": [
+        {
+          "word": " of",
+          "start": 223.26,
+          "end": 223.54,
+          "probability": 0.19243676960468292
+        },
+        {
+          "word": " events,",
+          "start": 223.54,
+          "end": 223.92,
+          "probability": 0.9447863698005676
+        },
+        {
+          "word": " different,",
+          "start": 224.54,
+          "end": 224.84,
+          "probability": 0.8823572397232056
+        },
+        {
+          "word": " you",
+          "start": 224.84,
+          "end": 225.2,
+          "probability": 0.9692285060882568
+        },
+        {
+          "word": " know,",
+          "start": 225.2,
+          "end": 225.32,
+          "probability": 0.998599112033844
+        },
+        {
+          "word": " kinds",
+          "start": 225.4,
+          "end": 225.52,
+          "probability": 0.972413182258606
+        },
+        {
+          "word": " of",
+          "start": 225.52,
+          "end": 225.72,
+          "probability": 0.9982298016548157
+        },
+        {
+          "word": " frameworks",
+          "start": 225.72,
+          "end": 226.14,
+          "probability": 0.9928465485572815
+        },
+        {
+          "word": " such",
+          "start": 226.14,
+          "end": 226.56,
+          "probability": 0.6734967231750488
+        },
+        {
+          "word": " as",
+          "start": 226.56,
+          "end": 226.76,
+          "probability": 0.9976689219474792
+        },
+        {
+          "word": " those",
+          "start": 226.76,
+          "end": 226.98,
+          "probability": 0.9970632195472717
+        },
+        {
+          "word": " which",
+          "start": 226.98,
+          "end": 227.16,
+          "probability": 0.9533030390739441
+        },
+        {
+          "word": " I've",
+          "start": 227.16,
+          "end": 227.44,
+          "probability": 0.7219512760639191
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 22326,
+      "start": 227.44,
+      "end": 232.68,
+      "text": " proposed, carry quite different political implications, right? There are",
+      "tokens": [
+        50563,
+        5150,
+        11,
+        3283,
+        2407,
+        1180,
+        1964,
+        10939,
+        11,
+        826,
+        30,
+        1318,
+        389,
+        50831
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2770027092524937,
+      "compression_ratio": 1.457142857142857,
+      "no_speech_prob": 0.29599079489707947,
+      "words": [
+        {
+          "word": " proposed,",
+          "start": 227.44,
+          "end": 227.94,
+          "probability": 0.9982030391693115
+        },
+        {
+          "word": " carry",
+          "start": 228.44,
+          "end": 228.62,
+          "probability": 0.99553382396698
+        },
+        {
+          "word": " quite",
+          "start": 228.62,
+          "end": 228.94,
+          "probability": 0.9971373081207275
+        },
+        {
+          "word": " different",
+          "start": 228.94,
+          "end": 229.48,
+          "probability": 0.745695948600769
+        },
+        {
+          "word": " political",
+          "start": 229.48,
+          "end": 230.88,
+          "probability": 0.9370546936988831
+        },
+        {
+          "word": " implications,",
+          "start": 230.88,
+          "end": 231.78,
+          "probability": 0.9986635446548462
+        },
+        {
+          "word": " right?",
+          "start": 231.98,
+          "end": 232.08,
+          "probability": 0.992544949054718
+        },
+        {
+          "word": " There",
+          "start": 232.46,
+          "end": 232.56,
+          "probability": 0.9711483120918274
+        },
+        {
+          "word": " are",
+          "start": 232.56,
+          "end": 232.68,
+          "probability": 0.9862289428710938
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 22326,
+      "start": 232.68,
+      "end": 239.12,
+      "text": " stakes in how we comprehend particular events. The larger frameworks of meaning",
+      "tokens": [
+        50831,
+        21147,
+        287,
+        703,
+        356,
+        24772,
+        1948,
+        2995,
+        13,
+        383,
+        4025,
+        29251,
+        286,
+        3616,
+        51159
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2770027092524937,
+      "compression_ratio": 1.457142857142857,
+      "no_speech_prob": 0.29599079489707947,
+      "words": [
+        {
+          "word": " stakes",
+          "start": 232.68,
+          "end": 233.08,
+          "probability": 0.9950016140937805
+        },
+        {
+          "word": " in",
+          "start": 233.08,
+          "end": 233.58,
+          "probability": 0.9825068116188049
+        },
+        {
+          "word": " how",
+          "start": 233.58,
+          "end": 233.82,
+          "probability": 0.999352753162384
+        },
+        {
+          "word": " we",
+          "start": 233.82,
+          "end": 234.3,
+          "probability": 0.9993341565132141
+        },
+        {
+          "word": " comprehend",
+          "start": 234.3,
+          "end": 235.24,
+          "probability": 0.9734106659889221
+        },
+        {
+          "word": " particular",
+          "start": 235.24,
+          "end": 236.08,
+          "probability": 0.9345635771751404
+        },
+        {
+          "word": " events.",
+          "start": 236.08,
+          "end": 236.52,
+          "probability": 0.9976308345794678
+        },
+        {
+          "word": " The",
+          "start": 237.42,
+          "end": 237.66,
+          "probability": 0.9892830848693848
+        },
+        {
+          "word": " larger",
+          "start": 237.66,
+          "end": 238.26,
+          "probability": 0.983063280582428
+        },
+        {
+          "word": " frameworks",
+          "start": 238.26,
+          "end": 238.72,
+          "probability": 0.985382080078125
+        },
+        {
+          "word": " of",
+          "start": 238.72,
+          "end": 238.9,
+          "probability": 0.9926349520683289
+        },
+        {
+          "word": " meaning",
+          "start": 238.9,
+          "end": 239.12,
+          "probability": 0.9955481290817261
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 22326,
+      "start": 239.12,
+      "end": 239.98,
+      "text": " within which we locate...",
+      "tokens": [
+        51159,
+        1626,
+        543,
+        356,
+        17276,
+        986,
+        51299
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2770027092524937,
+      "compression_ratio": 1.457142857142857,
+      "no_speech_prob": 0.29599079489707947,
+      "words": [
+        {
+          "word": " within",
+          "start": 239.12,
+          "end": 239.42,
+          "probability": 0.9801059365272522
+        },
+        {
+          "word": " which",
+          "start": 239.42,
+          "end": 239.64,
+          "probability": 0.9858513474464417
+        },
+        {
+          "word": " we",
+          "start": 239.64,
+          "end": 239.82,
+          "probability": 0.9813979864120483
+        },
+        {
+          "word": " locate...",
+          "start": 239.82,
+          "end": 239.98,
+          "probability": 0.2884492948651314
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
