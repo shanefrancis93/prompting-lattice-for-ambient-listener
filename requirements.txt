@@ -1,0 +1,8 @@
+flask==3.0.0
+sqlalchemy>=1.4
+celery[redis]>=5.3
+openai-whisper>=20230314
+torch
+ffmpeg-python
+celery>=5.3
+pydub>=0.25
